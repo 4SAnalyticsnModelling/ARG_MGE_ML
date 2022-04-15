@@ -1,0 +1,4481 @@
+temperature,residence_time,operation,feedstock_and_co_substrate,additives_or_chemicals,pre_treatment
+15,5,Batch,Manure,No,No
+15,5,Batch,Manure,No,Yes
+15,5,Batch,Manure,Yes,No
+15,5,Batch,Manure,Yes,Yes
+15,5,Batch,Food Waste,No,No
+15,5,Batch,Food Waste,No,Yes
+15,5,Batch,Food Waste,Yes,No
+15,5,Batch,Food Waste,Yes,Yes
+15,5,Batch,Pharmaceutical Waste Sludge,No,No
+15,5,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,5,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,5,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,5,Batch,Sewage Sludge,No,No
+15,5,Batch,Sewage Sludge,No,Yes
+15,5,Batch,Sewage Sludge,Yes,No
+15,5,Batch,Sewage Sludge,Yes,Yes
+15,5,Batch,Food Waste + Manure,No,No
+15,5,Batch,Food Waste + Manure,No,Yes
+15,5,Batch,Food Waste + Manure,Yes,No
+15,5,Batch,Food Waste + Manure,Yes,Yes
+15,5,Batch,Food Waste + Oil,No,No
+15,5,Batch,Food Waste + Oil,No,Yes
+15,5,Batch,Food Waste + Oil,Yes,No
+15,5,Batch,Food Waste + Oil,Yes,Yes
+15,5,Batch,Manure + Wheat Straw,No,No
+15,5,Batch,Manure + Wheat Straw,No,Yes
+15,5,Batch,Manure + Wheat Straw,Yes,No
+15,5,Batch,Manure + Wheat Straw,Yes,Yes
+15,5,Batch,Food Waste + Sewage Sludge,No,No
+15,5,Batch,Food Waste + Sewage Sludge,No,Yes
+15,5,Batch,Food Waste + Sewage Sludge,Yes,No
+15,5,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,5,Semi-continuous,Manure,No,No
+15,5,Semi-continuous,Manure,No,Yes
+15,5,Semi-continuous,Manure,Yes,No
+15,5,Semi-continuous,Manure,Yes,Yes
+15,5,Semi-continuous,Food Waste,No,No
+15,5,Semi-continuous,Food Waste,No,Yes
+15,5,Semi-continuous,Food Waste,Yes,No
+15,5,Semi-continuous,Food Waste,Yes,Yes
+15,5,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,5,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,5,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,5,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,5,Semi-continuous,Sewage Sludge,No,No
+15,5,Semi-continuous,Sewage Sludge,No,Yes
+15,5,Semi-continuous,Sewage Sludge,Yes,No
+15,5,Semi-continuous,Sewage Sludge,Yes,Yes
+15,5,Semi-continuous,Food Waste + Manure,No,No
+15,5,Semi-continuous,Food Waste + Manure,No,Yes
+15,5,Semi-continuous,Food Waste + Manure,Yes,No
+15,5,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,5,Semi-continuous,Food Waste + Oil,No,No
+15,5,Semi-continuous,Food Waste + Oil,No,Yes
+15,5,Semi-continuous,Food Waste + Oil,Yes,No
+15,5,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,5,Semi-continuous,Manure + Wheat Straw,No,No
+15,5,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,5,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,5,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,5,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,5,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,5,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,5,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,15,Batch,Manure,No,No
+15,15,Batch,Manure,No,Yes
+15,15,Batch,Manure,Yes,No
+15,15,Batch,Manure,Yes,Yes
+15,15,Batch,Food Waste,No,No
+15,15,Batch,Food Waste,No,Yes
+15,15,Batch,Food Waste,Yes,No
+15,15,Batch,Food Waste,Yes,Yes
+15,15,Batch,Pharmaceutical Waste Sludge,No,No
+15,15,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,15,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,15,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,15,Batch,Sewage Sludge,No,No
+15,15,Batch,Sewage Sludge,No,Yes
+15,15,Batch,Sewage Sludge,Yes,No
+15,15,Batch,Sewage Sludge,Yes,Yes
+15,15,Batch,Food Waste + Manure,No,No
+15,15,Batch,Food Waste + Manure,No,Yes
+15,15,Batch,Food Waste + Manure,Yes,No
+15,15,Batch,Food Waste + Manure,Yes,Yes
+15,15,Batch,Food Waste + Oil,No,No
+15,15,Batch,Food Waste + Oil,No,Yes
+15,15,Batch,Food Waste + Oil,Yes,No
+15,15,Batch,Food Waste + Oil,Yes,Yes
+15,15,Batch,Manure + Wheat Straw,No,No
+15,15,Batch,Manure + Wheat Straw,No,Yes
+15,15,Batch,Manure + Wheat Straw,Yes,No
+15,15,Batch,Manure + Wheat Straw,Yes,Yes
+15,15,Batch,Food Waste + Sewage Sludge,No,No
+15,15,Batch,Food Waste + Sewage Sludge,No,Yes
+15,15,Batch,Food Waste + Sewage Sludge,Yes,No
+15,15,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,15,Semi-continuous,Manure,No,No
+15,15,Semi-continuous,Manure,No,Yes
+15,15,Semi-continuous,Manure,Yes,No
+15,15,Semi-continuous,Manure,Yes,Yes
+15,15,Semi-continuous,Food Waste,No,No
+15,15,Semi-continuous,Food Waste,No,Yes
+15,15,Semi-continuous,Food Waste,Yes,No
+15,15,Semi-continuous,Food Waste,Yes,Yes
+15,15,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,15,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,15,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,15,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,15,Semi-continuous,Sewage Sludge,No,No
+15,15,Semi-continuous,Sewage Sludge,No,Yes
+15,15,Semi-continuous,Sewage Sludge,Yes,No
+15,15,Semi-continuous,Sewage Sludge,Yes,Yes
+15,15,Semi-continuous,Food Waste + Manure,No,No
+15,15,Semi-continuous,Food Waste + Manure,No,Yes
+15,15,Semi-continuous,Food Waste + Manure,Yes,No
+15,15,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,15,Semi-continuous,Food Waste + Oil,No,No
+15,15,Semi-continuous,Food Waste + Oil,No,Yes
+15,15,Semi-continuous,Food Waste + Oil,Yes,No
+15,15,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,15,Semi-continuous,Manure + Wheat Straw,No,No
+15,15,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,15,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,15,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,15,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,15,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,15,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,15,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,25,Batch,Manure,No,No
+15,25,Batch,Manure,No,Yes
+15,25,Batch,Manure,Yes,No
+15,25,Batch,Manure,Yes,Yes
+15,25,Batch,Food Waste,No,No
+15,25,Batch,Food Waste,No,Yes
+15,25,Batch,Food Waste,Yes,No
+15,25,Batch,Food Waste,Yes,Yes
+15,25,Batch,Pharmaceutical Waste Sludge,No,No
+15,25,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,25,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,25,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,25,Batch,Sewage Sludge,No,No
+15,25,Batch,Sewage Sludge,No,Yes
+15,25,Batch,Sewage Sludge,Yes,No
+15,25,Batch,Sewage Sludge,Yes,Yes
+15,25,Batch,Food Waste + Manure,No,No
+15,25,Batch,Food Waste + Manure,No,Yes
+15,25,Batch,Food Waste + Manure,Yes,No
+15,25,Batch,Food Waste + Manure,Yes,Yes
+15,25,Batch,Food Waste + Oil,No,No
+15,25,Batch,Food Waste + Oil,No,Yes
+15,25,Batch,Food Waste + Oil,Yes,No
+15,25,Batch,Food Waste + Oil,Yes,Yes
+15,25,Batch,Manure + Wheat Straw,No,No
+15,25,Batch,Manure + Wheat Straw,No,Yes
+15,25,Batch,Manure + Wheat Straw,Yes,No
+15,25,Batch,Manure + Wheat Straw,Yes,Yes
+15,25,Batch,Food Waste + Sewage Sludge,No,No
+15,25,Batch,Food Waste + Sewage Sludge,No,Yes
+15,25,Batch,Food Waste + Sewage Sludge,Yes,No
+15,25,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,25,Semi-continuous,Manure,No,No
+15,25,Semi-continuous,Manure,No,Yes
+15,25,Semi-continuous,Manure,Yes,No
+15,25,Semi-continuous,Manure,Yes,Yes
+15,25,Semi-continuous,Food Waste,No,No
+15,25,Semi-continuous,Food Waste,No,Yes
+15,25,Semi-continuous,Food Waste,Yes,No
+15,25,Semi-continuous,Food Waste,Yes,Yes
+15,25,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,25,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,25,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,25,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,25,Semi-continuous,Sewage Sludge,No,No
+15,25,Semi-continuous,Sewage Sludge,No,Yes
+15,25,Semi-continuous,Sewage Sludge,Yes,No
+15,25,Semi-continuous,Sewage Sludge,Yes,Yes
+15,25,Semi-continuous,Food Waste + Manure,No,No
+15,25,Semi-continuous,Food Waste + Manure,No,Yes
+15,25,Semi-continuous,Food Waste + Manure,Yes,No
+15,25,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,25,Semi-continuous,Food Waste + Oil,No,No
+15,25,Semi-continuous,Food Waste + Oil,No,Yes
+15,25,Semi-continuous,Food Waste + Oil,Yes,No
+15,25,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,25,Semi-continuous,Manure + Wheat Straw,No,No
+15,25,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,25,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,25,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,25,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,25,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,25,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,25,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,35,Batch,Manure,No,No
+15,35,Batch,Manure,No,Yes
+15,35,Batch,Manure,Yes,No
+15,35,Batch,Manure,Yes,Yes
+15,35,Batch,Food Waste,No,No
+15,35,Batch,Food Waste,No,Yes
+15,35,Batch,Food Waste,Yes,No
+15,35,Batch,Food Waste,Yes,Yes
+15,35,Batch,Pharmaceutical Waste Sludge,No,No
+15,35,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,35,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,35,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,35,Batch,Sewage Sludge,No,No
+15,35,Batch,Sewage Sludge,No,Yes
+15,35,Batch,Sewage Sludge,Yes,No
+15,35,Batch,Sewage Sludge,Yes,Yes
+15,35,Batch,Food Waste + Manure,No,No
+15,35,Batch,Food Waste + Manure,No,Yes
+15,35,Batch,Food Waste + Manure,Yes,No
+15,35,Batch,Food Waste + Manure,Yes,Yes
+15,35,Batch,Food Waste + Oil,No,No
+15,35,Batch,Food Waste + Oil,No,Yes
+15,35,Batch,Food Waste + Oil,Yes,No
+15,35,Batch,Food Waste + Oil,Yes,Yes
+15,35,Batch,Manure + Wheat Straw,No,No
+15,35,Batch,Manure + Wheat Straw,No,Yes
+15,35,Batch,Manure + Wheat Straw,Yes,No
+15,35,Batch,Manure + Wheat Straw,Yes,Yes
+15,35,Batch,Food Waste + Sewage Sludge,No,No
+15,35,Batch,Food Waste + Sewage Sludge,No,Yes
+15,35,Batch,Food Waste + Sewage Sludge,Yes,No
+15,35,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,35,Semi-continuous,Manure,No,No
+15,35,Semi-continuous,Manure,No,Yes
+15,35,Semi-continuous,Manure,Yes,No
+15,35,Semi-continuous,Manure,Yes,Yes
+15,35,Semi-continuous,Food Waste,No,No
+15,35,Semi-continuous,Food Waste,No,Yes
+15,35,Semi-continuous,Food Waste,Yes,No
+15,35,Semi-continuous,Food Waste,Yes,Yes
+15,35,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,35,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,35,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,35,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,35,Semi-continuous,Sewage Sludge,No,No
+15,35,Semi-continuous,Sewage Sludge,No,Yes
+15,35,Semi-continuous,Sewage Sludge,Yes,No
+15,35,Semi-continuous,Sewage Sludge,Yes,Yes
+15,35,Semi-continuous,Food Waste + Manure,No,No
+15,35,Semi-continuous,Food Waste + Manure,No,Yes
+15,35,Semi-continuous,Food Waste + Manure,Yes,No
+15,35,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,35,Semi-continuous,Food Waste + Oil,No,No
+15,35,Semi-continuous,Food Waste + Oil,No,Yes
+15,35,Semi-continuous,Food Waste + Oil,Yes,No
+15,35,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,35,Semi-continuous,Manure + Wheat Straw,No,No
+15,35,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,35,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,35,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,35,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,35,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,35,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,35,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,45,Batch,Manure,No,No
+15,45,Batch,Manure,No,Yes
+15,45,Batch,Manure,Yes,No
+15,45,Batch,Manure,Yes,Yes
+15,45,Batch,Food Waste,No,No
+15,45,Batch,Food Waste,No,Yes
+15,45,Batch,Food Waste,Yes,No
+15,45,Batch,Food Waste,Yes,Yes
+15,45,Batch,Pharmaceutical Waste Sludge,No,No
+15,45,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,45,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,45,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,45,Batch,Sewage Sludge,No,No
+15,45,Batch,Sewage Sludge,No,Yes
+15,45,Batch,Sewage Sludge,Yes,No
+15,45,Batch,Sewage Sludge,Yes,Yes
+15,45,Batch,Food Waste + Manure,No,No
+15,45,Batch,Food Waste + Manure,No,Yes
+15,45,Batch,Food Waste + Manure,Yes,No
+15,45,Batch,Food Waste + Manure,Yes,Yes
+15,45,Batch,Food Waste + Oil,No,No
+15,45,Batch,Food Waste + Oil,No,Yes
+15,45,Batch,Food Waste + Oil,Yes,No
+15,45,Batch,Food Waste + Oil,Yes,Yes
+15,45,Batch,Manure + Wheat Straw,No,No
+15,45,Batch,Manure + Wheat Straw,No,Yes
+15,45,Batch,Manure + Wheat Straw,Yes,No
+15,45,Batch,Manure + Wheat Straw,Yes,Yes
+15,45,Batch,Food Waste + Sewage Sludge,No,No
+15,45,Batch,Food Waste + Sewage Sludge,No,Yes
+15,45,Batch,Food Waste + Sewage Sludge,Yes,No
+15,45,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,45,Semi-continuous,Manure,No,No
+15,45,Semi-continuous,Manure,No,Yes
+15,45,Semi-continuous,Manure,Yes,No
+15,45,Semi-continuous,Manure,Yes,Yes
+15,45,Semi-continuous,Food Waste,No,No
+15,45,Semi-continuous,Food Waste,No,Yes
+15,45,Semi-continuous,Food Waste,Yes,No
+15,45,Semi-continuous,Food Waste,Yes,Yes
+15,45,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,45,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,45,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,45,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,45,Semi-continuous,Sewage Sludge,No,No
+15,45,Semi-continuous,Sewage Sludge,No,Yes
+15,45,Semi-continuous,Sewage Sludge,Yes,No
+15,45,Semi-continuous,Sewage Sludge,Yes,Yes
+15,45,Semi-continuous,Food Waste + Manure,No,No
+15,45,Semi-continuous,Food Waste + Manure,No,Yes
+15,45,Semi-continuous,Food Waste + Manure,Yes,No
+15,45,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,45,Semi-continuous,Food Waste + Oil,No,No
+15,45,Semi-continuous,Food Waste + Oil,No,Yes
+15,45,Semi-continuous,Food Waste + Oil,Yes,No
+15,45,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,45,Semi-continuous,Manure + Wheat Straw,No,No
+15,45,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,45,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,45,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,45,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,45,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,45,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,45,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,55,Batch,Manure,No,No
+15,55,Batch,Manure,No,Yes
+15,55,Batch,Manure,Yes,No
+15,55,Batch,Manure,Yes,Yes
+15,55,Batch,Food Waste,No,No
+15,55,Batch,Food Waste,No,Yes
+15,55,Batch,Food Waste,Yes,No
+15,55,Batch,Food Waste,Yes,Yes
+15,55,Batch,Pharmaceutical Waste Sludge,No,No
+15,55,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,55,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,55,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,55,Batch,Sewage Sludge,No,No
+15,55,Batch,Sewage Sludge,No,Yes
+15,55,Batch,Sewage Sludge,Yes,No
+15,55,Batch,Sewage Sludge,Yes,Yes
+15,55,Batch,Food Waste + Manure,No,No
+15,55,Batch,Food Waste + Manure,No,Yes
+15,55,Batch,Food Waste + Manure,Yes,No
+15,55,Batch,Food Waste + Manure,Yes,Yes
+15,55,Batch,Food Waste + Oil,No,No
+15,55,Batch,Food Waste + Oil,No,Yes
+15,55,Batch,Food Waste + Oil,Yes,No
+15,55,Batch,Food Waste + Oil,Yes,Yes
+15,55,Batch,Manure + Wheat Straw,No,No
+15,55,Batch,Manure + Wheat Straw,No,Yes
+15,55,Batch,Manure + Wheat Straw,Yes,No
+15,55,Batch,Manure + Wheat Straw,Yes,Yes
+15,55,Batch,Food Waste + Sewage Sludge,No,No
+15,55,Batch,Food Waste + Sewage Sludge,No,Yes
+15,55,Batch,Food Waste + Sewage Sludge,Yes,No
+15,55,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,55,Semi-continuous,Manure,No,No
+15,55,Semi-continuous,Manure,No,Yes
+15,55,Semi-continuous,Manure,Yes,No
+15,55,Semi-continuous,Manure,Yes,Yes
+15,55,Semi-continuous,Food Waste,No,No
+15,55,Semi-continuous,Food Waste,No,Yes
+15,55,Semi-continuous,Food Waste,Yes,No
+15,55,Semi-continuous,Food Waste,Yes,Yes
+15,55,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,55,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,55,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,55,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,55,Semi-continuous,Sewage Sludge,No,No
+15,55,Semi-continuous,Sewage Sludge,No,Yes
+15,55,Semi-continuous,Sewage Sludge,Yes,No
+15,55,Semi-continuous,Sewage Sludge,Yes,Yes
+15,55,Semi-continuous,Food Waste + Manure,No,No
+15,55,Semi-continuous,Food Waste + Manure,No,Yes
+15,55,Semi-continuous,Food Waste + Manure,Yes,No
+15,55,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,55,Semi-continuous,Food Waste + Oil,No,No
+15,55,Semi-continuous,Food Waste + Oil,No,Yes
+15,55,Semi-continuous,Food Waste + Oil,Yes,No
+15,55,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,55,Semi-continuous,Manure + Wheat Straw,No,No
+15,55,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,55,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,55,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,55,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,55,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,55,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,55,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,65,Batch,Manure,No,No
+15,65,Batch,Manure,No,Yes
+15,65,Batch,Manure,Yes,No
+15,65,Batch,Manure,Yes,Yes
+15,65,Batch,Food Waste,No,No
+15,65,Batch,Food Waste,No,Yes
+15,65,Batch,Food Waste,Yes,No
+15,65,Batch,Food Waste,Yes,Yes
+15,65,Batch,Pharmaceutical Waste Sludge,No,No
+15,65,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,65,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,65,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,65,Batch,Sewage Sludge,No,No
+15,65,Batch,Sewage Sludge,No,Yes
+15,65,Batch,Sewage Sludge,Yes,No
+15,65,Batch,Sewage Sludge,Yes,Yes
+15,65,Batch,Food Waste + Manure,No,No
+15,65,Batch,Food Waste + Manure,No,Yes
+15,65,Batch,Food Waste + Manure,Yes,No
+15,65,Batch,Food Waste + Manure,Yes,Yes
+15,65,Batch,Food Waste + Oil,No,No
+15,65,Batch,Food Waste + Oil,No,Yes
+15,65,Batch,Food Waste + Oil,Yes,No
+15,65,Batch,Food Waste + Oil,Yes,Yes
+15,65,Batch,Manure + Wheat Straw,No,No
+15,65,Batch,Manure + Wheat Straw,No,Yes
+15,65,Batch,Manure + Wheat Straw,Yes,No
+15,65,Batch,Manure + Wheat Straw,Yes,Yes
+15,65,Batch,Food Waste + Sewage Sludge,No,No
+15,65,Batch,Food Waste + Sewage Sludge,No,Yes
+15,65,Batch,Food Waste + Sewage Sludge,Yes,No
+15,65,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,65,Semi-continuous,Manure,No,No
+15,65,Semi-continuous,Manure,No,Yes
+15,65,Semi-continuous,Manure,Yes,No
+15,65,Semi-continuous,Manure,Yes,Yes
+15,65,Semi-continuous,Food Waste,No,No
+15,65,Semi-continuous,Food Waste,No,Yes
+15,65,Semi-continuous,Food Waste,Yes,No
+15,65,Semi-continuous,Food Waste,Yes,Yes
+15,65,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,65,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,65,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,65,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,65,Semi-continuous,Sewage Sludge,No,No
+15,65,Semi-continuous,Sewage Sludge,No,Yes
+15,65,Semi-continuous,Sewage Sludge,Yes,No
+15,65,Semi-continuous,Sewage Sludge,Yes,Yes
+15,65,Semi-continuous,Food Waste + Manure,No,No
+15,65,Semi-continuous,Food Waste + Manure,No,Yes
+15,65,Semi-continuous,Food Waste + Manure,Yes,No
+15,65,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,65,Semi-continuous,Food Waste + Oil,No,No
+15,65,Semi-continuous,Food Waste + Oil,No,Yes
+15,65,Semi-continuous,Food Waste + Oil,Yes,No
+15,65,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,65,Semi-continuous,Manure + Wheat Straw,No,No
+15,65,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,65,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,65,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,65,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,65,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,65,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,65,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,75,Batch,Manure,No,No
+15,75,Batch,Manure,No,Yes
+15,75,Batch,Manure,Yes,No
+15,75,Batch,Manure,Yes,Yes
+15,75,Batch,Food Waste,No,No
+15,75,Batch,Food Waste,No,Yes
+15,75,Batch,Food Waste,Yes,No
+15,75,Batch,Food Waste,Yes,Yes
+15,75,Batch,Pharmaceutical Waste Sludge,No,No
+15,75,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,75,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,75,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,75,Batch,Sewage Sludge,No,No
+15,75,Batch,Sewage Sludge,No,Yes
+15,75,Batch,Sewage Sludge,Yes,No
+15,75,Batch,Sewage Sludge,Yes,Yes
+15,75,Batch,Food Waste + Manure,No,No
+15,75,Batch,Food Waste + Manure,No,Yes
+15,75,Batch,Food Waste + Manure,Yes,No
+15,75,Batch,Food Waste + Manure,Yes,Yes
+15,75,Batch,Food Waste + Oil,No,No
+15,75,Batch,Food Waste + Oil,No,Yes
+15,75,Batch,Food Waste + Oil,Yes,No
+15,75,Batch,Food Waste + Oil,Yes,Yes
+15,75,Batch,Manure + Wheat Straw,No,No
+15,75,Batch,Manure + Wheat Straw,No,Yes
+15,75,Batch,Manure + Wheat Straw,Yes,No
+15,75,Batch,Manure + Wheat Straw,Yes,Yes
+15,75,Batch,Food Waste + Sewage Sludge,No,No
+15,75,Batch,Food Waste + Sewage Sludge,No,Yes
+15,75,Batch,Food Waste + Sewage Sludge,Yes,No
+15,75,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,75,Semi-continuous,Manure,No,No
+15,75,Semi-continuous,Manure,No,Yes
+15,75,Semi-continuous,Manure,Yes,No
+15,75,Semi-continuous,Manure,Yes,Yes
+15,75,Semi-continuous,Food Waste,No,No
+15,75,Semi-continuous,Food Waste,No,Yes
+15,75,Semi-continuous,Food Waste,Yes,No
+15,75,Semi-continuous,Food Waste,Yes,Yes
+15,75,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,75,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,75,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,75,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,75,Semi-continuous,Sewage Sludge,No,No
+15,75,Semi-continuous,Sewage Sludge,No,Yes
+15,75,Semi-continuous,Sewage Sludge,Yes,No
+15,75,Semi-continuous,Sewage Sludge,Yes,Yes
+15,75,Semi-continuous,Food Waste + Manure,No,No
+15,75,Semi-continuous,Food Waste + Manure,No,Yes
+15,75,Semi-continuous,Food Waste + Manure,Yes,No
+15,75,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,75,Semi-continuous,Food Waste + Oil,No,No
+15,75,Semi-continuous,Food Waste + Oil,No,Yes
+15,75,Semi-continuous,Food Waste + Oil,Yes,No
+15,75,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,75,Semi-continuous,Manure + Wheat Straw,No,No
+15,75,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,75,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,75,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,75,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,75,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,75,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,75,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,85,Batch,Manure,No,No
+15,85,Batch,Manure,No,Yes
+15,85,Batch,Manure,Yes,No
+15,85,Batch,Manure,Yes,Yes
+15,85,Batch,Food Waste,No,No
+15,85,Batch,Food Waste,No,Yes
+15,85,Batch,Food Waste,Yes,No
+15,85,Batch,Food Waste,Yes,Yes
+15,85,Batch,Pharmaceutical Waste Sludge,No,No
+15,85,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,85,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,85,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,85,Batch,Sewage Sludge,No,No
+15,85,Batch,Sewage Sludge,No,Yes
+15,85,Batch,Sewage Sludge,Yes,No
+15,85,Batch,Sewage Sludge,Yes,Yes
+15,85,Batch,Food Waste + Manure,No,No
+15,85,Batch,Food Waste + Manure,No,Yes
+15,85,Batch,Food Waste + Manure,Yes,No
+15,85,Batch,Food Waste + Manure,Yes,Yes
+15,85,Batch,Food Waste + Oil,No,No
+15,85,Batch,Food Waste + Oil,No,Yes
+15,85,Batch,Food Waste + Oil,Yes,No
+15,85,Batch,Food Waste + Oil,Yes,Yes
+15,85,Batch,Manure + Wheat Straw,No,No
+15,85,Batch,Manure + Wheat Straw,No,Yes
+15,85,Batch,Manure + Wheat Straw,Yes,No
+15,85,Batch,Manure + Wheat Straw,Yes,Yes
+15,85,Batch,Food Waste + Sewage Sludge,No,No
+15,85,Batch,Food Waste + Sewage Sludge,No,Yes
+15,85,Batch,Food Waste + Sewage Sludge,Yes,No
+15,85,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,85,Semi-continuous,Manure,No,No
+15,85,Semi-continuous,Manure,No,Yes
+15,85,Semi-continuous,Manure,Yes,No
+15,85,Semi-continuous,Manure,Yes,Yes
+15,85,Semi-continuous,Food Waste,No,No
+15,85,Semi-continuous,Food Waste,No,Yes
+15,85,Semi-continuous,Food Waste,Yes,No
+15,85,Semi-continuous,Food Waste,Yes,Yes
+15,85,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,85,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,85,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,85,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,85,Semi-continuous,Sewage Sludge,No,No
+15,85,Semi-continuous,Sewage Sludge,No,Yes
+15,85,Semi-continuous,Sewage Sludge,Yes,No
+15,85,Semi-continuous,Sewage Sludge,Yes,Yes
+15,85,Semi-continuous,Food Waste + Manure,No,No
+15,85,Semi-continuous,Food Waste + Manure,No,Yes
+15,85,Semi-continuous,Food Waste + Manure,Yes,No
+15,85,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,85,Semi-continuous,Food Waste + Oil,No,No
+15,85,Semi-continuous,Food Waste + Oil,No,Yes
+15,85,Semi-continuous,Food Waste + Oil,Yes,No
+15,85,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,85,Semi-continuous,Manure + Wheat Straw,No,No
+15,85,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,85,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,85,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,85,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,85,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,85,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,85,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,95,Batch,Manure,No,No
+15,95,Batch,Manure,No,Yes
+15,95,Batch,Manure,Yes,No
+15,95,Batch,Manure,Yes,Yes
+15,95,Batch,Food Waste,No,No
+15,95,Batch,Food Waste,No,Yes
+15,95,Batch,Food Waste,Yes,No
+15,95,Batch,Food Waste,Yes,Yes
+15,95,Batch,Pharmaceutical Waste Sludge,No,No
+15,95,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,95,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,95,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,95,Batch,Sewage Sludge,No,No
+15,95,Batch,Sewage Sludge,No,Yes
+15,95,Batch,Sewage Sludge,Yes,No
+15,95,Batch,Sewage Sludge,Yes,Yes
+15,95,Batch,Food Waste + Manure,No,No
+15,95,Batch,Food Waste + Manure,No,Yes
+15,95,Batch,Food Waste + Manure,Yes,No
+15,95,Batch,Food Waste + Manure,Yes,Yes
+15,95,Batch,Food Waste + Oil,No,No
+15,95,Batch,Food Waste + Oil,No,Yes
+15,95,Batch,Food Waste + Oil,Yes,No
+15,95,Batch,Food Waste + Oil,Yes,Yes
+15,95,Batch,Manure + Wheat Straw,No,No
+15,95,Batch,Manure + Wheat Straw,No,Yes
+15,95,Batch,Manure + Wheat Straw,Yes,No
+15,95,Batch,Manure + Wheat Straw,Yes,Yes
+15,95,Batch,Food Waste + Sewage Sludge,No,No
+15,95,Batch,Food Waste + Sewage Sludge,No,Yes
+15,95,Batch,Food Waste + Sewage Sludge,Yes,No
+15,95,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,95,Semi-continuous,Manure,No,No
+15,95,Semi-continuous,Manure,No,Yes
+15,95,Semi-continuous,Manure,Yes,No
+15,95,Semi-continuous,Manure,Yes,Yes
+15,95,Semi-continuous,Food Waste,No,No
+15,95,Semi-continuous,Food Waste,No,Yes
+15,95,Semi-continuous,Food Waste,Yes,No
+15,95,Semi-continuous,Food Waste,Yes,Yes
+15,95,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,95,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,95,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,95,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,95,Semi-continuous,Sewage Sludge,No,No
+15,95,Semi-continuous,Sewage Sludge,No,Yes
+15,95,Semi-continuous,Sewage Sludge,Yes,No
+15,95,Semi-continuous,Sewage Sludge,Yes,Yes
+15,95,Semi-continuous,Food Waste + Manure,No,No
+15,95,Semi-continuous,Food Waste + Manure,No,Yes
+15,95,Semi-continuous,Food Waste + Manure,Yes,No
+15,95,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,95,Semi-continuous,Food Waste + Oil,No,No
+15,95,Semi-continuous,Food Waste + Oil,No,Yes
+15,95,Semi-continuous,Food Waste + Oil,Yes,No
+15,95,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,95,Semi-continuous,Manure + Wheat Straw,No,No
+15,95,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,95,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,95,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,95,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,95,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,95,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,95,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,105,Batch,Manure,No,No
+15,105,Batch,Manure,No,Yes
+15,105,Batch,Manure,Yes,No
+15,105,Batch,Manure,Yes,Yes
+15,105,Batch,Food Waste,No,No
+15,105,Batch,Food Waste,No,Yes
+15,105,Batch,Food Waste,Yes,No
+15,105,Batch,Food Waste,Yes,Yes
+15,105,Batch,Pharmaceutical Waste Sludge,No,No
+15,105,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,105,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,105,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,105,Batch,Sewage Sludge,No,No
+15,105,Batch,Sewage Sludge,No,Yes
+15,105,Batch,Sewage Sludge,Yes,No
+15,105,Batch,Sewage Sludge,Yes,Yes
+15,105,Batch,Food Waste + Manure,No,No
+15,105,Batch,Food Waste + Manure,No,Yes
+15,105,Batch,Food Waste + Manure,Yes,No
+15,105,Batch,Food Waste + Manure,Yes,Yes
+15,105,Batch,Food Waste + Oil,No,No
+15,105,Batch,Food Waste + Oil,No,Yes
+15,105,Batch,Food Waste + Oil,Yes,No
+15,105,Batch,Food Waste + Oil,Yes,Yes
+15,105,Batch,Manure + Wheat Straw,No,No
+15,105,Batch,Manure + Wheat Straw,No,Yes
+15,105,Batch,Manure + Wheat Straw,Yes,No
+15,105,Batch,Manure + Wheat Straw,Yes,Yes
+15,105,Batch,Food Waste + Sewage Sludge,No,No
+15,105,Batch,Food Waste + Sewage Sludge,No,Yes
+15,105,Batch,Food Waste + Sewage Sludge,Yes,No
+15,105,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,105,Semi-continuous,Manure,No,No
+15,105,Semi-continuous,Manure,No,Yes
+15,105,Semi-continuous,Manure,Yes,No
+15,105,Semi-continuous,Manure,Yes,Yes
+15,105,Semi-continuous,Food Waste,No,No
+15,105,Semi-continuous,Food Waste,No,Yes
+15,105,Semi-continuous,Food Waste,Yes,No
+15,105,Semi-continuous,Food Waste,Yes,Yes
+15,105,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,105,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,105,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,105,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,105,Semi-continuous,Sewage Sludge,No,No
+15,105,Semi-continuous,Sewage Sludge,No,Yes
+15,105,Semi-continuous,Sewage Sludge,Yes,No
+15,105,Semi-continuous,Sewage Sludge,Yes,Yes
+15,105,Semi-continuous,Food Waste + Manure,No,No
+15,105,Semi-continuous,Food Waste + Manure,No,Yes
+15,105,Semi-continuous,Food Waste + Manure,Yes,No
+15,105,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,105,Semi-continuous,Food Waste + Oil,No,No
+15,105,Semi-continuous,Food Waste + Oil,No,Yes
+15,105,Semi-continuous,Food Waste + Oil,Yes,No
+15,105,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,105,Semi-continuous,Manure + Wheat Straw,No,No
+15,105,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,105,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,105,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,105,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,105,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,105,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,105,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,115,Batch,Manure,No,No
+15,115,Batch,Manure,No,Yes
+15,115,Batch,Manure,Yes,No
+15,115,Batch,Manure,Yes,Yes
+15,115,Batch,Food Waste,No,No
+15,115,Batch,Food Waste,No,Yes
+15,115,Batch,Food Waste,Yes,No
+15,115,Batch,Food Waste,Yes,Yes
+15,115,Batch,Pharmaceutical Waste Sludge,No,No
+15,115,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,115,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,115,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,115,Batch,Sewage Sludge,No,No
+15,115,Batch,Sewage Sludge,No,Yes
+15,115,Batch,Sewage Sludge,Yes,No
+15,115,Batch,Sewage Sludge,Yes,Yes
+15,115,Batch,Food Waste + Manure,No,No
+15,115,Batch,Food Waste + Manure,No,Yes
+15,115,Batch,Food Waste + Manure,Yes,No
+15,115,Batch,Food Waste + Manure,Yes,Yes
+15,115,Batch,Food Waste + Oil,No,No
+15,115,Batch,Food Waste + Oil,No,Yes
+15,115,Batch,Food Waste + Oil,Yes,No
+15,115,Batch,Food Waste + Oil,Yes,Yes
+15,115,Batch,Manure + Wheat Straw,No,No
+15,115,Batch,Manure + Wheat Straw,No,Yes
+15,115,Batch,Manure + Wheat Straw,Yes,No
+15,115,Batch,Manure + Wheat Straw,Yes,Yes
+15,115,Batch,Food Waste + Sewage Sludge,No,No
+15,115,Batch,Food Waste + Sewage Sludge,No,Yes
+15,115,Batch,Food Waste + Sewage Sludge,Yes,No
+15,115,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,115,Semi-continuous,Manure,No,No
+15,115,Semi-continuous,Manure,No,Yes
+15,115,Semi-continuous,Manure,Yes,No
+15,115,Semi-continuous,Manure,Yes,Yes
+15,115,Semi-continuous,Food Waste,No,No
+15,115,Semi-continuous,Food Waste,No,Yes
+15,115,Semi-continuous,Food Waste,Yes,No
+15,115,Semi-continuous,Food Waste,Yes,Yes
+15,115,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,115,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,115,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,115,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,115,Semi-continuous,Sewage Sludge,No,No
+15,115,Semi-continuous,Sewage Sludge,No,Yes
+15,115,Semi-continuous,Sewage Sludge,Yes,No
+15,115,Semi-continuous,Sewage Sludge,Yes,Yes
+15,115,Semi-continuous,Food Waste + Manure,No,No
+15,115,Semi-continuous,Food Waste + Manure,No,Yes
+15,115,Semi-continuous,Food Waste + Manure,Yes,No
+15,115,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,115,Semi-continuous,Food Waste + Oil,No,No
+15,115,Semi-continuous,Food Waste + Oil,No,Yes
+15,115,Semi-continuous,Food Waste + Oil,Yes,No
+15,115,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,115,Semi-continuous,Manure + Wheat Straw,No,No
+15,115,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,115,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,115,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,115,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,115,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,115,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,115,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,125,Batch,Manure,No,No
+15,125,Batch,Manure,No,Yes
+15,125,Batch,Manure,Yes,No
+15,125,Batch,Manure,Yes,Yes
+15,125,Batch,Food Waste,No,No
+15,125,Batch,Food Waste,No,Yes
+15,125,Batch,Food Waste,Yes,No
+15,125,Batch,Food Waste,Yes,Yes
+15,125,Batch,Pharmaceutical Waste Sludge,No,No
+15,125,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,125,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,125,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,125,Batch,Sewage Sludge,No,No
+15,125,Batch,Sewage Sludge,No,Yes
+15,125,Batch,Sewage Sludge,Yes,No
+15,125,Batch,Sewage Sludge,Yes,Yes
+15,125,Batch,Food Waste + Manure,No,No
+15,125,Batch,Food Waste + Manure,No,Yes
+15,125,Batch,Food Waste + Manure,Yes,No
+15,125,Batch,Food Waste + Manure,Yes,Yes
+15,125,Batch,Food Waste + Oil,No,No
+15,125,Batch,Food Waste + Oil,No,Yes
+15,125,Batch,Food Waste + Oil,Yes,No
+15,125,Batch,Food Waste + Oil,Yes,Yes
+15,125,Batch,Manure + Wheat Straw,No,No
+15,125,Batch,Manure + Wheat Straw,No,Yes
+15,125,Batch,Manure + Wheat Straw,Yes,No
+15,125,Batch,Manure + Wheat Straw,Yes,Yes
+15,125,Batch,Food Waste + Sewage Sludge,No,No
+15,125,Batch,Food Waste + Sewage Sludge,No,Yes
+15,125,Batch,Food Waste + Sewage Sludge,Yes,No
+15,125,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,125,Semi-continuous,Manure,No,No
+15,125,Semi-continuous,Manure,No,Yes
+15,125,Semi-continuous,Manure,Yes,No
+15,125,Semi-continuous,Manure,Yes,Yes
+15,125,Semi-continuous,Food Waste,No,No
+15,125,Semi-continuous,Food Waste,No,Yes
+15,125,Semi-continuous,Food Waste,Yes,No
+15,125,Semi-continuous,Food Waste,Yes,Yes
+15,125,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,125,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,125,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,125,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,125,Semi-continuous,Sewage Sludge,No,No
+15,125,Semi-continuous,Sewage Sludge,No,Yes
+15,125,Semi-continuous,Sewage Sludge,Yes,No
+15,125,Semi-continuous,Sewage Sludge,Yes,Yes
+15,125,Semi-continuous,Food Waste + Manure,No,No
+15,125,Semi-continuous,Food Waste + Manure,No,Yes
+15,125,Semi-continuous,Food Waste + Manure,Yes,No
+15,125,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,125,Semi-continuous,Food Waste + Oil,No,No
+15,125,Semi-continuous,Food Waste + Oil,No,Yes
+15,125,Semi-continuous,Food Waste + Oil,Yes,No
+15,125,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,125,Semi-continuous,Manure + Wheat Straw,No,No
+15,125,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,125,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,125,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,125,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,125,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,125,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,125,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+15,135,Batch,Manure,No,No
+15,135,Batch,Manure,No,Yes
+15,135,Batch,Manure,Yes,No
+15,135,Batch,Manure,Yes,Yes
+15,135,Batch,Food Waste,No,No
+15,135,Batch,Food Waste,No,Yes
+15,135,Batch,Food Waste,Yes,No
+15,135,Batch,Food Waste,Yes,Yes
+15,135,Batch,Pharmaceutical Waste Sludge,No,No
+15,135,Batch,Pharmaceutical Waste Sludge,No,Yes
+15,135,Batch,Pharmaceutical Waste Sludge,Yes,No
+15,135,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+15,135,Batch,Sewage Sludge,No,No
+15,135,Batch,Sewage Sludge,No,Yes
+15,135,Batch,Sewage Sludge,Yes,No
+15,135,Batch,Sewage Sludge,Yes,Yes
+15,135,Batch,Food Waste + Manure,No,No
+15,135,Batch,Food Waste + Manure,No,Yes
+15,135,Batch,Food Waste + Manure,Yes,No
+15,135,Batch,Food Waste + Manure,Yes,Yes
+15,135,Batch,Food Waste + Oil,No,No
+15,135,Batch,Food Waste + Oil,No,Yes
+15,135,Batch,Food Waste + Oil,Yes,No
+15,135,Batch,Food Waste + Oil,Yes,Yes
+15,135,Batch,Manure + Wheat Straw,No,No
+15,135,Batch,Manure + Wheat Straw,No,Yes
+15,135,Batch,Manure + Wheat Straw,Yes,No
+15,135,Batch,Manure + Wheat Straw,Yes,Yes
+15,135,Batch,Food Waste + Sewage Sludge,No,No
+15,135,Batch,Food Waste + Sewage Sludge,No,Yes
+15,135,Batch,Food Waste + Sewage Sludge,Yes,No
+15,135,Batch,Food Waste + Sewage Sludge,Yes,Yes
+15,135,Semi-continuous,Manure,No,No
+15,135,Semi-continuous,Manure,No,Yes
+15,135,Semi-continuous,Manure,Yes,No
+15,135,Semi-continuous,Manure,Yes,Yes
+15,135,Semi-continuous,Food Waste,No,No
+15,135,Semi-continuous,Food Waste,No,Yes
+15,135,Semi-continuous,Food Waste,Yes,No
+15,135,Semi-continuous,Food Waste,Yes,Yes
+15,135,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+15,135,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+15,135,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+15,135,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+15,135,Semi-continuous,Sewage Sludge,No,No
+15,135,Semi-continuous,Sewage Sludge,No,Yes
+15,135,Semi-continuous,Sewage Sludge,Yes,No
+15,135,Semi-continuous,Sewage Sludge,Yes,Yes
+15,135,Semi-continuous,Food Waste + Manure,No,No
+15,135,Semi-continuous,Food Waste + Manure,No,Yes
+15,135,Semi-continuous,Food Waste + Manure,Yes,No
+15,135,Semi-continuous,Food Waste + Manure,Yes,Yes
+15,135,Semi-continuous,Food Waste + Oil,No,No
+15,135,Semi-continuous,Food Waste + Oil,No,Yes
+15,135,Semi-continuous,Food Waste + Oil,Yes,No
+15,135,Semi-continuous,Food Waste + Oil,Yes,Yes
+15,135,Semi-continuous,Manure + Wheat Straw,No,No
+15,135,Semi-continuous,Manure + Wheat Straw,No,Yes
+15,135,Semi-continuous,Manure + Wheat Straw,Yes,No
+15,135,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+15,135,Semi-continuous,Food Waste + Sewage Sludge,No,No
+15,135,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+15,135,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+15,135,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,5,Batch,Manure,No,No
+25,5,Batch,Manure,No,Yes
+25,5,Batch,Manure,Yes,No
+25,5,Batch,Manure,Yes,Yes
+25,5,Batch,Food Waste,No,No
+25,5,Batch,Food Waste,No,Yes
+25,5,Batch,Food Waste,Yes,No
+25,5,Batch,Food Waste,Yes,Yes
+25,5,Batch,Pharmaceutical Waste Sludge,No,No
+25,5,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,5,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,5,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,5,Batch,Sewage Sludge,No,No
+25,5,Batch,Sewage Sludge,No,Yes
+25,5,Batch,Sewage Sludge,Yes,No
+25,5,Batch,Sewage Sludge,Yes,Yes
+25,5,Batch,Food Waste + Manure,No,No
+25,5,Batch,Food Waste + Manure,No,Yes
+25,5,Batch,Food Waste + Manure,Yes,No
+25,5,Batch,Food Waste + Manure,Yes,Yes
+25,5,Batch,Food Waste + Oil,No,No
+25,5,Batch,Food Waste + Oil,No,Yes
+25,5,Batch,Food Waste + Oil,Yes,No
+25,5,Batch,Food Waste + Oil,Yes,Yes
+25,5,Batch,Manure + Wheat Straw,No,No
+25,5,Batch,Manure + Wheat Straw,No,Yes
+25,5,Batch,Manure + Wheat Straw,Yes,No
+25,5,Batch,Manure + Wheat Straw,Yes,Yes
+25,5,Batch,Food Waste + Sewage Sludge,No,No
+25,5,Batch,Food Waste + Sewage Sludge,No,Yes
+25,5,Batch,Food Waste + Sewage Sludge,Yes,No
+25,5,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,5,Semi-continuous,Manure,No,No
+25,5,Semi-continuous,Manure,No,Yes
+25,5,Semi-continuous,Manure,Yes,No
+25,5,Semi-continuous,Manure,Yes,Yes
+25,5,Semi-continuous,Food Waste,No,No
+25,5,Semi-continuous,Food Waste,No,Yes
+25,5,Semi-continuous,Food Waste,Yes,No
+25,5,Semi-continuous,Food Waste,Yes,Yes
+25,5,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,5,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,5,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,5,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,5,Semi-continuous,Sewage Sludge,No,No
+25,5,Semi-continuous,Sewage Sludge,No,Yes
+25,5,Semi-continuous,Sewage Sludge,Yes,No
+25,5,Semi-continuous,Sewage Sludge,Yes,Yes
+25,5,Semi-continuous,Food Waste + Manure,No,No
+25,5,Semi-continuous,Food Waste + Manure,No,Yes
+25,5,Semi-continuous,Food Waste + Manure,Yes,No
+25,5,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,5,Semi-continuous,Food Waste + Oil,No,No
+25,5,Semi-continuous,Food Waste + Oil,No,Yes
+25,5,Semi-continuous,Food Waste + Oil,Yes,No
+25,5,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,5,Semi-continuous,Manure + Wheat Straw,No,No
+25,5,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,5,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,5,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,5,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,5,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,5,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,5,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,15,Batch,Manure,No,No
+25,15,Batch,Manure,No,Yes
+25,15,Batch,Manure,Yes,No
+25,15,Batch,Manure,Yes,Yes
+25,15,Batch,Food Waste,No,No
+25,15,Batch,Food Waste,No,Yes
+25,15,Batch,Food Waste,Yes,No
+25,15,Batch,Food Waste,Yes,Yes
+25,15,Batch,Pharmaceutical Waste Sludge,No,No
+25,15,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,15,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,15,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,15,Batch,Sewage Sludge,No,No
+25,15,Batch,Sewage Sludge,No,Yes
+25,15,Batch,Sewage Sludge,Yes,No
+25,15,Batch,Sewage Sludge,Yes,Yes
+25,15,Batch,Food Waste + Manure,No,No
+25,15,Batch,Food Waste + Manure,No,Yes
+25,15,Batch,Food Waste + Manure,Yes,No
+25,15,Batch,Food Waste + Manure,Yes,Yes
+25,15,Batch,Food Waste + Oil,No,No
+25,15,Batch,Food Waste + Oil,No,Yes
+25,15,Batch,Food Waste + Oil,Yes,No
+25,15,Batch,Food Waste + Oil,Yes,Yes
+25,15,Batch,Manure + Wheat Straw,No,No
+25,15,Batch,Manure + Wheat Straw,No,Yes
+25,15,Batch,Manure + Wheat Straw,Yes,No
+25,15,Batch,Manure + Wheat Straw,Yes,Yes
+25,15,Batch,Food Waste + Sewage Sludge,No,No
+25,15,Batch,Food Waste + Sewage Sludge,No,Yes
+25,15,Batch,Food Waste + Sewage Sludge,Yes,No
+25,15,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,15,Semi-continuous,Manure,No,No
+25,15,Semi-continuous,Manure,No,Yes
+25,15,Semi-continuous,Manure,Yes,No
+25,15,Semi-continuous,Manure,Yes,Yes
+25,15,Semi-continuous,Food Waste,No,No
+25,15,Semi-continuous,Food Waste,No,Yes
+25,15,Semi-continuous,Food Waste,Yes,No
+25,15,Semi-continuous,Food Waste,Yes,Yes
+25,15,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,15,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,15,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,15,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,15,Semi-continuous,Sewage Sludge,No,No
+25,15,Semi-continuous,Sewage Sludge,No,Yes
+25,15,Semi-continuous,Sewage Sludge,Yes,No
+25,15,Semi-continuous,Sewage Sludge,Yes,Yes
+25,15,Semi-continuous,Food Waste + Manure,No,No
+25,15,Semi-continuous,Food Waste + Manure,No,Yes
+25,15,Semi-continuous,Food Waste + Manure,Yes,No
+25,15,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,15,Semi-continuous,Food Waste + Oil,No,No
+25,15,Semi-continuous,Food Waste + Oil,No,Yes
+25,15,Semi-continuous,Food Waste + Oil,Yes,No
+25,15,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,15,Semi-continuous,Manure + Wheat Straw,No,No
+25,15,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,15,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,15,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,15,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,15,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,15,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,15,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,25,Batch,Manure,No,No
+25,25,Batch,Manure,No,Yes
+25,25,Batch,Manure,Yes,No
+25,25,Batch,Manure,Yes,Yes
+25,25,Batch,Food Waste,No,No
+25,25,Batch,Food Waste,No,Yes
+25,25,Batch,Food Waste,Yes,No
+25,25,Batch,Food Waste,Yes,Yes
+25,25,Batch,Pharmaceutical Waste Sludge,No,No
+25,25,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,25,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,25,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,25,Batch,Sewage Sludge,No,No
+25,25,Batch,Sewage Sludge,No,Yes
+25,25,Batch,Sewage Sludge,Yes,No
+25,25,Batch,Sewage Sludge,Yes,Yes
+25,25,Batch,Food Waste + Manure,No,No
+25,25,Batch,Food Waste + Manure,No,Yes
+25,25,Batch,Food Waste + Manure,Yes,No
+25,25,Batch,Food Waste + Manure,Yes,Yes
+25,25,Batch,Food Waste + Oil,No,No
+25,25,Batch,Food Waste + Oil,No,Yes
+25,25,Batch,Food Waste + Oil,Yes,No
+25,25,Batch,Food Waste + Oil,Yes,Yes
+25,25,Batch,Manure + Wheat Straw,No,No
+25,25,Batch,Manure + Wheat Straw,No,Yes
+25,25,Batch,Manure + Wheat Straw,Yes,No
+25,25,Batch,Manure + Wheat Straw,Yes,Yes
+25,25,Batch,Food Waste + Sewage Sludge,No,No
+25,25,Batch,Food Waste + Sewage Sludge,No,Yes
+25,25,Batch,Food Waste + Sewage Sludge,Yes,No
+25,25,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,25,Semi-continuous,Manure,No,No
+25,25,Semi-continuous,Manure,No,Yes
+25,25,Semi-continuous,Manure,Yes,No
+25,25,Semi-continuous,Manure,Yes,Yes
+25,25,Semi-continuous,Food Waste,No,No
+25,25,Semi-continuous,Food Waste,No,Yes
+25,25,Semi-continuous,Food Waste,Yes,No
+25,25,Semi-continuous,Food Waste,Yes,Yes
+25,25,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,25,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,25,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,25,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,25,Semi-continuous,Sewage Sludge,No,No
+25,25,Semi-continuous,Sewage Sludge,No,Yes
+25,25,Semi-continuous,Sewage Sludge,Yes,No
+25,25,Semi-continuous,Sewage Sludge,Yes,Yes
+25,25,Semi-continuous,Food Waste + Manure,No,No
+25,25,Semi-continuous,Food Waste + Manure,No,Yes
+25,25,Semi-continuous,Food Waste + Manure,Yes,No
+25,25,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,25,Semi-continuous,Food Waste + Oil,No,No
+25,25,Semi-continuous,Food Waste + Oil,No,Yes
+25,25,Semi-continuous,Food Waste + Oil,Yes,No
+25,25,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,25,Semi-continuous,Manure + Wheat Straw,No,No
+25,25,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,25,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,25,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,25,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,25,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,25,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,25,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,35,Batch,Manure,No,No
+25,35,Batch,Manure,No,Yes
+25,35,Batch,Manure,Yes,No
+25,35,Batch,Manure,Yes,Yes
+25,35,Batch,Food Waste,No,No
+25,35,Batch,Food Waste,No,Yes
+25,35,Batch,Food Waste,Yes,No
+25,35,Batch,Food Waste,Yes,Yes
+25,35,Batch,Pharmaceutical Waste Sludge,No,No
+25,35,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,35,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,35,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,35,Batch,Sewage Sludge,No,No
+25,35,Batch,Sewage Sludge,No,Yes
+25,35,Batch,Sewage Sludge,Yes,No
+25,35,Batch,Sewage Sludge,Yes,Yes
+25,35,Batch,Food Waste + Manure,No,No
+25,35,Batch,Food Waste + Manure,No,Yes
+25,35,Batch,Food Waste + Manure,Yes,No
+25,35,Batch,Food Waste + Manure,Yes,Yes
+25,35,Batch,Food Waste + Oil,No,No
+25,35,Batch,Food Waste + Oil,No,Yes
+25,35,Batch,Food Waste + Oil,Yes,No
+25,35,Batch,Food Waste + Oil,Yes,Yes
+25,35,Batch,Manure + Wheat Straw,No,No
+25,35,Batch,Manure + Wheat Straw,No,Yes
+25,35,Batch,Manure + Wheat Straw,Yes,No
+25,35,Batch,Manure + Wheat Straw,Yes,Yes
+25,35,Batch,Food Waste + Sewage Sludge,No,No
+25,35,Batch,Food Waste + Sewage Sludge,No,Yes
+25,35,Batch,Food Waste + Sewage Sludge,Yes,No
+25,35,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,35,Semi-continuous,Manure,No,No
+25,35,Semi-continuous,Manure,No,Yes
+25,35,Semi-continuous,Manure,Yes,No
+25,35,Semi-continuous,Manure,Yes,Yes
+25,35,Semi-continuous,Food Waste,No,No
+25,35,Semi-continuous,Food Waste,No,Yes
+25,35,Semi-continuous,Food Waste,Yes,No
+25,35,Semi-continuous,Food Waste,Yes,Yes
+25,35,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,35,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,35,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,35,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,35,Semi-continuous,Sewage Sludge,No,No
+25,35,Semi-continuous,Sewage Sludge,No,Yes
+25,35,Semi-continuous,Sewage Sludge,Yes,No
+25,35,Semi-continuous,Sewage Sludge,Yes,Yes
+25,35,Semi-continuous,Food Waste + Manure,No,No
+25,35,Semi-continuous,Food Waste + Manure,No,Yes
+25,35,Semi-continuous,Food Waste + Manure,Yes,No
+25,35,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,35,Semi-continuous,Food Waste + Oil,No,No
+25,35,Semi-continuous,Food Waste + Oil,No,Yes
+25,35,Semi-continuous,Food Waste + Oil,Yes,No
+25,35,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,35,Semi-continuous,Manure + Wheat Straw,No,No
+25,35,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,35,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,35,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,35,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,35,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,35,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,35,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,45,Batch,Manure,No,No
+25,45,Batch,Manure,No,Yes
+25,45,Batch,Manure,Yes,No
+25,45,Batch,Manure,Yes,Yes
+25,45,Batch,Food Waste,No,No
+25,45,Batch,Food Waste,No,Yes
+25,45,Batch,Food Waste,Yes,No
+25,45,Batch,Food Waste,Yes,Yes
+25,45,Batch,Pharmaceutical Waste Sludge,No,No
+25,45,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,45,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,45,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,45,Batch,Sewage Sludge,No,No
+25,45,Batch,Sewage Sludge,No,Yes
+25,45,Batch,Sewage Sludge,Yes,No
+25,45,Batch,Sewage Sludge,Yes,Yes
+25,45,Batch,Food Waste + Manure,No,No
+25,45,Batch,Food Waste + Manure,No,Yes
+25,45,Batch,Food Waste + Manure,Yes,No
+25,45,Batch,Food Waste + Manure,Yes,Yes
+25,45,Batch,Food Waste + Oil,No,No
+25,45,Batch,Food Waste + Oil,No,Yes
+25,45,Batch,Food Waste + Oil,Yes,No
+25,45,Batch,Food Waste + Oil,Yes,Yes
+25,45,Batch,Manure + Wheat Straw,No,No
+25,45,Batch,Manure + Wheat Straw,No,Yes
+25,45,Batch,Manure + Wheat Straw,Yes,No
+25,45,Batch,Manure + Wheat Straw,Yes,Yes
+25,45,Batch,Food Waste + Sewage Sludge,No,No
+25,45,Batch,Food Waste + Sewage Sludge,No,Yes
+25,45,Batch,Food Waste + Sewage Sludge,Yes,No
+25,45,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,45,Semi-continuous,Manure,No,No
+25,45,Semi-continuous,Manure,No,Yes
+25,45,Semi-continuous,Manure,Yes,No
+25,45,Semi-continuous,Manure,Yes,Yes
+25,45,Semi-continuous,Food Waste,No,No
+25,45,Semi-continuous,Food Waste,No,Yes
+25,45,Semi-continuous,Food Waste,Yes,No
+25,45,Semi-continuous,Food Waste,Yes,Yes
+25,45,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,45,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,45,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,45,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,45,Semi-continuous,Sewage Sludge,No,No
+25,45,Semi-continuous,Sewage Sludge,No,Yes
+25,45,Semi-continuous,Sewage Sludge,Yes,No
+25,45,Semi-continuous,Sewage Sludge,Yes,Yes
+25,45,Semi-continuous,Food Waste + Manure,No,No
+25,45,Semi-continuous,Food Waste + Manure,No,Yes
+25,45,Semi-continuous,Food Waste + Manure,Yes,No
+25,45,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,45,Semi-continuous,Food Waste + Oil,No,No
+25,45,Semi-continuous,Food Waste + Oil,No,Yes
+25,45,Semi-continuous,Food Waste + Oil,Yes,No
+25,45,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,45,Semi-continuous,Manure + Wheat Straw,No,No
+25,45,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,45,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,45,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,45,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,45,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,45,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,45,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,55,Batch,Manure,No,No
+25,55,Batch,Manure,No,Yes
+25,55,Batch,Manure,Yes,No
+25,55,Batch,Manure,Yes,Yes
+25,55,Batch,Food Waste,No,No
+25,55,Batch,Food Waste,No,Yes
+25,55,Batch,Food Waste,Yes,No
+25,55,Batch,Food Waste,Yes,Yes
+25,55,Batch,Pharmaceutical Waste Sludge,No,No
+25,55,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,55,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,55,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,55,Batch,Sewage Sludge,No,No
+25,55,Batch,Sewage Sludge,No,Yes
+25,55,Batch,Sewage Sludge,Yes,No
+25,55,Batch,Sewage Sludge,Yes,Yes
+25,55,Batch,Food Waste + Manure,No,No
+25,55,Batch,Food Waste + Manure,No,Yes
+25,55,Batch,Food Waste + Manure,Yes,No
+25,55,Batch,Food Waste + Manure,Yes,Yes
+25,55,Batch,Food Waste + Oil,No,No
+25,55,Batch,Food Waste + Oil,No,Yes
+25,55,Batch,Food Waste + Oil,Yes,No
+25,55,Batch,Food Waste + Oil,Yes,Yes
+25,55,Batch,Manure + Wheat Straw,No,No
+25,55,Batch,Manure + Wheat Straw,No,Yes
+25,55,Batch,Manure + Wheat Straw,Yes,No
+25,55,Batch,Manure + Wheat Straw,Yes,Yes
+25,55,Batch,Food Waste + Sewage Sludge,No,No
+25,55,Batch,Food Waste + Sewage Sludge,No,Yes
+25,55,Batch,Food Waste + Sewage Sludge,Yes,No
+25,55,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,55,Semi-continuous,Manure,No,No
+25,55,Semi-continuous,Manure,No,Yes
+25,55,Semi-continuous,Manure,Yes,No
+25,55,Semi-continuous,Manure,Yes,Yes
+25,55,Semi-continuous,Food Waste,No,No
+25,55,Semi-continuous,Food Waste,No,Yes
+25,55,Semi-continuous,Food Waste,Yes,No
+25,55,Semi-continuous,Food Waste,Yes,Yes
+25,55,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,55,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,55,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,55,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,55,Semi-continuous,Sewage Sludge,No,No
+25,55,Semi-continuous,Sewage Sludge,No,Yes
+25,55,Semi-continuous,Sewage Sludge,Yes,No
+25,55,Semi-continuous,Sewage Sludge,Yes,Yes
+25,55,Semi-continuous,Food Waste + Manure,No,No
+25,55,Semi-continuous,Food Waste + Manure,No,Yes
+25,55,Semi-continuous,Food Waste + Manure,Yes,No
+25,55,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,55,Semi-continuous,Food Waste + Oil,No,No
+25,55,Semi-continuous,Food Waste + Oil,No,Yes
+25,55,Semi-continuous,Food Waste + Oil,Yes,No
+25,55,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,55,Semi-continuous,Manure + Wheat Straw,No,No
+25,55,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,55,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,55,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,55,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,55,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,55,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,55,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,65,Batch,Manure,No,No
+25,65,Batch,Manure,No,Yes
+25,65,Batch,Manure,Yes,No
+25,65,Batch,Manure,Yes,Yes
+25,65,Batch,Food Waste,No,No
+25,65,Batch,Food Waste,No,Yes
+25,65,Batch,Food Waste,Yes,No
+25,65,Batch,Food Waste,Yes,Yes
+25,65,Batch,Pharmaceutical Waste Sludge,No,No
+25,65,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,65,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,65,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,65,Batch,Sewage Sludge,No,No
+25,65,Batch,Sewage Sludge,No,Yes
+25,65,Batch,Sewage Sludge,Yes,No
+25,65,Batch,Sewage Sludge,Yes,Yes
+25,65,Batch,Food Waste + Manure,No,No
+25,65,Batch,Food Waste + Manure,No,Yes
+25,65,Batch,Food Waste + Manure,Yes,No
+25,65,Batch,Food Waste + Manure,Yes,Yes
+25,65,Batch,Food Waste + Oil,No,No
+25,65,Batch,Food Waste + Oil,No,Yes
+25,65,Batch,Food Waste + Oil,Yes,No
+25,65,Batch,Food Waste + Oil,Yes,Yes
+25,65,Batch,Manure + Wheat Straw,No,No
+25,65,Batch,Manure + Wheat Straw,No,Yes
+25,65,Batch,Manure + Wheat Straw,Yes,No
+25,65,Batch,Manure + Wheat Straw,Yes,Yes
+25,65,Batch,Food Waste + Sewage Sludge,No,No
+25,65,Batch,Food Waste + Sewage Sludge,No,Yes
+25,65,Batch,Food Waste + Sewage Sludge,Yes,No
+25,65,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,65,Semi-continuous,Manure,No,No
+25,65,Semi-continuous,Manure,No,Yes
+25,65,Semi-continuous,Manure,Yes,No
+25,65,Semi-continuous,Manure,Yes,Yes
+25,65,Semi-continuous,Food Waste,No,No
+25,65,Semi-continuous,Food Waste,No,Yes
+25,65,Semi-continuous,Food Waste,Yes,No
+25,65,Semi-continuous,Food Waste,Yes,Yes
+25,65,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,65,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,65,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,65,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,65,Semi-continuous,Sewage Sludge,No,No
+25,65,Semi-continuous,Sewage Sludge,No,Yes
+25,65,Semi-continuous,Sewage Sludge,Yes,No
+25,65,Semi-continuous,Sewage Sludge,Yes,Yes
+25,65,Semi-continuous,Food Waste + Manure,No,No
+25,65,Semi-continuous,Food Waste + Manure,No,Yes
+25,65,Semi-continuous,Food Waste + Manure,Yes,No
+25,65,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,65,Semi-continuous,Food Waste + Oil,No,No
+25,65,Semi-continuous,Food Waste + Oil,No,Yes
+25,65,Semi-continuous,Food Waste + Oil,Yes,No
+25,65,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,65,Semi-continuous,Manure + Wheat Straw,No,No
+25,65,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,65,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,65,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,65,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,65,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,65,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,65,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,75,Batch,Manure,No,No
+25,75,Batch,Manure,No,Yes
+25,75,Batch,Manure,Yes,No
+25,75,Batch,Manure,Yes,Yes
+25,75,Batch,Food Waste,No,No
+25,75,Batch,Food Waste,No,Yes
+25,75,Batch,Food Waste,Yes,No
+25,75,Batch,Food Waste,Yes,Yes
+25,75,Batch,Pharmaceutical Waste Sludge,No,No
+25,75,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,75,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,75,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,75,Batch,Sewage Sludge,No,No
+25,75,Batch,Sewage Sludge,No,Yes
+25,75,Batch,Sewage Sludge,Yes,No
+25,75,Batch,Sewage Sludge,Yes,Yes
+25,75,Batch,Food Waste + Manure,No,No
+25,75,Batch,Food Waste + Manure,No,Yes
+25,75,Batch,Food Waste + Manure,Yes,No
+25,75,Batch,Food Waste + Manure,Yes,Yes
+25,75,Batch,Food Waste + Oil,No,No
+25,75,Batch,Food Waste + Oil,No,Yes
+25,75,Batch,Food Waste + Oil,Yes,No
+25,75,Batch,Food Waste + Oil,Yes,Yes
+25,75,Batch,Manure + Wheat Straw,No,No
+25,75,Batch,Manure + Wheat Straw,No,Yes
+25,75,Batch,Manure + Wheat Straw,Yes,No
+25,75,Batch,Manure + Wheat Straw,Yes,Yes
+25,75,Batch,Food Waste + Sewage Sludge,No,No
+25,75,Batch,Food Waste + Sewage Sludge,No,Yes
+25,75,Batch,Food Waste + Sewage Sludge,Yes,No
+25,75,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,75,Semi-continuous,Manure,No,No
+25,75,Semi-continuous,Manure,No,Yes
+25,75,Semi-continuous,Manure,Yes,No
+25,75,Semi-continuous,Manure,Yes,Yes
+25,75,Semi-continuous,Food Waste,No,No
+25,75,Semi-continuous,Food Waste,No,Yes
+25,75,Semi-continuous,Food Waste,Yes,No
+25,75,Semi-continuous,Food Waste,Yes,Yes
+25,75,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,75,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,75,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,75,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,75,Semi-continuous,Sewage Sludge,No,No
+25,75,Semi-continuous,Sewage Sludge,No,Yes
+25,75,Semi-continuous,Sewage Sludge,Yes,No
+25,75,Semi-continuous,Sewage Sludge,Yes,Yes
+25,75,Semi-continuous,Food Waste + Manure,No,No
+25,75,Semi-continuous,Food Waste + Manure,No,Yes
+25,75,Semi-continuous,Food Waste + Manure,Yes,No
+25,75,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,75,Semi-continuous,Food Waste + Oil,No,No
+25,75,Semi-continuous,Food Waste + Oil,No,Yes
+25,75,Semi-continuous,Food Waste + Oil,Yes,No
+25,75,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,75,Semi-continuous,Manure + Wheat Straw,No,No
+25,75,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,75,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,75,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,75,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,75,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,75,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,75,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,85,Batch,Manure,No,No
+25,85,Batch,Manure,No,Yes
+25,85,Batch,Manure,Yes,No
+25,85,Batch,Manure,Yes,Yes
+25,85,Batch,Food Waste,No,No
+25,85,Batch,Food Waste,No,Yes
+25,85,Batch,Food Waste,Yes,No
+25,85,Batch,Food Waste,Yes,Yes
+25,85,Batch,Pharmaceutical Waste Sludge,No,No
+25,85,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,85,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,85,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,85,Batch,Sewage Sludge,No,No
+25,85,Batch,Sewage Sludge,No,Yes
+25,85,Batch,Sewage Sludge,Yes,No
+25,85,Batch,Sewage Sludge,Yes,Yes
+25,85,Batch,Food Waste + Manure,No,No
+25,85,Batch,Food Waste + Manure,No,Yes
+25,85,Batch,Food Waste + Manure,Yes,No
+25,85,Batch,Food Waste + Manure,Yes,Yes
+25,85,Batch,Food Waste + Oil,No,No
+25,85,Batch,Food Waste + Oil,No,Yes
+25,85,Batch,Food Waste + Oil,Yes,No
+25,85,Batch,Food Waste + Oil,Yes,Yes
+25,85,Batch,Manure + Wheat Straw,No,No
+25,85,Batch,Manure + Wheat Straw,No,Yes
+25,85,Batch,Manure + Wheat Straw,Yes,No
+25,85,Batch,Manure + Wheat Straw,Yes,Yes
+25,85,Batch,Food Waste + Sewage Sludge,No,No
+25,85,Batch,Food Waste + Sewage Sludge,No,Yes
+25,85,Batch,Food Waste + Sewage Sludge,Yes,No
+25,85,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,85,Semi-continuous,Manure,No,No
+25,85,Semi-continuous,Manure,No,Yes
+25,85,Semi-continuous,Manure,Yes,No
+25,85,Semi-continuous,Manure,Yes,Yes
+25,85,Semi-continuous,Food Waste,No,No
+25,85,Semi-continuous,Food Waste,No,Yes
+25,85,Semi-continuous,Food Waste,Yes,No
+25,85,Semi-continuous,Food Waste,Yes,Yes
+25,85,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,85,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,85,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,85,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,85,Semi-continuous,Sewage Sludge,No,No
+25,85,Semi-continuous,Sewage Sludge,No,Yes
+25,85,Semi-continuous,Sewage Sludge,Yes,No
+25,85,Semi-continuous,Sewage Sludge,Yes,Yes
+25,85,Semi-continuous,Food Waste + Manure,No,No
+25,85,Semi-continuous,Food Waste + Manure,No,Yes
+25,85,Semi-continuous,Food Waste + Manure,Yes,No
+25,85,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,85,Semi-continuous,Food Waste + Oil,No,No
+25,85,Semi-continuous,Food Waste + Oil,No,Yes
+25,85,Semi-continuous,Food Waste + Oil,Yes,No
+25,85,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,85,Semi-continuous,Manure + Wheat Straw,No,No
+25,85,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,85,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,85,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,85,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,85,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,85,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,85,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,95,Batch,Manure,No,No
+25,95,Batch,Manure,No,Yes
+25,95,Batch,Manure,Yes,No
+25,95,Batch,Manure,Yes,Yes
+25,95,Batch,Food Waste,No,No
+25,95,Batch,Food Waste,No,Yes
+25,95,Batch,Food Waste,Yes,No
+25,95,Batch,Food Waste,Yes,Yes
+25,95,Batch,Pharmaceutical Waste Sludge,No,No
+25,95,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,95,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,95,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,95,Batch,Sewage Sludge,No,No
+25,95,Batch,Sewage Sludge,No,Yes
+25,95,Batch,Sewage Sludge,Yes,No
+25,95,Batch,Sewage Sludge,Yes,Yes
+25,95,Batch,Food Waste + Manure,No,No
+25,95,Batch,Food Waste + Manure,No,Yes
+25,95,Batch,Food Waste + Manure,Yes,No
+25,95,Batch,Food Waste + Manure,Yes,Yes
+25,95,Batch,Food Waste + Oil,No,No
+25,95,Batch,Food Waste + Oil,No,Yes
+25,95,Batch,Food Waste + Oil,Yes,No
+25,95,Batch,Food Waste + Oil,Yes,Yes
+25,95,Batch,Manure + Wheat Straw,No,No
+25,95,Batch,Manure + Wheat Straw,No,Yes
+25,95,Batch,Manure + Wheat Straw,Yes,No
+25,95,Batch,Manure + Wheat Straw,Yes,Yes
+25,95,Batch,Food Waste + Sewage Sludge,No,No
+25,95,Batch,Food Waste + Sewage Sludge,No,Yes
+25,95,Batch,Food Waste + Sewage Sludge,Yes,No
+25,95,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,95,Semi-continuous,Manure,No,No
+25,95,Semi-continuous,Manure,No,Yes
+25,95,Semi-continuous,Manure,Yes,No
+25,95,Semi-continuous,Manure,Yes,Yes
+25,95,Semi-continuous,Food Waste,No,No
+25,95,Semi-continuous,Food Waste,No,Yes
+25,95,Semi-continuous,Food Waste,Yes,No
+25,95,Semi-continuous,Food Waste,Yes,Yes
+25,95,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,95,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,95,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,95,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,95,Semi-continuous,Sewage Sludge,No,No
+25,95,Semi-continuous,Sewage Sludge,No,Yes
+25,95,Semi-continuous,Sewage Sludge,Yes,No
+25,95,Semi-continuous,Sewage Sludge,Yes,Yes
+25,95,Semi-continuous,Food Waste + Manure,No,No
+25,95,Semi-continuous,Food Waste + Manure,No,Yes
+25,95,Semi-continuous,Food Waste + Manure,Yes,No
+25,95,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,95,Semi-continuous,Food Waste + Oil,No,No
+25,95,Semi-continuous,Food Waste + Oil,No,Yes
+25,95,Semi-continuous,Food Waste + Oil,Yes,No
+25,95,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,95,Semi-continuous,Manure + Wheat Straw,No,No
+25,95,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,95,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,95,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,95,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,95,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,95,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,95,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,105,Batch,Manure,No,No
+25,105,Batch,Manure,No,Yes
+25,105,Batch,Manure,Yes,No
+25,105,Batch,Manure,Yes,Yes
+25,105,Batch,Food Waste,No,No
+25,105,Batch,Food Waste,No,Yes
+25,105,Batch,Food Waste,Yes,No
+25,105,Batch,Food Waste,Yes,Yes
+25,105,Batch,Pharmaceutical Waste Sludge,No,No
+25,105,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,105,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,105,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,105,Batch,Sewage Sludge,No,No
+25,105,Batch,Sewage Sludge,No,Yes
+25,105,Batch,Sewage Sludge,Yes,No
+25,105,Batch,Sewage Sludge,Yes,Yes
+25,105,Batch,Food Waste + Manure,No,No
+25,105,Batch,Food Waste + Manure,No,Yes
+25,105,Batch,Food Waste + Manure,Yes,No
+25,105,Batch,Food Waste + Manure,Yes,Yes
+25,105,Batch,Food Waste + Oil,No,No
+25,105,Batch,Food Waste + Oil,No,Yes
+25,105,Batch,Food Waste + Oil,Yes,No
+25,105,Batch,Food Waste + Oil,Yes,Yes
+25,105,Batch,Manure + Wheat Straw,No,No
+25,105,Batch,Manure + Wheat Straw,No,Yes
+25,105,Batch,Manure + Wheat Straw,Yes,No
+25,105,Batch,Manure + Wheat Straw,Yes,Yes
+25,105,Batch,Food Waste + Sewage Sludge,No,No
+25,105,Batch,Food Waste + Sewage Sludge,No,Yes
+25,105,Batch,Food Waste + Sewage Sludge,Yes,No
+25,105,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,105,Semi-continuous,Manure,No,No
+25,105,Semi-continuous,Manure,No,Yes
+25,105,Semi-continuous,Manure,Yes,No
+25,105,Semi-continuous,Manure,Yes,Yes
+25,105,Semi-continuous,Food Waste,No,No
+25,105,Semi-continuous,Food Waste,No,Yes
+25,105,Semi-continuous,Food Waste,Yes,No
+25,105,Semi-continuous,Food Waste,Yes,Yes
+25,105,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,105,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,105,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,105,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,105,Semi-continuous,Sewage Sludge,No,No
+25,105,Semi-continuous,Sewage Sludge,No,Yes
+25,105,Semi-continuous,Sewage Sludge,Yes,No
+25,105,Semi-continuous,Sewage Sludge,Yes,Yes
+25,105,Semi-continuous,Food Waste + Manure,No,No
+25,105,Semi-continuous,Food Waste + Manure,No,Yes
+25,105,Semi-continuous,Food Waste + Manure,Yes,No
+25,105,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,105,Semi-continuous,Food Waste + Oil,No,No
+25,105,Semi-continuous,Food Waste + Oil,No,Yes
+25,105,Semi-continuous,Food Waste + Oil,Yes,No
+25,105,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,105,Semi-continuous,Manure + Wheat Straw,No,No
+25,105,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,105,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,105,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,105,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,105,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,105,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,105,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,115,Batch,Manure,No,No
+25,115,Batch,Manure,No,Yes
+25,115,Batch,Manure,Yes,No
+25,115,Batch,Manure,Yes,Yes
+25,115,Batch,Food Waste,No,No
+25,115,Batch,Food Waste,No,Yes
+25,115,Batch,Food Waste,Yes,No
+25,115,Batch,Food Waste,Yes,Yes
+25,115,Batch,Pharmaceutical Waste Sludge,No,No
+25,115,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,115,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,115,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,115,Batch,Sewage Sludge,No,No
+25,115,Batch,Sewage Sludge,No,Yes
+25,115,Batch,Sewage Sludge,Yes,No
+25,115,Batch,Sewage Sludge,Yes,Yes
+25,115,Batch,Food Waste + Manure,No,No
+25,115,Batch,Food Waste + Manure,No,Yes
+25,115,Batch,Food Waste + Manure,Yes,No
+25,115,Batch,Food Waste + Manure,Yes,Yes
+25,115,Batch,Food Waste + Oil,No,No
+25,115,Batch,Food Waste + Oil,No,Yes
+25,115,Batch,Food Waste + Oil,Yes,No
+25,115,Batch,Food Waste + Oil,Yes,Yes
+25,115,Batch,Manure + Wheat Straw,No,No
+25,115,Batch,Manure + Wheat Straw,No,Yes
+25,115,Batch,Manure + Wheat Straw,Yes,No
+25,115,Batch,Manure + Wheat Straw,Yes,Yes
+25,115,Batch,Food Waste + Sewage Sludge,No,No
+25,115,Batch,Food Waste + Sewage Sludge,No,Yes
+25,115,Batch,Food Waste + Sewage Sludge,Yes,No
+25,115,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,115,Semi-continuous,Manure,No,No
+25,115,Semi-continuous,Manure,No,Yes
+25,115,Semi-continuous,Manure,Yes,No
+25,115,Semi-continuous,Manure,Yes,Yes
+25,115,Semi-continuous,Food Waste,No,No
+25,115,Semi-continuous,Food Waste,No,Yes
+25,115,Semi-continuous,Food Waste,Yes,No
+25,115,Semi-continuous,Food Waste,Yes,Yes
+25,115,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,115,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,115,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,115,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,115,Semi-continuous,Sewage Sludge,No,No
+25,115,Semi-continuous,Sewage Sludge,No,Yes
+25,115,Semi-continuous,Sewage Sludge,Yes,No
+25,115,Semi-continuous,Sewage Sludge,Yes,Yes
+25,115,Semi-continuous,Food Waste + Manure,No,No
+25,115,Semi-continuous,Food Waste + Manure,No,Yes
+25,115,Semi-continuous,Food Waste + Manure,Yes,No
+25,115,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,115,Semi-continuous,Food Waste + Oil,No,No
+25,115,Semi-continuous,Food Waste + Oil,No,Yes
+25,115,Semi-continuous,Food Waste + Oil,Yes,No
+25,115,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,115,Semi-continuous,Manure + Wheat Straw,No,No
+25,115,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,115,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,115,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,115,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,115,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,115,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,115,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,125,Batch,Manure,No,No
+25,125,Batch,Manure,No,Yes
+25,125,Batch,Manure,Yes,No
+25,125,Batch,Manure,Yes,Yes
+25,125,Batch,Food Waste,No,No
+25,125,Batch,Food Waste,No,Yes
+25,125,Batch,Food Waste,Yes,No
+25,125,Batch,Food Waste,Yes,Yes
+25,125,Batch,Pharmaceutical Waste Sludge,No,No
+25,125,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,125,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,125,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,125,Batch,Sewage Sludge,No,No
+25,125,Batch,Sewage Sludge,No,Yes
+25,125,Batch,Sewage Sludge,Yes,No
+25,125,Batch,Sewage Sludge,Yes,Yes
+25,125,Batch,Food Waste + Manure,No,No
+25,125,Batch,Food Waste + Manure,No,Yes
+25,125,Batch,Food Waste + Manure,Yes,No
+25,125,Batch,Food Waste + Manure,Yes,Yes
+25,125,Batch,Food Waste + Oil,No,No
+25,125,Batch,Food Waste + Oil,No,Yes
+25,125,Batch,Food Waste + Oil,Yes,No
+25,125,Batch,Food Waste + Oil,Yes,Yes
+25,125,Batch,Manure + Wheat Straw,No,No
+25,125,Batch,Manure + Wheat Straw,No,Yes
+25,125,Batch,Manure + Wheat Straw,Yes,No
+25,125,Batch,Manure + Wheat Straw,Yes,Yes
+25,125,Batch,Food Waste + Sewage Sludge,No,No
+25,125,Batch,Food Waste + Sewage Sludge,No,Yes
+25,125,Batch,Food Waste + Sewage Sludge,Yes,No
+25,125,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,125,Semi-continuous,Manure,No,No
+25,125,Semi-continuous,Manure,No,Yes
+25,125,Semi-continuous,Manure,Yes,No
+25,125,Semi-continuous,Manure,Yes,Yes
+25,125,Semi-continuous,Food Waste,No,No
+25,125,Semi-continuous,Food Waste,No,Yes
+25,125,Semi-continuous,Food Waste,Yes,No
+25,125,Semi-continuous,Food Waste,Yes,Yes
+25,125,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,125,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,125,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,125,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,125,Semi-continuous,Sewage Sludge,No,No
+25,125,Semi-continuous,Sewage Sludge,No,Yes
+25,125,Semi-continuous,Sewage Sludge,Yes,No
+25,125,Semi-continuous,Sewage Sludge,Yes,Yes
+25,125,Semi-continuous,Food Waste + Manure,No,No
+25,125,Semi-continuous,Food Waste + Manure,No,Yes
+25,125,Semi-continuous,Food Waste + Manure,Yes,No
+25,125,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,125,Semi-continuous,Food Waste + Oil,No,No
+25,125,Semi-continuous,Food Waste + Oil,No,Yes
+25,125,Semi-continuous,Food Waste + Oil,Yes,No
+25,125,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,125,Semi-continuous,Manure + Wheat Straw,No,No
+25,125,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,125,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,125,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,125,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,125,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,125,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,125,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+25,135,Batch,Manure,No,No
+25,135,Batch,Manure,No,Yes
+25,135,Batch,Manure,Yes,No
+25,135,Batch,Manure,Yes,Yes
+25,135,Batch,Food Waste,No,No
+25,135,Batch,Food Waste,No,Yes
+25,135,Batch,Food Waste,Yes,No
+25,135,Batch,Food Waste,Yes,Yes
+25,135,Batch,Pharmaceutical Waste Sludge,No,No
+25,135,Batch,Pharmaceutical Waste Sludge,No,Yes
+25,135,Batch,Pharmaceutical Waste Sludge,Yes,No
+25,135,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+25,135,Batch,Sewage Sludge,No,No
+25,135,Batch,Sewage Sludge,No,Yes
+25,135,Batch,Sewage Sludge,Yes,No
+25,135,Batch,Sewage Sludge,Yes,Yes
+25,135,Batch,Food Waste + Manure,No,No
+25,135,Batch,Food Waste + Manure,No,Yes
+25,135,Batch,Food Waste + Manure,Yes,No
+25,135,Batch,Food Waste + Manure,Yes,Yes
+25,135,Batch,Food Waste + Oil,No,No
+25,135,Batch,Food Waste + Oil,No,Yes
+25,135,Batch,Food Waste + Oil,Yes,No
+25,135,Batch,Food Waste + Oil,Yes,Yes
+25,135,Batch,Manure + Wheat Straw,No,No
+25,135,Batch,Manure + Wheat Straw,No,Yes
+25,135,Batch,Manure + Wheat Straw,Yes,No
+25,135,Batch,Manure + Wheat Straw,Yes,Yes
+25,135,Batch,Food Waste + Sewage Sludge,No,No
+25,135,Batch,Food Waste + Sewage Sludge,No,Yes
+25,135,Batch,Food Waste + Sewage Sludge,Yes,No
+25,135,Batch,Food Waste + Sewage Sludge,Yes,Yes
+25,135,Semi-continuous,Manure,No,No
+25,135,Semi-continuous,Manure,No,Yes
+25,135,Semi-continuous,Manure,Yes,No
+25,135,Semi-continuous,Manure,Yes,Yes
+25,135,Semi-continuous,Food Waste,No,No
+25,135,Semi-continuous,Food Waste,No,Yes
+25,135,Semi-continuous,Food Waste,Yes,No
+25,135,Semi-continuous,Food Waste,Yes,Yes
+25,135,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+25,135,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+25,135,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+25,135,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+25,135,Semi-continuous,Sewage Sludge,No,No
+25,135,Semi-continuous,Sewage Sludge,No,Yes
+25,135,Semi-continuous,Sewage Sludge,Yes,No
+25,135,Semi-continuous,Sewage Sludge,Yes,Yes
+25,135,Semi-continuous,Food Waste + Manure,No,No
+25,135,Semi-continuous,Food Waste + Manure,No,Yes
+25,135,Semi-continuous,Food Waste + Manure,Yes,No
+25,135,Semi-continuous,Food Waste + Manure,Yes,Yes
+25,135,Semi-continuous,Food Waste + Oil,No,No
+25,135,Semi-continuous,Food Waste + Oil,No,Yes
+25,135,Semi-continuous,Food Waste + Oil,Yes,No
+25,135,Semi-continuous,Food Waste + Oil,Yes,Yes
+25,135,Semi-continuous,Manure + Wheat Straw,No,No
+25,135,Semi-continuous,Manure + Wheat Straw,No,Yes
+25,135,Semi-continuous,Manure + Wheat Straw,Yes,No
+25,135,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+25,135,Semi-continuous,Food Waste + Sewage Sludge,No,No
+25,135,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+25,135,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+25,135,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,5,Batch,Manure,No,No
+35,5,Batch,Manure,No,Yes
+35,5,Batch,Manure,Yes,No
+35,5,Batch,Manure,Yes,Yes
+35,5,Batch,Food Waste,No,No
+35,5,Batch,Food Waste,No,Yes
+35,5,Batch,Food Waste,Yes,No
+35,5,Batch,Food Waste,Yes,Yes
+35,5,Batch,Pharmaceutical Waste Sludge,No,No
+35,5,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,5,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,5,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,5,Batch,Sewage Sludge,No,No
+35,5,Batch,Sewage Sludge,No,Yes
+35,5,Batch,Sewage Sludge,Yes,No
+35,5,Batch,Sewage Sludge,Yes,Yes
+35,5,Batch,Food Waste + Manure,No,No
+35,5,Batch,Food Waste + Manure,No,Yes
+35,5,Batch,Food Waste + Manure,Yes,No
+35,5,Batch,Food Waste + Manure,Yes,Yes
+35,5,Batch,Food Waste + Oil,No,No
+35,5,Batch,Food Waste + Oil,No,Yes
+35,5,Batch,Food Waste + Oil,Yes,No
+35,5,Batch,Food Waste + Oil,Yes,Yes
+35,5,Batch,Manure + Wheat Straw,No,No
+35,5,Batch,Manure + Wheat Straw,No,Yes
+35,5,Batch,Manure + Wheat Straw,Yes,No
+35,5,Batch,Manure + Wheat Straw,Yes,Yes
+35,5,Batch,Food Waste + Sewage Sludge,No,No
+35,5,Batch,Food Waste + Sewage Sludge,No,Yes
+35,5,Batch,Food Waste + Sewage Sludge,Yes,No
+35,5,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,5,Semi-continuous,Manure,No,No
+35,5,Semi-continuous,Manure,No,Yes
+35,5,Semi-continuous,Manure,Yes,No
+35,5,Semi-continuous,Manure,Yes,Yes
+35,5,Semi-continuous,Food Waste,No,No
+35,5,Semi-continuous,Food Waste,No,Yes
+35,5,Semi-continuous,Food Waste,Yes,No
+35,5,Semi-continuous,Food Waste,Yes,Yes
+35,5,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,5,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,5,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,5,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,5,Semi-continuous,Sewage Sludge,No,No
+35,5,Semi-continuous,Sewage Sludge,No,Yes
+35,5,Semi-continuous,Sewage Sludge,Yes,No
+35,5,Semi-continuous,Sewage Sludge,Yes,Yes
+35,5,Semi-continuous,Food Waste + Manure,No,No
+35,5,Semi-continuous,Food Waste + Manure,No,Yes
+35,5,Semi-continuous,Food Waste + Manure,Yes,No
+35,5,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,5,Semi-continuous,Food Waste + Oil,No,No
+35,5,Semi-continuous,Food Waste + Oil,No,Yes
+35,5,Semi-continuous,Food Waste + Oil,Yes,No
+35,5,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,5,Semi-continuous,Manure + Wheat Straw,No,No
+35,5,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,5,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,5,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,5,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,5,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,5,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,5,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,15,Batch,Manure,No,No
+35,15,Batch,Manure,No,Yes
+35,15,Batch,Manure,Yes,No
+35,15,Batch,Manure,Yes,Yes
+35,15,Batch,Food Waste,No,No
+35,15,Batch,Food Waste,No,Yes
+35,15,Batch,Food Waste,Yes,No
+35,15,Batch,Food Waste,Yes,Yes
+35,15,Batch,Pharmaceutical Waste Sludge,No,No
+35,15,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,15,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,15,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,15,Batch,Sewage Sludge,No,No
+35,15,Batch,Sewage Sludge,No,Yes
+35,15,Batch,Sewage Sludge,Yes,No
+35,15,Batch,Sewage Sludge,Yes,Yes
+35,15,Batch,Food Waste + Manure,No,No
+35,15,Batch,Food Waste + Manure,No,Yes
+35,15,Batch,Food Waste + Manure,Yes,No
+35,15,Batch,Food Waste + Manure,Yes,Yes
+35,15,Batch,Food Waste + Oil,No,No
+35,15,Batch,Food Waste + Oil,No,Yes
+35,15,Batch,Food Waste + Oil,Yes,No
+35,15,Batch,Food Waste + Oil,Yes,Yes
+35,15,Batch,Manure + Wheat Straw,No,No
+35,15,Batch,Manure + Wheat Straw,No,Yes
+35,15,Batch,Manure + Wheat Straw,Yes,No
+35,15,Batch,Manure + Wheat Straw,Yes,Yes
+35,15,Batch,Food Waste + Sewage Sludge,No,No
+35,15,Batch,Food Waste + Sewage Sludge,No,Yes
+35,15,Batch,Food Waste + Sewage Sludge,Yes,No
+35,15,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,15,Semi-continuous,Manure,No,No
+35,15,Semi-continuous,Manure,No,Yes
+35,15,Semi-continuous,Manure,Yes,No
+35,15,Semi-continuous,Manure,Yes,Yes
+35,15,Semi-continuous,Food Waste,No,No
+35,15,Semi-continuous,Food Waste,No,Yes
+35,15,Semi-continuous,Food Waste,Yes,No
+35,15,Semi-continuous,Food Waste,Yes,Yes
+35,15,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,15,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,15,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,15,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,15,Semi-continuous,Sewage Sludge,No,No
+35,15,Semi-continuous,Sewage Sludge,No,Yes
+35,15,Semi-continuous,Sewage Sludge,Yes,No
+35,15,Semi-continuous,Sewage Sludge,Yes,Yes
+35,15,Semi-continuous,Food Waste + Manure,No,No
+35,15,Semi-continuous,Food Waste + Manure,No,Yes
+35,15,Semi-continuous,Food Waste + Manure,Yes,No
+35,15,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,15,Semi-continuous,Food Waste + Oil,No,No
+35,15,Semi-continuous,Food Waste + Oil,No,Yes
+35,15,Semi-continuous,Food Waste + Oil,Yes,No
+35,15,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,15,Semi-continuous,Manure + Wheat Straw,No,No
+35,15,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,15,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,15,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,15,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,15,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,15,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,15,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,25,Batch,Manure,No,No
+35,25,Batch,Manure,No,Yes
+35,25,Batch,Manure,Yes,No
+35,25,Batch,Manure,Yes,Yes
+35,25,Batch,Food Waste,No,No
+35,25,Batch,Food Waste,No,Yes
+35,25,Batch,Food Waste,Yes,No
+35,25,Batch,Food Waste,Yes,Yes
+35,25,Batch,Pharmaceutical Waste Sludge,No,No
+35,25,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,25,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,25,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,25,Batch,Sewage Sludge,No,No
+35,25,Batch,Sewage Sludge,No,Yes
+35,25,Batch,Sewage Sludge,Yes,No
+35,25,Batch,Sewage Sludge,Yes,Yes
+35,25,Batch,Food Waste + Manure,No,No
+35,25,Batch,Food Waste + Manure,No,Yes
+35,25,Batch,Food Waste + Manure,Yes,No
+35,25,Batch,Food Waste + Manure,Yes,Yes
+35,25,Batch,Food Waste + Oil,No,No
+35,25,Batch,Food Waste + Oil,No,Yes
+35,25,Batch,Food Waste + Oil,Yes,No
+35,25,Batch,Food Waste + Oil,Yes,Yes
+35,25,Batch,Manure + Wheat Straw,No,No
+35,25,Batch,Manure + Wheat Straw,No,Yes
+35,25,Batch,Manure + Wheat Straw,Yes,No
+35,25,Batch,Manure + Wheat Straw,Yes,Yes
+35,25,Batch,Food Waste + Sewage Sludge,No,No
+35,25,Batch,Food Waste + Sewage Sludge,No,Yes
+35,25,Batch,Food Waste + Sewage Sludge,Yes,No
+35,25,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,25,Semi-continuous,Manure,No,No
+35,25,Semi-continuous,Manure,No,Yes
+35,25,Semi-continuous,Manure,Yes,No
+35,25,Semi-continuous,Manure,Yes,Yes
+35,25,Semi-continuous,Food Waste,No,No
+35,25,Semi-continuous,Food Waste,No,Yes
+35,25,Semi-continuous,Food Waste,Yes,No
+35,25,Semi-continuous,Food Waste,Yes,Yes
+35,25,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,25,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,25,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,25,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,25,Semi-continuous,Sewage Sludge,No,No
+35,25,Semi-continuous,Sewage Sludge,No,Yes
+35,25,Semi-continuous,Sewage Sludge,Yes,No
+35,25,Semi-continuous,Sewage Sludge,Yes,Yes
+35,25,Semi-continuous,Food Waste + Manure,No,No
+35,25,Semi-continuous,Food Waste + Manure,No,Yes
+35,25,Semi-continuous,Food Waste + Manure,Yes,No
+35,25,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,25,Semi-continuous,Food Waste + Oil,No,No
+35,25,Semi-continuous,Food Waste + Oil,No,Yes
+35,25,Semi-continuous,Food Waste + Oil,Yes,No
+35,25,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,25,Semi-continuous,Manure + Wheat Straw,No,No
+35,25,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,25,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,25,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,25,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,25,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,25,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,25,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,35,Batch,Manure,No,No
+35,35,Batch,Manure,No,Yes
+35,35,Batch,Manure,Yes,No
+35,35,Batch,Manure,Yes,Yes
+35,35,Batch,Food Waste,No,No
+35,35,Batch,Food Waste,No,Yes
+35,35,Batch,Food Waste,Yes,No
+35,35,Batch,Food Waste,Yes,Yes
+35,35,Batch,Pharmaceutical Waste Sludge,No,No
+35,35,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,35,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,35,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,35,Batch,Sewage Sludge,No,No
+35,35,Batch,Sewage Sludge,No,Yes
+35,35,Batch,Sewage Sludge,Yes,No
+35,35,Batch,Sewage Sludge,Yes,Yes
+35,35,Batch,Food Waste + Manure,No,No
+35,35,Batch,Food Waste + Manure,No,Yes
+35,35,Batch,Food Waste + Manure,Yes,No
+35,35,Batch,Food Waste + Manure,Yes,Yes
+35,35,Batch,Food Waste + Oil,No,No
+35,35,Batch,Food Waste + Oil,No,Yes
+35,35,Batch,Food Waste + Oil,Yes,No
+35,35,Batch,Food Waste + Oil,Yes,Yes
+35,35,Batch,Manure + Wheat Straw,No,No
+35,35,Batch,Manure + Wheat Straw,No,Yes
+35,35,Batch,Manure + Wheat Straw,Yes,No
+35,35,Batch,Manure + Wheat Straw,Yes,Yes
+35,35,Batch,Food Waste + Sewage Sludge,No,No
+35,35,Batch,Food Waste + Sewage Sludge,No,Yes
+35,35,Batch,Food Waste + Sewage Sludge,Yes,No
+35,35,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,35,Semi-continuous,Manure,No,No
+35,35,Semi-continuous,Manure,No,Yes
+35,35,Semi-continuous,Manure,Yes,No
+35,35,Semi-continuous,Manure,Yes,Yes
+35,35,Semi-continuous,Food Waste,No,No
+35,35,Semi-continuous,Food Waste,No,Yes
+35,35,Semi-continuous,Food Waste,Yes,No
+35,35,Semi-continuous,Food Waste,Yes,Yes
+35,35,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,35,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,35,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,35,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,35,Semi-continuous,Sewage Sludge,No,No
+35,35,Semi-continuous,Sewage Sludge,No,Yes
+35,35,Semi-continuous,Sewage Sludge,Yes,No
+35,35,Semi-continuous,Sewage Sludge,Yes,Yes
+35,35,Semi-continuous,Food Waste + Manure,No,No
+35,35,Semi-continuous,Food Waste + Manure,No,Yes
+35,35,Semi-continuous,Food Waste + Manure,Yes,No
+35,35,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,35,Semi-continuous,Food Waste + Oil,No,No
+35,35,Semi-continuous,Food Waste + Oil,No,Yes
+35,35,Semi-continuous,Food Waste + Oil,Yes,No
+35,35,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,35,Semi-continuous,Manure + Wheat Straw,No,No
+35,35,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,35,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,35,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,35,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,35,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,35,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,35,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,45,Batch,Manure,No,No
+35,45,Batch,Manure,No,Yes
+35,45,Batch,Manure,Yes,No
+35,45,Batch,Manure,Yes,Yes
+35,45,Batch,Food Waste,No,No
+35,45,Batch,Food Waste,No,Yes
+35,45,Batch,Food Waste,Yes,No
+35,45,Batch,Food Waste,Yes,Yes
+35,45,Batch,Pharmaceutical Waste Sludge,No,No
+35,45,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,45,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,45,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,45,Batch,Sewage Sludge,No,No
+35,45,Batch,Sewage Sludge,No,Yes
+35,45,Batch,Sewage Sludge,Yes,No
+35,45,Batch,Sewage Sludge,Yes,Yes
+35,45,Batch,Food Waste + Manure,No,No
+35,45,Batch,Food Waste + Manure,No,Yes
+35,45,Batch,Food Waste + Manure,Yes,No
+35,45,Batch,Food Waste + Manure,Yes,Yes
+35,45,Batch,Food Waste + Oil,No,No
+35,45,Batch,Food Waste + Oil,No,Yes
+35,45,Batch,Food Waste + Oil,Yes,No
+35,45,Batch,Food Waste + Oil,Yes,Yes
+35,45,Batch,Manure + Wheat Straw,No,No
+35,45,Batch,Manure + Wheat Straw,No,Yes
+35,45,Batch,Manure + Wheat Straw,Yes,No
+35,45,Batch,Manure + Wheat Straw,Yes,Yes
+35,45,Batch,Food Waste + Sewage Sludge,No,No
+35,45,Batch,Food Waste + Sewage Sludge,No,Yes
+35,45,Batch,Food Waste + Sewage Sludge,Yes,No
+35,45,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,45,Semi-continuous,Manure,No,No
+35,45,Semi-continuous,Manure,No,Yes
+35,45,Semi-continuous,Manure,Yes,No
+35,45,Semi-continuous,Manure,Yes,Yes
+35,45,Semi-continuous,Food Waste,No,No
+35,45,Semi-continuous,Food Waste,No,Yes
+35,45,Semi-continuous,Food Waste,Yes,No
+35,45,Semi-continuous,Food Waste,Yes,Yes
+35,45,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,45,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,45,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,45,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,45,Semi-continuous,Sewage Sludge,No,No
+35,45,Semi-continuous,Sewage Sludge,No,Yes
+35,45,Semi-continuous,Sewage Sludge,Yes,No
+35,45,Semi-continuous,Sewage Sludge,Yes,Yes
+35,45,Semi-continuous,Food Waste + Manure,No,No
+35,45,Semi-continuous,Food Waste + Manure,No,Yes
+35,45,Semi-continuous,Food Waste + Manure,Yes,No
+35,45,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,45,Semi-continuous,Food Waste + Oil,No,No
+35,45,Semi-continuous,Food Waste + Oil,No,Yes
+35,45,Semi-continuous,Food Waste + Oil,Yes,No
+35,45,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,45,Semi-continuous,Manure + Wheat Straw,No,No
+35,45,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,45,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,45,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,45,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,45,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,45,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,45,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,55,Batch,Manure,No,No
+35,55,Batch,Manure,No,Yes
+35,55,Batch,Manure,Yes,No
+35,55,Batch,Manure,Yes,Yes
+35,55,Batch,Food Waste,No,No
+35,55,Batch,Food Waste,No,Yes
+35,55,Batch,Food Waste,Yes,No
+35,55,Batch,Food Waste,Yes,Yes
+35,55,Batch,Pharmaceutical Waste Sludge,No,No
+35,55,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,55,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,55,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,55,Batch,Sewage Sludge,No,No
+35,55,Batch,Sewage Sludge,No,Yes
+35,55,Batch,Sewage Sludge,Yes,No
+35,55,Batch,Sewage Sludge,Yes,Yes
+35,55,Batch,Food Waste + Manure,No,No
+35,55,Batch,Food Waste + Manure,No,Yes
+35,55,Batch,Food Waste + Manure,Yes,No
+35,55,Batch,Food Waste + Manure,Yes,Yes
+35,55,Batch,Food Waste + Oil,No,No
+35,55,Batch,Food Waste + Oil,No,Yes
+35,55,Batch,Food Waste + Oil,Yes,No
+35,55,Batch,Food Waste + Oil,Yes,Yes
+35,55,Batch,Manure + Wheat Straw,No,No
+35,55,Batch,Manure + Wheat Straw,No,Yes
+35,55,Batch,Manure + Wheat Straw,Yes,No
+35,55,Batch,Manure + Wheat Straw,Yes,Yes
+35,55,Batch,Food Waste + Sewage Sludge,No,No
+35,55,Batch,Food Waste + Sewage Sludge,No,Yes
+35,55,Batch,Food Waste + Sewage Sludge,Yes,No
+35,55,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,55,Semi-continuous,Manure,No,No
+35,55,Semi-continuous,Manure,No,Yes
+35,55,Semi-continuous,Manure,Yes,No
+35,55,Semi-continuous,Manure,Yes,Yes
+35,55,Semi-continuous,Food Waste,No,No
+35,55,Semi-continuous,Food Waste,No,Yes
+35,55,Semi-continuous,Food Waste,Yes,No
+35,55,Semi-continuous,Food Waste,Yes,Yes
+35,55,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,55,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,55,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,55,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,55,Semi-continuous,Sewage Sludge,No,No
+35,55,Semi-continuous,Sewage Sludge,No,Yes
+35,55,Semi-continuous,Sewage Sludge,Yes,No
+35,55,Semi-continuous,Sewage Sludge,Yes,Yes
+35,55,Semi-continuous,Food Waste + Manure,No,No
+35,55,Semi-continuous,Food Waste + Manure,No,Yes
+35,55,Semi-continuous,Food Waste + Manure,Yes,No
+35,55,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,55,Semi-continuous,Food Waste + Oil,No,No
+35,55,Semi-continuous,Food Waste + Oil,No,Yes
+35,55,Semi-continuous,Food Waste + Oil,Yes,No
+35,55,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,55,Semi-continuous,Manure + Wheat Straw,No,No
+35,55,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,55,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,55,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,55,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,55,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,55,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,55,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,65,Batch,Manure,No,No
+35,65,Batch,Manure,No,Yes
+35,65,Batch,Manure,Yes,No
+35,65,Batch,Manure,Yes,Yes
+35,65,Batch,Food Waste,No,No
+35,65,Batch,Food Waste,No,Yes
+35,65,Batch,Food Waste,Yes,No
+35,65,Batch,Food Waste,Yes,Yes
+35,65,Batch,Pharmaceutical Waste Sludge,No,No
+35,65,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,65,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,65,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,65,Batch,Sewage Sludge,No,No
+35,65,Batch,Sewage Sludge,No,Yes
+35,65,Batch,Sewage Sludge,Yes,No
+35,65,Batch,Sewage Sludge,Yes,Yes
+35,65,Batch,Food Waste + Manure,No,No
+35,65,Batch,Food Waste + Manure,No,Yes
+35,65,Batch,Food Waste + Manure,Yes,No
+35,65,Batch,Food Waste + Manure,Yes,Yes
+35,65,Batch,Food Waste + Oil,No,No
+35,65,Batch,Food Waste + Oil,No,Yes
+35,65,Batch,Food Waste + Oil,Yes,No
+35,65,Batch,Food Waste + Oil,Yes,Yes
+35,65,Batch,Manure + Wheat Straw,No,No
+35,65,Batch,Manure + Wheat Straw,No,Yes
+35,65,Batch,Manure + Wheat Straw,Yes,No
+35,65,Batch,Manure + Wheat Straw,Yes,Yes
+35,65,Batch,Food Waste + Sewage Sludge,No,No
+35,65,Batch,Food Waste + Sewage Sludge,No,Yes
+35,65,Batch,Food Waste + Sewage Sludge,Yes,No
+35,65,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,65,Semi-continuous,Manure,No,No
+35,65,Semi-continuous,Manure,No,Yes
+35,65,Semi-continuous,Manure,Yes,No
+35,65,Semi-continuous,Manure,Yes,Yes
+35,65,Semi-continuous,Food Waste,No,No
+35,65,Semi-continuous,Food Waste,No,Yes
+35,65,Semi-continuous,Food Waste,Yes,No
+35,65,Semi-continuous,Food Waste,Yes,Yes
+35,65,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,65,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,65,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,65,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,65,Semi-continuous,Sewage Sludge,No,No
+35,65,Semi-continuous,Sewage Sludge,No,Yes
+35,65,Semi-continuous,Sewage Sludge,Yes,No
+35,65,Semi-continuous,Sewage Sludge,Yes,Yes
+35,65,Semi-continuous,Food Waste + Manure,No,No
+35,65,Semi-continuous,Food Waste + Manure,No,Yes
+35,65,Semi-continuous,Food Waste + Manure,Yes,No
+35,65,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,65,Semi-continuous,Food Waste + Oil,No,No
+35,65,Semi-continuous,Food Waste + Oil,No,Yes
+35,65,Semi-continuous,Food Waste + Oil,Yes,No
+35,65,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,65,Semi-continuous,Manure + Wheat Straw,No,No
+35,65,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,65,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,65,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,65,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,65,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,65,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,65,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,75,Batch,Manure,No,No
+35,75,Batch,Manure,No,Yes
+35,75,Batch,Manure,Yes,No
+35,75,Batch,Manure,Yes,Yes
+35,75,Batch,Food Waste,No,No
+35,75,Batch,Food Waste,No,Yes
+35,75,Batch,Food Waste,Yes,No
+35,75,Batch,Food Waste,Yes,Yes
+35,75,Batch,Pharmaceutical Waste Sludge,No,No
+35,75,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,75,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,75,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,75,Batch,Sewage Sludge,No,No
+35,75,Batch,Sewage Sludge,No,Yes
+35,75,Batch,Sewage Sludge,Yes,No
+35,75,Batch,Sewage Sludge,Yes,Yes
+35,75,Batch,Food Waste + Manure,No,No
+35,75,Batch,Food Waste + Manure,No,Yes
+35,75,Batch,Food Waste + Manure,Yes,No
+35,75,Batch,Food Waste + Manure,Yes,Yes
+35,75,Batch,Food Waste + Oil,No,No
+35,75,Batch,Food Waste + Oil,No,Yes
+35,75,Batch,Food Waste + Oil,Yes,No
+35,75,Batch,Food Waste + Oil,Yes,Yes
+35,75,Batch,Manure + Wheat Straw,No,No
+35,75,Batch,Manure + Wheat Straw,No,Yes
+35,75,Batch,Manure + Wheat Straw,Yes,No
+35,75,Batch,Manure + Wheat Straw,Yes,Yes
+35,75,Batch,Food Waste + Sewage Sludge,No,No
+35,75,Batch,Food Waste + Sewage Sludge,No,Yes
+35,75,Batch,Food Waste + Sewage Sludge,Yes,No
+35,75,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,75,Semi-continuous,Manure,No,No
+35,75,Semi-continuous,Manure,No,Yes
+35,75,Semi-continuous,Manure,Yes,No
+35,75,Semi-continuous,Manure,Yes,Yes
+35,75,Semi-continuous,Food Waste,No,No
+35,75,Semi-continuous,Food Waste,No,Yes
+35,75,Semi-continuous,Food Waste,Yes,No
+35,75,Semi-continuous,Food Waste,Yes,Yes
+35,75,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,75,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,75,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,75,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,75,Semi-continuous,Sewage Sludge,No,No
+35,75,Semi-continuous,Sewage Sludge,No,Yes
+35,75,Semi-continuous,Sewage Sludge,Yes,No
+35,75,Semi-continuous,Sewage Sludge,Yes,Yes
+35,75,Semi-continuous,Food Waste + Manure,No,No
+35,75,Semi-continuous,Food Waste + Manure,No,Yes
+35,75,Semi-continuous,Food Waste + Manure,Yes,No
+35,75,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,75,Semi-continuous,Food Waste + Oil,No,No
+35,75,Semi-continuous,Food Waste + Oil,No,Yes
+35,75,Semi-continuous,Food Waste + Oil,Yes,No
+35,75,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,75,Semi-continuous,Manure + Wheat Straw,No,No
+35,75,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,75,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,75,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,75,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,75,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,75,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,75,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,85,Batch,Manure,No,No
+35,85,Batch,Manure,No,Yes
+35,85,Batch,Manure,Yes,No
+35,85,Batch,Manure,Yes,Yes
+35,85,Batch,Food Waste,No,No
+35,85,Batch,Food Waste,No,Yes
+35,85,Batch,Food Waste,Yes,No
+35,85,Batch,Food Waste,Yes,Yes
+35,85,Batch,Pharmaceutical Waste Sludge,No,No
+35,85,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,85,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,85,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,85,Batch,Sewage Sludge,No,No
+35,85,Batch,Sewage Sludge,No,Yes
+35,85,Batch,Sewage Sludge,Yes,No
+35,85,Batch,Sewage Sludge,Yes,Yes
+35,85,Batch,Food Waste + Manure,No,No
+35,85,Batch,Food Waste + Manure,No,Yes
+35,85,Batch,Food Waste + Manure,Yes,No
+35,85,Batch,Food Waste + Manure,Yes,Yes
+35,85,Batch,Food Waste + Oil,No,No
+35,85,Batch,Food Waste + Oil,No,Yes
+35,85,Batch,Food Waste + Oil,Yes,No
+35,85,Batch,Food Waste + Oil,Yes,Yes
+35,85,Batch,Manure + Wheat Straw,No,No
+35,85,Batch,Manure + Wheat Straw,No,Yes
+35,85,Batch,Manure + Wheat Straw,Yes,No
+35,85,Batch,Manure + Wheat Straw,Yes,Yes
+35,85,Batch,Food Waste + Sewage Sludge,No,No
+35,85,Batch,Food Waste + Sewage Sludge,No,Yes
+35,85,Batch,Food Waste + Sewage Sludge,Yes,No
+35,85,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,85,Semi-continuous,Manure,No,No
+35,85,Semi-continuous,Manure,No,Yes
+35,85,Semi-continuous,Manure,Yes,No
+35,85,Semi-continuous,Manure,Yes,Yes
+35,85,Semi-continuous,Food Waste,No,No
+35,85,Semi-continuous,Food Waste,No,Yes
+35,85,Semi-continuous,Food Waste,Yes,No
+35,85,Semi-continuous,Food Waste,Yes,Yes
+35,85,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,85,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,85,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,85,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,85,Semi-continuous,Sewage Sludge,No,No
+35,85,Semi-continuous,Sewage Sludge,No,Yes
+35,85,Semi-continuous,Sewage Sludge,Yes,No
+35,85,Semi-continuous,Sewage Sludge,Yes,Yes
+35,85,Semi-continuous,Food Waste + Manure,No,No
+35,85,Semi-continuous,Food Waste + Manure,No,Yes
+35,85,Semi-continuous,Food Waste + Manure,Yes,No
+35,85,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,85,Semi-continuous,Food Waste + Oil,No,No
+35,85,Semi-continuous,Food Waste + Oil,No,Yes
+35,85,Semi-continuous,Food Waste + Oil,Yes,No
+35,85,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,85,Semi-continuous,Manure + Wheat Straw,No,No
+35,85,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,85,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,85,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,85,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,85,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,85,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,85,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,95,Batch,Manure,No,No
+35,95,Batch,Manure,No,Yes
+35,95,Batch,Manure,Yes,No
+35,95,Batch,Manure,Yes,Yes
+35,95,Batch,Food Waste,No,No
+35,95,Batch,Food Waste,No,Yes
+35,95,Batch,Food Waste,Yes,No
+35,95,Batch,Food Waste,Yes,Yes
+35,95,Batch,Pharmaceutical Waste Sludge,No,No
+35,95,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,95,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,95,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,95,Batch,Sewage Sludge,No,No
+35,95,Batch,Sewage Sludge,No,Yes
+35,95,Batch,Sewage Sludge,Yes,No
+35,95,Batch,Sewage Sludge,Yes,Yes
+35,95,Batch,Food Waste + Manure,No,No
+35,95,Batch,Food Waste + Manure,No,Yes
+35,95,Batch,Food Waste + Manure,Yes,No
+35,95,Batch,Food Waste + Manure,Yes,Yes
+35,95,Batch,Food Waste + Oil,No,No
+35,95,Batch,Food Waste + Oil,No,Yes
+35,95,Batch,Food Waste + Oil,Yes,No
+35,95,Batch,Food Waste + Oil,Yes,Yes
+35,95,Batch,Manure + Wheat Straw,No,No
+35,95,Batch,Manure + Wheat Straw,No,Yes
+35,95,Batch,Manure + Wheat Straw,Yes,No
+35,95,Batch,Manure + Wheat Straw,Yes,Yes
+35,95,Batch,Food Waste + Sewage Sludge,No,No
+35,95,Batch,Food Waste + Sewage Sludge,No,Yes
+35,95,Batch,Food Waste + Sewage Sludge,Yes,No
+35,95,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,95,Semi-continuous,Manure,No,No
+35,95,Semi-continuous,Manure,No,Yes
+35,95,Semi-continuous,Manure,Yes,No
+35,95,Semi-continuous,Manure,Yes,Yes
+35,95,Semi-continuous,Food Waste,No,No
+35,95,Semi-continuous,Food Waste,No,Yes
+35,95,Semi-continuous,Food Waste,Yes,No
+35,95,Semi-continuous,Food Waste,Yes,Yes
+35,95,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,95,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,95,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,95,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,95,Semi-continuous,Sewage Sludge,No,No
+35,95,Semi-continuous,Sewage Sludge,No,Yes
+35,95,Semi-continuous,Sewage Sludge,Yes,No
+35,95,Semi-continuous,Sewage Sludge,Yes,Yes
+35,95,Semi-continuous,Food Waste + Manure,No,No
+35,95,Semi-continuous,Food Waste + Manure,No,Yes
+35,95,Semi-continuous,Food Waste + Manure,Yes,No
+35,95,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,95,Semi-continuous,Food Waste + Oil,No,No
+35,95,Semi-continuous,Food Waste + Oil,No,Yes
+35,95,Semi-continuous,Food Waste + Oil,Yes,No
+35,95,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,95,Semi-continuous,Manure + Wheat Straw,No,No
+35,95,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,95,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,95,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,95,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,95,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,95,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,95,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,105,Batch,Manure,No,No
+35,105,Batch,Manure,No,Yes
+35,105,Batch,Manure,Yes,No
+35,105,Batch,Manure,Yes,Yes
+35,105,Batch,Food Waste,No,No
+35,105,Batch,Food Waste,No,Yes
+35,105,Batch,Food Waste,Yes,No
+35,105,Batch,Food Waste,Yes,Yes
+35,105,Batch,Pharmaceutical Waste Sludge,No,No
+35,105,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,105,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,105,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,105,Batch,Sewage Sludge,No,No
+35,105,Batch,Sewage Sludge,No,Yes
+35,105,Batch,Sewage Sludge,Yes,No
+35,105,Batch,Sewage Sludge,Yes,Yes
+35,105,Batch,Food Waste + Manure,No,No
+35,105,Batch,Food Waste + Manure,No,Yes
+35,105,Batch,Food Waste + Manure,Yes,No
+35,105,Batch,Food Waste + Manure,Yes,Yes
+35,105,Batch,Food Waste + Oil,No,No
+35,105,Batch,Food Waste + Oil,No,Yes
+35,105,Batch,Food Waste + Oil,Yes,No
+35,105,Batch,Food Waste + Oil,Yes,Yes
+35,105,Batch,Manure + Wheat Straw,No,No
+35,105,Batch,Manure + Wheat Straw,No,Yes
+35,105,Batch,Manure + Wheat Straw,Yes,No
+35,105,Batch,Manure + Wheat Straw,Yes,Yes
+35,105,Batch,Food Waste + Sewage Sludge,No,No
+35,105,Batch,Food Waste + Sewage Sludge,No,Yes
+35,105,Batch,Food Waste + Sewage Sludge,Yes,No
+35,105,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,105,Semi-continuous,Manure,No,No
+35,105,Semi-continuous,Manure,No,Yes
+35,105,Semi-continuous,Manure,Yes,No
+35,105,Semi-continuous,Manure,Yes,Yes
+35,105,Semi-continuous,Food Waste,No,No
+35,105,Semi-continuous,Food Waste,No,Yes
+35,105,Semi-continuous,Food Waste,Yes,No
+35,105,Semi-continuous,Food Waste,Yes,Yes
+35,105,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,105,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,105,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,105,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,105,Semi-continuous,Sewage Sludge,No,No
+35,105,Semi-continuous,Sewage Sludge,No,Yes
+35,105,Semi-continuous,Sewage Sludge,Yes,No
+35,105,Semi-continuous,Sewage Sludge,Yes,Yes
+35,105,Semi-continuous,Food Waste + Manure,No,No
+35,105,Semi-continuous,Food Waste + Manure,No,Yes
+35,105,Semi-continuous,Food Waste + Manure,Yes,No
+35,105,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,105,Semi-continuous,Food Waste + Oil,No,No
+35,105,Semi-continuous,Food Waste + Oil,No,Yes
+35,105,Semi-continuous,Food Waste + Oil,Yes,No
+35,105,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,105,Semi-continuous,Manure + Wheat Straw,No,No
+35,105,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,105,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,105,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,105,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,105,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,105,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,105,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,115,Batch,Manure,No,No
+35,115,Batch,Manure,No,Yes
+35,115,Batch,Manure,Yes,No
+35,115,Batch,Manure,Yes,Yes
+35,115,Batch,Food Waste,No,No
+35,115,Batch,Food Waste,No,Yes
+35,115,Batch,Food Waste,Yes,No
+35,115,Batch,Food Waste,Yes,Yes
+35,115,Batch,Pharmaceutical Waste Sludge,No,No
+35,115,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,115,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,115,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,115,Batch,Sewage Sludge,No,No
+35,115,Batch,Sewage Sludge,No,Yes
+35,115,Batch,Sewage Sludge,Yes,No
+35,115,Batch,Sewage Sludge,Yes,Yes
+35,115,Batch,Food Waste + Manure,No,No
+35,115,Batch,Food Waste + Manure,No,Yes
+35,115,Batch,Food Waste + Manure,Yes,No
+35,115,Batch,Food Waste + Manure,Yes,Yes
+35,115,Batch,Food Waste + Oil,No,No
+35,115,Batch,Food Waste + Oil,No,Yes
+35,115,Batch,Food Waste + Oil,Yes,No
+35,115,Batch,Food Waste + Oil,Yes,Yes
+35,115,Batch,Manure + Wheat Straw,No,No
+35,115,Batch,Manure + Wheat Straw,No,Yes
+35,115,Batch,Manure + Wheat Straw,Yes,No
+35,115,Batch,Manure + Wheat Straw,Yes,Yes
+35,115,Batch,Food Waste + Sewage Sludge,No,No
+35,115,Batch,Food Waste + Sewage Sludge,No,Yes
+35,115,Batch,Food Waste + Sewage Sludge,Yes,No
+35,115,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,115,Semi-continuous,Manure,No,No
+35,115,Semi-continuous,Manure,No,Yes
+35,115,Semi-continuous,Manure,Yes,No
+35,115,Semi-continuous,Manure,Yes,Yes
+35,115,Semi-continuous,Food Waste,No,No
+35,115,Semi-continuous,Food Waste,No,Yes
+35,115,Semi-continuous,Food Waste,Yes,No
+35,115,Semi-continuous,Food Waste,Yes,Yes
+35,115,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,115,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,115,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,115,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,115,Semi-continuous,Sewage Sludge,No,No
+35,115,Semi-continuous,Sewage Sludge,No,Yes
+35,115,Semi-continuous,Sewage Sludge,Yes,No
+35,115,Semi-continuous,Sewage Sludge,Yes,Yes
+35,115,Semi-continuous,Food Waste + Manure,No,No
+35,115,Semi-continuous,Food Waste + Manure,No,Yes
+35,115,Semi-continuous,Food Waste + Manure,Yes,No
+35,115,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,115,Semi-continuous,Food Waste + Oil,No,No
+35,115,Semi-continuous,Food Waste + Oil,No,Yes
+35,115,Semi-continuous,Food Waste + Oil,Yes,No
+35,115,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,115,Semi-continuous,Manure + Wheat Straw,No,No
+35,115,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,115,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,115,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,115,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,115,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,115,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,115,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,125,Batch,Manure,No,No
+35,125,Batch,Manure,No,Yes
+35,125,Batch,Manure,Yes,No
+35,125,Batch,Manure,Yes,Yes
+35,125,Batch,Food Waste,No,No
+35,125,Batch,Food Waste,No,Yes
+35,125,Batch,Food Waste,Yes,No
+35,125,Batch,Food Waste,Yes,Yes
+35,125,Batch,Pharmaceutical Waste Sludge,No,No
+35,125,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,125,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,125,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,125,Batch,Sewage Sludge,No,No
+35,125,Batch,Sewage Sludge,No,Yes
+35,125,Batch,Sewage Sludge,Yes,No
+35,125,Batch,Sewage Sludge,Yes,Yes
+35,125,Batch,Food Waste + Manure,No,No
+35,125,Batch,Food Waste + Manure,No,Yes
+35,125,Batch,Food Waste + Manure,Yes,No
+35,125,Batch,Food Waste + Manure,Yes,Yes
+35,125,Batch,Food Waste + Oil,No,No
+35,125,Batch,Food Waste + Oil,No,Yes
+35,125,Batch,Food Waste + Oil,Yes,No
+35,125,Batch,Food Waste + Oil,Yes,Yes
+35,125,Batch,Manure + Wheat Straw,No,No
+35,125,Batch,Manure + Wheat Straw,No,Yes
+35,125,Batch,Manure + Wheat Straw,Yes,No
+35,125,Batch,Manure + Wheat Straw,Yes,Yes
+35,125,Batch,Food Waste + Sewage Sludge,No,No
+35,125,Batch,Food Waste + Sewage Sludge,No,Yes
+35,125,Batch,Food Waste + Sewage Sludge,Yes,No
+35,125,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,125,Semi-continuous,Manure,No,No
+35,125,Semi-continuous,Manure,No,Yes
+35,125,Semi-continuous,Manure,Yes,No
+35,125,Semi-continuous,Manure,Yes,Yes
+35,125,Semi-continuous,Food Waste,No,No
+35,125,Semi-continuous,Food Waste,No,Yes
+35,125,Semi-continuous,Food Waste,Yes,No
+35,125,Semi-continuous,Food Waste,Yes,Yes
+35,125,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,125,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,125,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,125,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,125,Semi-continuous,Sewage Sludge,No,No
+35,125,Semi-continuous,Sewage Sludge,No,Yes
+35,125,Semi-continuous,Sewage Sludge,Yes,No
+35,125,Semi-continuous,Sewage Sludge,Yes,Yes
+35,125,Semi-continuous,Food Waste + Manure,No,No
+35,125,Semi-continuous,Food Waste + Manure,No,Yes
+35,125,Semi-continuous,Food Waste + Manure,Yes,No
+35,125,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,125,Semi-continuous,Food Waste + Oil,No,No
+35,125,Semi-continuous,Food Waste + Oil,No,Yes
+35,125,Semi-continuous,Food Waste + Oil,Yes,No
+35,125,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,125,Semi-continuous,Manure + Wheat Straw,No,No
+35,125,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,125,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,125,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,125,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,125,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,125,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,125,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+35,135,Batch,Manure,No,No
+35,135,Batch,Manure,No,Yes
+35,135,Batch,Manure,Yes,No
+35,135,Batch,Manure,Yes,Yes
+35,135,Batch,Food Waste,No,No
+35,135,Batch,Food Waste,No,Yes
+35,135,Batch,Food Waste,Yes,No
+35,135,Batch,Food Waste,Yes,Yes
+35,135,Batch,Pharmaceutical Waste Sludge,No,No
+35,135,Batch,Pharmaceutical Waste Sludge,No,Yes
+35,135,Batch,Pharmaceutical Waste Sludge,Yes,No
+35,135,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+35,135,Batch,Sewage Sludge,No,No
+35,135,Batch,Sewage Sludge,No,Yes
+35,135,Batch,Sewage Sludge,Yes,No
+35,135,Batch,Sewage Sludge,Yes,Yes
+35,135,Batch,Food Waste + Manure,No,No
+35,135,Batch,Food Waste + Manure,No,Yes
+35,135,Batch,Food Waste + Manure,Yes,No
+35,135,Batch,Food Waste + Manure,Yes,Yes
+35,135,Batch,Food Waste + Oil,No,No
+35,135,Batch,Food Waste + Oil,No,Yes
+35,135,Batch,Food Waste + Oil,Yes,No
+35,135,Batch,Food Waste + Oil,Yes,Yes
+35,135,Batch,Manure + Wheat Straw,No,No
+35,135,Batch,Manure + Wheat Straw,No,Yes
+35,135,Batch,Manure + Wheat Straw,Yes,No
+35,135,Batch,Manure + Wheat Straw,Yes,Yes
+35,135,Batch,Food Waste + Sewage Sludge,No,No
+35,135,Batch,Food Waste + Sewage Sludge,No,Yes
+35,135,Batch,Food Waste + Sewage Sludge,Yes,No
+35,135,Batch,Food Waste + Sewage Sludge,Yes,Yes
+35,135,Semi-continuous,Manure,No,No
+35,135,Semi-continuous,Manure,No,Yes
+35,135,Semi-continuous,Manure,Yes,No
+35,135,Semi-continuous,Manure,Yes,Yes
+35,135,Semi-continuous,Food Waste,No,No
+35,135,Semi-continuous,Food Waste,No,Yes
+35,135,Semi-continuous,Food Waste,Yes,No
+35,135,Semi-continuous,Food Waste,Yes,Yes
+35,135,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+35,135,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+35,135,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+35,135,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+35,135,Semi-continuous,Sewage Sludge,No,No
+35,135,Semi-continuous,Sewage Sludge,No,Yes
+35,135,Semi-continuous,Sewage Sludge,Yes,No
+35,135,Semi-continuous,Sewage Sludge,Yes,Yes
+35,135,Semi-continuous,Food Waste + Manure,No,No
+35,135,Semi-continuous,Food Waste + Manure,No,Yes
+35,135,Semi-continuous,Food Waste + Manure,Yes,No
+35,135,Semi-continuous,Food Waste + Manure,Yes,Yes
+35,135,Semi-continuous,Food Waste + Oil,No,No
+35,135,Semi-continuous,Food Waste + Oil,No,Yes
+35,135,Semi-continuous,Food Waste + Oil,Yes,No
+35,135,Semi-continuous,Food Waste + Oil,Yes,Yes
+35,135,Semi-continuous,Manure + Wheat Straw,No,No
+35,135,Semi-continuous,Manure + Wheat Straw,No,Yes
+35,135,Semi-continuous,Manure + Wheat Straw,Yes,No
+35,135,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+35,135,Semi-continuous,Food Waste + Sewage Sludge,No,No
+35,135,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+35,135,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+35,135,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,5,Batch,Manure,No,No
+45,5,Batch,Manure,No,Yes
+45,5,Batch,Manure,Yes,No
+45,5,Batch,Manure,Yes,Yes
+45,5,Batch,Food Waste,No,No
+45,5,Batch,Food Waste,No,Yes
+45,5,Batch,Food Waste,Yes,No
+45,5,Batch,Food Waste,Yes,Yes
+45,5,Batch,Pharmaceutical Waste Sludge,No,No
+45,5,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,5,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,5,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,5,Batch,Sewage Sludge,No,No
+45,5,Batch,Sewage Sludge,No,Yes
+45,5,Batch,Sewage Sludge,Yes,No
+45,5,Batch,Sewage Sludge,Yes,Yes
+45,5,Batch,Food Waste + Manure,No,No
+45,5,Batch,Food Waste + Manure,No,Yes
+45,5,Batch,Food Waste + Manure,Yes,No
+45,5,Batch,Food Waste + Manure,Yes,Yes
+45,5,Batch,Food Waste + Oil,No,No
+45,5,Batch,Food Waste + Oil,No,Yes
+45,5,Batch,Food Waste + Oil,Yes,No
+45,5,Batch,Food Waste + Oil,Yes,Yes
+45,5,Batch,Manure + Wheat Straw,No,No
+45,5,Batch,Manure + Wheat Straw,No,Yes
+45,5,Batch,Manure + Wheat Straw,Yes,No
+45,5,Batch,Manure + Wheat Straw,Yes,Yes
+45,5,Batch,Food Waste + Sewage Sludge,No,No
+45,5,Batch,Food Waste + Sewage Sludge,No,Yes
+45,5,Batch,Food Waste + Sewage Sludge,Yes,No
+45,5,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,5,Semi-continuous,Manure,No,No
+45,5,Semi-continuous,Manure,No,Yes
+45,5,Semi-continuous,Manure,Yes,No
+45,5,Semi-continuous,Manure,Yes,Yes
+45,5,Semi-continuous,Food Waste,No,No
+45,5,Semi-continuous,Food Waste,No,Yes
+45,5,Semi-continuous,Food Waste,Yes,No
+45,5,Semi-continuous,Food Waste,Yes,Yes
+45,5,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,5,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,5,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,5,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,5,Semi-continuous,Sewage Sludge,No,No
+45,5,Semi-continuous,Sewage Sludge,No,Yes
+45,5,Semi-continuous,Sewage Sludge,Yes,No
+45,5,Semi-continuous,Sewage Sludge,Yes,Yes
+45,5,Semi-continuous,Food Waste + Manure,No,No
+45,5,Semi-continuous,Food Waste + Manure,No,Yes
+45,5,Semi-continuous,Food Waste + Manure,Yes,No
+45,5,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,5,Semi-continuous,Food Waste + Oil,No,No
+45,5,Semi-continuous,Food Waste + Oil,No,Yes
+45,5,Semi-continuous,Food Waste + Oil,Yes,No
+45,5,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,5,Semi-continuous,Manure + Wheat Straw,No,No
+45,5,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,5,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,5,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,5,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,5,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,5,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,5,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,15,Batch,Manure,No,No
+45,15,Batch,Manure,No,Yes
+45,15,Batch,Manure,Yes,No
+45,15,Batch,Manure,Yes,Yes
+45,15,Batch,Food Waste,No,No
+45,15,Batch,Food Waste,No,Yes
+45,15,Batch,Food Waste,Yes,No
+45,15,Batch,Food Waste,Yes,Yes
+45,15,Batch,Pharmaceutical Waste Sludge,No,No
+45,15,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,15,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,15,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,15,Batch,Sewage Sludge,No,No
+45,15,Batch,Sewage Sludge,No,Yes
+45,15,Batch,Sewage Sludge,Yes,No
+45,15,Batch,Sewage Sludge,Yes,Yes
+45,15,Batch,Food Waste + Manure,No,No
+45,15,Batch,Food Waste + Manure,No,Yes
+45,15,Batch,Food Waste + Manure,Yes,No
+45,15,Batch,Food Waste + Manure,Yes,Yes
+45,15,Batch,Food Waste + Oil,No,No
+45,15,Batch,Food Waste + Oil,No,Yes
+45,15,Batch,Food Waste + Oil,Yes,No
+45,15,Batch,Food Waste + Oil,Yes,Yes
+45,15,Batch,Manure + Wheat Straw,No,No
+45,15,Batch,Manure + Wheat Straw,No,Yes
+45,15,Batch,Manure + Wheat Straw,Yes,No
+45,15,Batch,Manure + Wheat Straw,Yes,Yes
+45,15,Batch,Food Waste + Sewage Sludge,No,No
+45,15,Batch,Food Waste + Sewage Sludge,No,Yes
+45,15,Batch,Food Waste + Sewage Sludge,Yes,No
+45,15,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,15,Semi-continuous,Manure,No,No
+45,15,Semi-continuous,Manure,No,Yes
+45,15,Semi-continuous,Manure,Yes,No
+45,15,Semi-continuous,Manure,Yes,Yes
+45,15,Semi-continuous,Food Waste,No,No
+45,15,Semi-continuous,Food Waste,No,Yes
+45,15,Semi-continuous,Food Waste,Yes,No
+45,15,Semi-continuous,Food Waste,Yes,Yes
+45,15,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,15,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,15,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,15,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,15,Semi-continuous,Sewage Sludge,No,No
+45,15,Semi-continuous,Sewage Sludge,No,Yes
+45,15,Semi-continuous,Sewage Sludge,Yes,No
+45,15,Semi-continuous,Sewage Sludge,Yes,Yes
+45,15,Semi-continuous,Food Waste + Manure,No,No
+45,15,Semi-continuous,Food Waste + Manure,No,Yes
+45,15,Semi-continuous,Food Waste + Manure,Yes,No
+45,15,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,15,Semi-continuous,Food Waste + Oil,No,No
+45,15,Semi-continuous,Food Waste + Oil,No,Yes
+45,15,Semi-continuous,Food Waste + Oil,Yes,No
+45,15,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,15,Semi-continuous,Manure + Wheat Straw,No,No
+45,15,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,15,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,15,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,15,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,15,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,15,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,15,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,25,Batch,Manure,No,No
+45,25,Batch,Manure,No,Yes
+45,25,Batch,Manure,Yes,No
+45,25,Batch,Manure,Yes,Yes
+45,25,Batch,Food Waste,No,No
+45,25,Batch,Food Waste,No,Yes
+45,25,Batch,Food Waste,Yes,No
+45,25,Batch,Food Waste,Yes,Yes
+45,25,Batch,Pharmaceutical Waste Sludge,No,No
+45,25,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,25,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,25,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,25,Batch,Sewage Sludge,No,No
+45,25,Batch,Sewage Sludge,No,Yes
+45,25,Batch,Sewage Sludge,Yes,No
+45,25,Batch,Sewage Sludge,Yes,Yes
+45,25,Batch,Food Waste + Manure,No,No
+45,25,Batch,Food Waste + Manure,No,Yes
+45,25,Batch,Food Waste + Manure,Yes,No
+45,25,Batch,Food Waste + Manure,Yes,Yes
+45,25,Batch,Food Waste + Oil,No,No
+45,25,Batch,Food Waste + Oil,No,Yes
+45,25,Batch,Food Waste + Oil,Yes,No
+45,25,Batch,Food Waste + Oil,Yes,Yes
+45,25,Batch,Manure + Wheat Straw,No,No
+45,25,Batch,Manure + Wheat Straw,No,Yes
+45,25,Batch,Manure + Wheat Straw,Yes,No
+45,25,Batch,Manure + Wheat Straw,Yes,Yes
+45,25,Batch,Food Waste + Sewage Sludge,No,No
+45,25,Batch,Food Waste + Sewage Sludge,No,Yes
+45,25,Batch,Food Waste + Sewage Sludge,Yes,No
+45,25,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,25,Semi-continuous,Manure,No,No
+45,25,Semi-continuous,Manure,No,Yes
+45,25,Semi-continuous,Manure,Yes,No
+45,25,Semi-continuous,Manure,Yes,Yes
+45,25,Semi-continuous,Food Waste,No,No
+45,25,Semi-continuous,Food Waste,No,Yes
+45,25,Semi-continuous,Food Waste,Yes,No
+45,25,Semi-continuous,Food Waste,Yes,Yes
+45,25,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,25,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,25,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,25,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,25,Semi-continuous,Sewage Sludge,No,No
+45,25,Semi-continuous,Sewage Sludge,No,Yes
+45,25,Semi-continuous,Sewage Sludge,Yes,No
+45,25,Semi-continuous,Sewage Sludge,Yes,Yes
+45,25,Semi-continuous,Food Waste + Manure,No,No
+45,25,Semi-continuous,Food Waste + Manure,No,Yes
+45,25,Semi-continuous,Food Waste + Manure,Yes,No
+45,25,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,25,Semi-continuous,Food Waste + Oil,No,No
+45,25,Semi-continuous,Food Waste + Oil,No,Yes
+45,25,Semi-continuous,Food Waste + Oil,Yes,No
+45,25,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,25,Semi-continuous,Manure + Wheat Straw,No,No
+45,25,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,25,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,25,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,25,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,25,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,25,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,25,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,35,Batch,Manure,No,No
+45,35,Batch,Manure,No,Yes
+45,35,Batch,Manure,Yes,No
+45,35,Batch,Manure,Yes,Yes
+45,35,Batch,Food Waste,No,No
+45,35,Batch,Food Waste,No,Yes
+45,35,Batch,Food Waste,Yes,No
+45,35,Batch,Food Waste,Yes,Yes
+45,35,Batch,Pharmaceutical Waste Sludge,No,No
+45,35,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,35,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,35,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,35,Batch,Sewage Sludge,No,No
+45,35,Batch,Sewage Sludge,No,Yes
+45,35,Batch,Sewage Sludge,Yes,No
+45,35,Batch,Sewage Sludge,Yes,Yes
+45,35,Batch,Food Waste + Manure,No,No
+45,35,Batch,Food Waste + Manure,No,Yes
+45,35,Batch,Food Waste + Manure,Yes,No
+45,35,Batch,Food Waste + Manure,Yes,Yes
+45,35,Batch,Food Waste + Oil,No,No
+45,35,Batch,Food Waste + Oil,No,Yes
+45,35,Batch,Food Waste + Oil,Yes,No
+45,35,Batch,Food Waste + Oil,Yes,Yes
+45,35,Batch,Manure + Wheat Straw,No,No
+45,35,Batch,Manure + Wheat Straw,No,Yes
+45,35,Batch,Manure + Wheat Straw,Yes,No
+45,35,Batch,Manure + Wheat Straw,Yes,Yes
+45,35,Batch,Food Waste + Sewage Sludge,No,No
+45,35,Batch,Food Waste + Sewage Sludge,No,Yes
+45,35,Batch,Food Waste + Sewage Sludge,Yes,No
+45,35,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,35,Semi-continuous,Manure,No,No
+45,35,Semi-continuous,Manure,No,Yes
+45,35,Semi-continuous,Manure,Yes,No
+45,35,Semi-continuous,Manure,Yes,Yes
+45,35,Semi-continuous,Food Waste,No,No
+45,35,Semi-continuous,Food Waste,No,Yes
+45,35,Semi-continuous,Food Waste,Yes,No
+45,35,Semi-continuous,Food Waste,Yes,Yes
+45,35,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,35,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,35,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,35,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,35,Semi-continuous,Sewage Sludge,No,No
+45,35,Semi-continuous,Sewage Sludge,No,Yes
+45,35,Semi-continuous,Sewage Sludge,Yes,No
+45,35,Semi-continuous,Sewage Sludge,Yes,Yes
+45,35,Semi-continuous,Food Waste + Manure,No,No
+45,35,Semi-continuous,Food Waste + Manure,No,Yes
+45,35,Semi-continuous,Food Waste + Manure,Yes,No
+45,35,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,35,Semi-continuous,Food Waste + Oil,No,No
+45,35,Semi-continuous,Food Waste + Oil,No,Yes
+45,35,Semi-continuous,Food Waste + Oil,Yes,No
+45,35,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,35,Semi-continuous,Manure + Wheat Straw,No,No
+45,35,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,35,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,35,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,35,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,35,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,35,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,35,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,45,Batch,Manure,No,No
+45,45,Batch,Manure,No,Yes
+45,45,Batch,Manure,Yes,No
+45,45,Batch,Manure,Yes,Yes
+45,45,Batch,Food Waste,No,No
+45,45,Batch,Food Waste,No,Yes
+45,45,Batch,Food Waste,Yes,No
+45,45,Batch,Food Waste,Yes,Yes
+45,45,Batch,Pharmaceutical Waste Sludge,No,No
+45,45,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,45,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,45,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,45,Batch,Sewage Sludge,No,No
+45,45,Batch,Sewage Sludge,No,Yes
+45,45,Batch,Sewage Sludge,Yes,No
+45,45,Batch,Sewage Sludge,Yes,Yes
+45,45,Batch,Food Waste + Manure,No,No
+45,45,Batch,Food Waste + Manure,No,Yes
+45,45,Batch,Food Waste + Manure,Yes,No
+45,45,Batch,Food Waste + Manure,Yes,Yes
+45,45,Batch,Food Waste + Oil,No,No
+45,45,Batch,Food Waste + Oil,No,Yes
+45,45,Batch,Food Waste + Oil,Yes,No
+45,45,Batch,Food Waste + Oil,Yes,Yes
+45,45,Batch,Manure + Wheat Straw,No,No
+45,45,Batch,Manure + Wheat Straw,No,Yes
+45,45,Batch,Manure + Wheat Straw,Yes,No
+45,45,Batch,Manure + Wheat Straw,Yes,Yes
+45,45,Batch,Food Waste + Sewage Sludge,No,No
+45,45,Batch,Food Waste + Sewage Sludge,No,Yes
+45,45,Batch,Food Waste + Sewage Sludge,Yes,No
+45,45,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,45,Semi-continuous,Manure,No,No
+45,45,Semi-continuous,Manure,No,Yes
+45,45,Semi-continuous,Manure,Yes,No
+45,45,Semi-continuous,Manure,Yes,Yes
+45,45,Semi-continuous,Food Waste,No,No
+45,45,Semi-continuous,Food Waste,No,Yes
+45,45,Semi-continuous,Food Waste,Yes,No
+45,45,Semi-continuous,Food Waste,Yes,Yes
+45,45,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,45,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,45,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,45,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,45,Semi-continuous,Sewage Sludge,No,No
+45,45,Semi-continuous,Sewage Sludge,No,Yes
+45,45,Semi-continuous,Sewage Sludge,Yes,No
+45,45,Semi-continuous,Sewage Sludge,Yes,Yes
+45,45,Semi-continuous,Food Waste + Manure,No,No
+45,45,Semi-continuous,Food Waste + Manure,No,Yes
+45,45,Semi-continuous,Food Waste + Manure,Yes,No
+45,45,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,45,Semi-continuous,Food Waste + Oil,No,No
+45,45,Semi-continuous,Food Waste + Oil,No,Yes
+45,45,Semi-continuous,Food Waste + Oil,Yes,No
+45,45,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,45,Semi-continuous,Manure + Wheat Straw,No,No
+45,45,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,45,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,45,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,45,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,45,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,45,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,45,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,55,Batch,Manure,No,No
+45,55,Batch,Manure,No,Yes
+45,55,Batch,Manure,Yes,No
+45,55,Batch,Manure,Yes,Yes
+45,55,Batch,Food Waste,No,No
+45,55,Batch,Food Waste,No,Yes
+45,55,Batch,Food Waste,Yes,No
+45,55,Batch,Food Waste,Yes,Yes
+45,55,Batch,Pharmaceutical Waste Sludge,No,No
+45,55,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,55,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,55,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,55,Batch,Sewage Sludge,No,No
+45,55,Batch,Sewage Sludge,No,Yes
+45,55,Batch,Sewage Sludge,Yes,No
+45,55,Batch,Sewage Sludge,Yes,Yes
+45,55,Batch,Food Waste + Manure,No,No
+45,55,Batch,Food Waste + Manure,No,Yes
+45,55,Batch,Food Waste + Manure,Yes,No
+45,55,Batch,Food Waste + Manure,Yes,Yes
+45,55,Batch,Food Waste + Oil,No,No
+45,55,Batch,Food Waste + Oil,No,Yes
+45,55,Batch,Food Waste + Oil,Yes,No
+45,55,Batch,Food Waste + Oil,Yes,Yes
+45,55,Batch,Manure + Wheat Straw,No,No
+45,55,Batch,Manure + Wheat Straw,No,Yes
+45,55,Batch,Manure + Wheat Straw,Yes,No
+45,55,Batch,Manure + Wheat Straw,Yes,Yes
+45,55,Batch,Food Waste + Sewage Sludge,No,No
+45,55,Batch,Food Waste + Sewage Sludge,No,Yes
+45,55,Batch,Food Waste + Sewage Sludge,Yes,No
+45,55,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,55,Semi-continuous,Manure,No,No
+45,55,Semi-continuous,Manure,No,Yes
+45,55,Semi-continuous,Manure,Yes,No
+45,55,Semi-continuous,Manure,Yes,Yes
+45,55,Semi-continuous,Food Waste,No,No
+45,55,Semi-continuous,Food Waste,No,Yes
+45,55,Semi-continuous,Food Waste,Yes,No
+45,55,Semi-continuous,Food Waste,Yes,Yes
+45,55,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,55,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,55,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,55,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,55,Semi-continuous,Sewage Sludge,No,No
+45,55,Semi-continuous,Sewage Sludge,No,Yes
+45,55,Semi-continuous,Sewage Sludge,Yes,No
+45,55,Semi-continuous,Sewage Sludge,Yes,Yes
+45,55,Semi-continuous,Food Waste + Manure,No,No
+45,55,Semi-continuous,Food Waste + Manure,No,Yes
+45,55,Semi-continuous,Food Waste + Manure,Yes,No
+45,55,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,55,Semi-continuous,Food Waste + Oil,No,No
+45,55,Semi-continuous,Food Waste + Oil,No,Yes
+45,55,Semi-continuous,Food Waste + Oil,Yes,No
+45,55,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,55,Semi-continuous,Manure + Wheat Straw,No,No
+45,55,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,55,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,55,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,55,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,55,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,55,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,55,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,65,Batch,Manure,No,No
+45,65,Batch,Manure,No,Yes
+45,65,Batch,Manure,Yes,No
+45,65,Batch,Manure,Yes,Yes
+45,65,Batch,Food Waste,No,No
+45,65,Batch,Food Waste,No,Yes
+45,65,Batch,Food Waste,Yes,No
+45,65,Batch,Food Waste,Yes,Yes
+45,65,Batch,Pharmaceutical Waste Sludge,No,No
+45,65,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,65,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,65,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,65,Batch,Sewage Sludge,No,No
+45,65,Batch,Sewage Sludge,No,Yes
+45,65,Batch,Sewage Sludge,Yes,No
+45,65,Batch,Sewage Sludge,Yes,Yes
+45,65,Batch,Food Waste + Manure,No,No
+45,65,Batch,Food Waste + Manure,No,Yes
+45,65,Batch,Food Waste + Manure,Yes,No
+45,65,Batch,Food Waste + Manure,Yes,Yes
+45,65,Batch,Food Waste + Oil,No,No
+45,65,Batch,Food Waste + Oil,No,Yes
+45,65,Batch,Food Waste + Oil,Yes,No
+45,65,Batch,Food Waste + Oil,Yes,Yes
+45,65,Batch,Manure + Wheat Straw,No,No
+45,65,Batch,Manure + Wheat Straw,No,Yes
+45,65,Batch,Manure + Wheat Straw,Yes,No
+45,65,Batch,Manure + Wheat Straw,Yes,Yes
+45,65,Batch,Food Waste + Sewage Sludge,No,No
+45,65,Batch,Food Waste + Sewage Sludge,No,Yes
+45,65,Batch,Food Waste + Sewage Sludge,Yes,No
+45,65,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,65,Semi-continuous,Manure,No,No
+45,65,Semi-continuous,Manure,No,Yes
+45,65,Semi-continuous,Manure,Yes,No
+45,65,Semi-continuous,Manure,Yes,Yes
+45,65,Semi-continuous,Food Waste,No,No
+45,65,Semi-continuous,Food Waste,No,Yes
+45,65,Semi-continuous,Food Waste,Yes,No
+45,65,Semi-continuous,Food Waste,Yes,Yes
+45,65,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,65,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,65,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,65,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,65,Semi-continuous,Sewage Sludge,No,No
+45,65,Semi-continuous,Sewage Sludge,No,Yes
+45,65,Semi-continuous,Sewage Sludge,Yes,No
+45,65,Semi-continuous,Sewage Sludge,Yes,Yes
+45,65,Semi-continuous,Food Waste + Manure,No,No
+45,65,Semi-continuous,Food Waste + Manure,No,Yes
+45,65,Semi-continuous,Food Waste + Manure,Yes,No
+45,65,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,65,Semi-continuous,Food Waste + Oil,No,No
+45,65,Semi-continuous,Food Waste + Oil,No,Yes
+45,65,Semi-continuous,Food Waste + Oil,Yes,No
+45,65,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,65,Semi-continuous,Manure + Wheat Straw,No,No
+45,65,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,65,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,65,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,65,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,65,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,65,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,65,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,75,Batch,Manure,No,No
+45,75,Batch,Manure,No,Yes
+45,75,Batch,Manure,Yes,No
+45,75,Batch,Manure,Yes,Yes
+45,75,Batch,Food Waste,No,No
+45,75,Batch,Food Waste,No,Yes
+45,75,Batch,Food Waste,Yes,No
+45,75,Batch,Food Waste,Yes,Yes
+45,75,Batch,Pharmaceutical Waste Sludge,No,No
+45,75,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,75,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,75,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,75,Batch,Sewage Sludge,No,No
+45,75,Batch,Sewage Sludge,No,Yes
+45,75,Batch,Sewage Sludge,Yes,No
+45,75,Batch,Sewage Sludge,Yes,Yes
+45,75,Batch,Food Waste + Manure,No,No
+45,75,Batch,Food Waste + Manure,No,Yes
+45,75,Batch,Food Waste + Manure,Yes,No
+45,75,Batch,Food Waste + Manure,Yes,Yes
+45,75,Batch,Food Waste + Oil,No,No
+45,75,Batch,Food Waste + Oil,No,Yes
+45,75,Batch,Food Waste + Oil,Yes,No
+45,75,Batch,Food Waste + Oil,Yes,Yes
+45,75,Batch,Manure + Wheat Straw,No,No
+45,75,Batch,Manure + Wheat Straw,No,Yes
+45,75,Batch,Manure + Wheat Straw,Yes,No
+45,75,Batch,Manure + Wheat Straw,Yes,Yes
+45,75,Batch,Food Waste + Sewage Sludge,No,No
+45,75,Batch,Food Waste + Sewage Sludge,No,Yes
+45,75,Batch,Food Waste + Sewage Sludge,Yes,No
+45,75,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,75,Semi-continuous,Manure,No,No
+45,75,Semi-continuous,Manure,No,Yes
+45,75,Semi-continuous,Manure,Yes,No
+45,75,Semi-continuous,Manure,Yes,Yes
+45,75,Semi-continuous,Food Waste,No,No
+45,75,Semi-continuous,Food Waste,No,Yes
+45,75,Semi-continuous,Food Waste,Yes,No
+45,75,Semi-continuous,Food Waste,Yes,Yes
+45,75,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,75,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,75,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,75,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,75,Semi-continuous,Sewage Sludge,No,No
+45,75,Semi-continuous,Sewage Sludge,No,Yes
+45,75,Semi-continuous,Sewage Sludge,Yes,No
+45,75,Semi-continuous,Sewage Sludge,Yes,Yes
+45,75,Semi-continuous,Food Waste + Manure,No,No
+45,75,Semi-continuous,Food Waste + Manure,No,Yes
+45,75,Semi-continuous,Food Waste + Manure,Yes,No
+45,75,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,75,Semi-continuous,Food Waste + Oil,No,No
+45,75,Semi-continuous,Food Waste + Oil,No,Yes
+45,75,Semi-continuous,Food Waste + Oil,Yes,No
+45,75,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,75,Semi-continuous,Manure + Wheat Straw,No,No
+45,75,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,75,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,75,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,75,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,75,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,75,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,75,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,85,Batch,Manure,No,No
+45,85,Batch,Manure,No,Yes
+45,85,Batch,Manure,Yes,No
+45,85,Batch,Manure,Yes,Yes
+45,85,Batch,Food Waste,No,No
+45,85,Batch,Food Waste,No,Yes
+45,85,Batch,Food Waste,Yes,No
+45,85,Batch,Food Waste,Yes,Yes
+45,85,Batch,Pharmaceutical Waste Sludge,No,No
+45,85,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,85,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,85,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,85,Batch,Sewage Sludge,No,No
+45,85,Batch,Sewage Sludge,No,Yes
+45,85,Batch,Sewage Sludge,Yes,No
+45,85,Batch,Sewage Sludge,Yes,Yes
+45,85,Batch,Food Waste + Manure,No,No
+45,85,Batch,Food Waste + Manure,No,Yes
+45,85,Batch,Food Waste + Manure,Yes,No
+45,85,Batch,Food Waste + Manure,Yes,Yes
+45,85,Batch,Food Waste + Oil,No,No
+45,85,Batch,Food Waste + Oil,No,Yes
+45,85,Batch,Food Waste + Oil,Yes,No
+45,85,Batch,Food Waste + Oil,Yes,Yes
+45,85,Batch,Manure + Wheat Straw,No,No
+45,85,Batch,Manure + Wheat Straw,No,Yes
+45,85,Batch,Manure + Wheat Straw,Yes,No
+45,85,Batch,Manure + Wheat Straw,Yes,Yes
+45,85,Batch,Food Waste + Sewage Sludge,No,No
+45,85,Batch,Food Waste + Sewage Sludge,No,Yes
+45,85,Batch,Food Waste + Sewage Sludge,Yes,No
+45,85,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,85,Semi-continuous,Manure,No,No
+45,85,Semi-continuous,Manure,No,Yes
+45,85,Semi-continuous,Manure,Yes,No
+45,85,Semi-continuous,Manure,Yes,Yes
+45,85,Semi-continuous,Food Waste,No,No
+45,85,Semi-continuous,Food Waste,No,Yes
+45,85,Semi-continuous,Food Waste,Yes,No
+45,85,Semi-continuous,Food Waste,Yes,Yes
+45,85,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,85,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,85,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,85,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,85,Semi-continuous,Sewage Sludge,No,No
+45,85,Semi-continuous,Sewage Sludge,No,Yes
+45,85,Semi-continuous,Sewage Sludge,Yes,No
+45,85,Semi-continuous,Sewage Sludge,Yes,Yes
+45,85,Semi-continuous,Food Waste + Manure,No,No
+45,85,Semi-continuous,Food Waste + Manure,No,Yes
+45,85,Semi-continuous,Food Waste + Manure,Yes,No
+45,85,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,85,Semi-continuous,Food Waste + Oil,No,No
+45,85,Semi-continuous,Food Waste + Oil,No,Yes
+45,85,Semi-continuous,Food Waste + Oil,Yes,No
+45,85,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,85,Semi-continuous,Manure + Wheat Straw,No,No
+45,85,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,85,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,85,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,85,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,85,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,85,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,85,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,95,Batch,Manure,No,No
+45,95,Batch,Manure,No,Yes
+45,95,Batch,Manure,Yes,No
+45,95,Batch,Manure,Yes,Yes
+45,95,Batch,Food Waste,No,No
+45,95,Batch,Food Waste,No,Yes
+45,95,Batch,Food Waste,Yes,No
+45,95,Batch,Food Waste,Yes,Yes
+45,95,Batch,Pharmaceutical Waste Sludge,No,No
+45,95,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,95,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,95,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,95,Batch,Sewage Sludge,No,No
+45,95,Batch,Sewage Sludge,No,Yes
+45,95,Batch,Sewage Sludge,Yes,No
+45,95,Batch,Sewage Sludge,Yes,Yes
+45,95,Batch,Food Waste + Manure,No,No
+45,95,Batch,Food Waste + Manure,No,Yes
+45,95,Batch,Food Waste + Manure,Yes,No
+45,95,Batch,Food Waste + Manure,Yes,Yes
+45,95,Batch,Food Waste + Oil,No,No
+45,95,Batch,Food Waste + Oil,No,Yes
+45,95,Batch,Food Waste + Oil,Yes,No
+45,95,Batch,Food Waste + Oil,Yes,Yes
+45,95,Batch,Manure + Wheat Straw,No,No
+45,95,Batch,Manure + Wheat Straw,No,Yes
+45,95,Batch,Manure + Wheat Straw,Yes,No
+45,95,Batch,Manure + Wheat Straw,Yes,Yes
+45,95,Batch,Food Waste + Sewage Sludge,No,No
+45,95,Batch,Food Waste + Sewage Sludge,No,Yes
+45,95,Batch,Food Waste + Sewage Sludge,Yes,No
+45,95,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,95,Semi-continuous,Manure,No,No
+45,95,Semi-continuous,Manure,No,Yes
+45,95,Semi-continuous,Manure,Yes,No
+45,95,Semi-continuous,Manure,Yes,Yes
+45,95,Semi-continuous,Food Waste,No,No
+45,95,Semi-continuous,Food Waste,No,Yes
+45,95,Semi-continuous,Food Waste,Yes,No
+45,95,Semi-continuous,Food Waste,Yes,Yes
+45,95,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,95,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,95,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,95,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,95,Semi-continuous,Sewage Sludge,No,No
+45,95,Semi-continuous,Sewage Sludge,No,Yes
+45,95,Semi-continuous,Sewage Sludge,Yes,No
+45,95,Semi-continuous,Sewage Sludge,Yes,Yes
+45,95,Semi-continuous,Food Waste + Manure,No,No
+45,95,Semi-continuous,Food Waste + Manure,No,Yes
+45,95,Semi-continuous,Food Waste + Manure,Yes,No
+45,95,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,95,Semi-continuous,Food Waste + Oil,No,No
+45,95,Semi-continuous,Food Waste + Oil,No,Yes
+45,95,Semi-continuous,Food Waste + Oil,Yes,No
+45,95,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,95,Semi-continuous,Manure + Wheat Straw,No,No
+45,95,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,95,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,95,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,95,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,95,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,95,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,95,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,105,Batch,Manure,No,No
+45,105,Batch,Manure,No,Yes
+45,105,Batch,Manure,Yes,No
+45,105,Batch,Manure,Yes,Yes
+45,105,Batch,Food Waste,No,No
+45,105,Batch,Food Waste,No,Yes
+45,105,Batch,Food Waste,Yes,No
+45,105,Batch,Food Waste,Yes,Yes
+45,105,Batch,Pharmaceutical Waste Sludge,No,No
+45,105,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,105,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,105,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,105,Batch,Sewage Sludge,No,No
+45,105,Batch,Sewage Sludge,No,Yes
+45,105,Batch,Sewage Sludge,Yes,No
+45,105,Batch,Sewage Sludge,Yes,Yes
+45,105,Batch,Food Waste + Manure,No,No
+45,105,Batch,Food Waste + Manure,No,Yes
+45,105,Batch,Food Waste + Manure,Yes,No
+45,105,Batch,Food Waste + Manure,Yes,Yes
+45,105,Batch,Food Waste + Oil,No,No
+45,105,Batch,Food Waste + Oil,No,Yes
+45,105,Batch,Food Waste + Oil,Yes,No
+45,105,Batch,Food Waste + Oil,Yes,Yes
+45,105,Batch,Manure + Wheat Straw,No,No
+45,105,Batch,Manure + Wheat Straw,No,Yes
+45,105,Batch,Manure + Wheat Straw,Yes,No
+45,105,Batch,Manure + Wheat Straw,Yes,Yes
+45,105,Batch,Food Waste + Sewage Sludge,No,No
+45,105,Batch,Food Waste + Sewage Sludge,No,Yes
+45,105,Batch,Food Waste + Sewage Sludge,Yes,No
+45,105,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,105,Semi-continuous,Manure,No,No
+45,105,Semi-continuous,Manure,No,Yes
+45,105,Semi-continuous,Manure,Yes,No
+45,105,Semi-continuous,Manure,Yes,Yes
+45,105,Semi-continuous,Food Waste,No,No
+45,105,Semi-continuous,Food Waste,No,Yes
+45,105,Semi-continuous,Food Waste,Yes,No
+45,105,Semi-continuous,Food Waste,Yes,Yes
+45,105,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,105,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,105,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,105,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,105,Semi-continuous,Sewage Sludge,No,No
+45,105,Semi-continuous,Sewage Sludge,No,Yes
+45,105,Semi-continuous,Sewage Sludge,Yes,No
+45,105,Semi-continuous,Sewage Sludge,Yes,Yes
+45,105,Semi-continuous,Food Waste + Manure,No,No
+45,105,Semi-continuous,Food Waste + Manure,No,Yes
+45,105,Semi-continuous,Food Waste + Manure,Yes,No
+45,105,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,105,Semi-continuous,Food Waste + Oil,No,No
+45,105,Semi-continuous,Food Waste + Oil,No,Yes
+45,105,Semi-continuous,Food Waste + Oil,Yes,No
+45,105,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,105,Semi-continuous,Manure + Wheat Straw,No,No
+45,105,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,105,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,105,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,105,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,105,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,105,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,105,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,115,Batch,Manure,No,No
+45,115,Batch,Manure,No,Yes
+45,115,Batch,Manure,Yes,No
+45,115,Batch,Manure,Yes,Yes
+45,115,Batch,Food Waste,No,No
+45,115,Batch,Food Waste,No,Yes
+45,115,Batch,Food Waste,Yes,No
+45,115,Batch,Food Waste,Yes,Yes
+45,115,Batch,Pharmaceutical Waste Sludge,No,No
+45,115,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,115,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,115,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,115,Batch,Sewage Sludge,No,No
+45,115,Batch,Sewage Sludge,No,Yes
+45,115,Batch,Sewage Sludge,Yes,No
+45,115,Batch,Sewage Sludge,Yes,Yes
+45,115,Batch,Food Waste + Manure,No,No
+45,115,Batch,Food Waste + Manure,No,Yes
+45,115,Batch,Food Waste + Manure,Yes,No
+45,115,Batch,Food Waste + Manure,Yes,Yes
+45,115,Batch,Food Waste + Oil,No,No
+45,115,Batch,Food Waste + Oil,No,Yes
+45,115,Batch,Food Waste + Oil,Yes,No
+45,115,Batch,Food Waste + Oil,Yes,Yes
+45,115,Batch,Manure + Wheat Straw,No,No
+45,115,Batch,Manure + Wheat Straw,No,Yes
+45,115,Batch,Manure + Wheat Straw,Yes,No
+45,115,Batch,Manure + Wheat Straw,Yes,Yes
+45,115,Batch,Food Waste + Sewage Sludge,No,No
+45,115,Batch,Food Waste + Sewage Sludge,No,Yes
+45,115,Batch,Food Waste + Sewage Sludge,Yes,No
+45,115,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,115,Semi-continuous,Manure,No,No
+45,115,Semi-continuous,Manure,No,Yes
+45,115,Semi-continuous,Manure,Yes,No
+45,115,Semi-continuous,Manure,Yes,Yes
+45,115,Semi-continuous,Food Waste,No,No
+45,115,Semi-continuous,Food Waste,No,Yes
+45,115,Semi-continuous,Food Waste,Yes,No
+45,115,Semi-continuous,Food Waste,Yes,Yes
+45,115,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,115,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,115,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,115,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,115,Semi-continuous,Sewage Sludge,No,No
+45,115,Semi-continuous,Sewage Sludge,No,Yes
+45,115,Semi-continuous,Sewage Sludge,Yes,No
+45,115,Semi-continuous,Sewage Sludge,Yes,Yes
+45,115,Semi-continuous,Food Waste + Manure,No,No
+45,115,Semi-continuous,Food Waste + Manure,No,Yes
+45,115,Semi-continuous,Food Waste + Manure,Yes,No
+45,115,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,115,Semi-continuous,Food Waste + Oil,No,No
+45,115,Semi-continuous,Food Waste + Oil,No,Yes
+45,115,Semi-continuous,Food Waste + Oil,Yes,No
+45,115,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,115,Semi-continuous,Manure + Wheat Straw,No,No
+45,115,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,115,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,115,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,115,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,115,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,115,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,115,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,125,Batch,Manure,No,No
+45,125,Batch,Manure,No,Yes
+45,125,Batch,Manure,Yes,No
+45,125,Batch,Manure,Yes,Yes
+45,125,Batch,Food Waste,No,No
+45,125,Batch,Food Waste,No,Yes
+45,125,Batch,Food Waste,Yes,No
+45,125,Batch,Food Waste,Yes,Yes
+45,125,Batch,Pharmaceutical Waste Sludge,No,No
+45,125,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,125,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,125,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,125,Batch,Sewage Sludge,No,No
+45,125,Batch,Sewage Sludge,No,Yes
+45,125,Batch,Sewage Sludge,Yes,No
+45,125,Batch,Sewage Sludge,Yes,Yes
+45,125,Batch,Food Waste + Manure,No,No
+45,125,Batch,Food Waste + Manure,No,Yes
+45,125,Batch,Food Waste + Manure,Yes,No
+45,125,Batch,Food Waste + Manure,Yes,Yes
+45,125,Batch,Food Waste + Oil,No,No
+45,125,Batch,Food Waste + Oil,No,Yes
+45,125,Batch,Food Waste + Oil,Yes,No
+45,125,Batch,Food Waste + Oil,Yes,Yes
+45,125,Batch,Manure + Wheat Straw,No,No
+45,125,Batch,Manure + Wheat Straw,No,Yes
+45,125,Batch,Manure + Wheat Straw,Yes,No
+45,125,Batch,Manure + Wheat Straw,Yes,Yes
+45,125,Batch,Food Waste + Sewage Sludge,No,No
+45,125,Batch,Food Waste + Sewage Sludge,No,Yes
+45,125,Batch,Food Waste + Sewage Sludge,Yes,No
+45,125,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,125,Semi-continuous,Manure,No,No
+45,125,Semi-continuous,Manure,No,Yes
+45,125,Semi-continuous,Manure,Yes,No
+45,125,Semi-continuous,Manure,Yes,Yes
+45,125,Semi-continuous,Food Waste,No,No
+45,125,Semi-continuous,Food Waste,No,Yes
+45,125,Semi-continuous,Food Waste,Yes,No
+45,125,Semi-continuous,Food Waste,Yes,Yes
+45,125,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,125,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,125,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,125,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,125,Semi-continuous,Sewage Sludge,No,No
+45,125,Semi-continuous,Sewage Sludge,No,Yes
+45,125,Semi-continuous,Sewage Sludge,Yes,No
+45,125,Semi-continuous,Sewage Sludge,Yes,Yes
+45,125,Semi-continuous,Food Waste + Manure,No,No
+45,125,Semi-continuous,Food Waste + Manure,No,Yes
+45,125,Semi-continuous,Food Waste + Manure,Yes,No
+45,125,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,125,Semi-continuous,Food Waste + Oil,No,No
+45,125,Semi-continuous,Food Waste + Oil,No,Yes
+45,125,Semi-continuous,Food Waste + Oil,Yes,No
+45,125,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,125,Semi-continuous,Manure + Wheat Straw,No,No
+45,125,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,125,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,125,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,125,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,125,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,125,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,125,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+45,135,Batch,Manure,No,No
+45,135,Batch,Manure,No,Yes
+45,135,Batch,Manure,Yes,No
+45,135,Batch,Manure,Yes,Yes
+45,135,Batch,Food Waste,No,No
+45,135,Batch,Food Waste,No,Yes
+45,135,Batch,Food Waste,Yes,No
+45,135,Batch,Food Waste,Yes,Yes
+45,135,Batch,Pharmaceutical Waste Sludge,No,No
+45,135,Batch,Pharmaceutical Waste Sludge,No,Yes
+45,135,Batch,Pharmaceutical Waste Sludge,Yes,No
+45,135,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+45,135,Batch,Sewage Sludge,No,No
+45,135,Batch,Sewage Sludge,No,Yes
+45,135,Batch,Sewage Sludge,Yes,No
+45,135,Batch,Sewage Sludge,Yes,Yes
+45,135,Batch,Food Waste + Manure,No,No
+45,135,Batch,Food Waste + Manure,No,Yes
+45,135,Batch,Food Waste + Manure,Yes,No
+45,135,Batch,Food Waste + Manure,Yes,Yes
+45,135,Batch,Food Waste + Oil,No,No
+45,135,Batch,Food Waste + Oil,No,Yes
+45,135,Batch,Food Waste + Oil,Yes,No
+45,135,Batch,Food Waste + Oil,Yes,Yes
+45,135,Batch,Manure + Wheat Straw,No,No
+45,135,Batch,Manure + Wheat Straw,No,Yes
+45,135,Batch,Manure + Wheat Straw,Yes,No
+45,135,Batch,Manure + Wheat Straw,Yes,Yes
+45,135,Batch,Food Waste + Sewage Sludge,No,No
+45,135,Batch,Food Waste + Sewage Sludge,No,Yes
+45,135,Batch,Food Waste + Sewage Sludge,Yes,No
+45,135,Batch,Food Waste + Sewage Sludge,Yes,Yes
+45,135,Semi-continuous,Manure,No,No
+45,135,Semi-continuous,Manure,No,Yes
+45,135,Semi-continuous,Manure,Yes,No
+45,135,Semi-continuous,Manure,Yes,Yes
+45,135,Semi-continuous,Food Waste,No,No
+45,135,Semi-continuous,Food Waste,No,Yes
+45,135,Semi-continuous,Food Waste,Yes,No
+45,135,Semi-continuous,Food Waste,Yes,Yes
+45,135,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+45,135,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+45,135,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+45,135,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+45,135,Semi-continuous,Sewage Sludge,No,No
+45,135,Semi-continuous,Sewage Sludge,No,Yes
+45,135,Semi-continuous,Sewage Sludge,Yes,No
+45,135,Semi-continuous,Sewage Sludge,Yes,Yes
+45,135,Semi-continuous,Food Waste + Manure,No,No
+45,135,Semi-continuous,Food Waste + Manure,No,Yes
+45,135,Semi-continuous,Food Waste + Manure,Yes,No
+45,135,Semi-continuous,Food Waste + Manure,Yes,Yes
+45,135,Semi-continuous,Food Waste + Oil,No,No
+45,135,Semi-continuous,Food Waste + Oil,No,Yes
+45,135,Semi-continuous,Food Waste + Oil,Yes,No
+45,135,Semi-continuous,Food Waste + Oil,Yes,Yes
+45,135,Semi-continuous,Manure + Wheat Straw,No,No
+45,135,Semi-continuous,Manure + Wheat Straw,No,Yes
+45,135,Semi-continuous,Manure + Wheat Straw,Yes,No
+45,135,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+45,135,Semi-continuous,Food Waste + Sewage Sludge,No,No
+45,135,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+45,135,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+45,135,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,5,Batch,Manure,No,No
+55,5,Batch,Manure,No,Yes
+55,5,Batch,Manure,Yes,No
+55,5,Batch,Manure,Yes,Yes
+55,5,Batch,Food Waste,No,No
+55,5,Batch,Food Waste,No,Yes
+55,5,Batch,Food Waste,Yes,No
+55,5,Batch,Food Waste,Yes,Yes
+55,5,Batch,Pharmaceutical Waste Sludge,No,No
+55,5,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,5,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,5,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,5,Batch,Sewage Sludge,No,No
+55,5,Batch,Sewage Sludge,No,Yes
+55,5,Batch,Sewage Sludge,Yes,No
+55,5,Batch,Sewage Sludge,Yes,Yes
+55,5,Batch,Food Waste + Manure,No,No
+55,5,Batch,Food Waste + Manure,No,Yes
+55,5,Batch,Food Waste + Manure,Yes,No
+55,5,Batch,Food Waste + Manure,Yes,Yes
+55,5,Batch,Food Waste + Oil,No,No
+55,5,Batch,Food Waste + Oil,No,Yes
+55,5,Batch,Food Waste + Oil,Yes,No
+55,5,Batch,Food Waste + Oil,Yes,Yes
+55,5,Batch,Manure + Wheat Straw,No,No
+55,5,Batch,Manure + Wheat Straw,No,Yes
+55,5,Batch,Manure + Wheat Straw,Yes,No
+55,5,Batch,Manure + Wheat Straw,Yes,Yes
+55,5,Batch,Food Waste + Sewage Sludge,No,No
+55,5,Batch,Food Waste + Sewage Sludge,No,Yes
+55,5,Batch,Food Waste + Sewage Sludge,Yes,No
+55,5,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,5,Semi-continuous,Manure,No,No
+55,5,Semi-continuous,Manure,No,Yes
+55,5,Semi-continuous,Manure,Yes,No
+55,5,Semi-continuous,Manure,Yes,Yes
+55,5,Semi-continuous,Food Waste,No,No
+55,5,Semi-continuous,Food Waste,No,Yes
+55,5,Semi-continuous,Food Waste,Yes,No
+55,5,Semi-continuous,Food Waste,Yes,Yes
+55,5,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,5,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,5,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,5,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,5,Semi-continuous,Sewage Sludge,No,No
+55,5,Semi-continuous,Sewage Sludge,No,Yes
+55,5,Semi-continuous,Sewage Sludge,Yes,No
+55,5,Semi-continuous,Sewage Sludge,Yes,Yes
+55,5,Semi-continuous,Food Waste + Manure,No,No
+55,5,Semi-continuous,Food Waste + Manure,No,Yes
+55,5,Semi-continuous,Food Waste + Manure,Yes,No
+55,5,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,5,Semi-continuous,Food Waste + Oil,No,No
+55,5,Semi-continuous,Food Waste + Oil,No,Yes
+55,5,Semi-continuous,Food Waste + Oil,Yes,No
+55,5,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,5,Semi-continuous,Manure + Wheat Straw,No,No
+55,5,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,5,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,5,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,5,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,5,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,5,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,5,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,15,Batch,Manure,No,No
+55,15,Batch,Manure,No,Yes
+55,15,Batch,Manure,Yes,No
+55,15,Batch,Manure,Yes,Yes
+55,15,Batch,Food Waste,No,No
+55,15,Batch,Food Waste,No,Yes
+55,15,Batch,Food Waste,Yes,No
+55,15,Batch,Food Waste,Yes,Yes
+55,15,Batch,Pharmaceutical Waste Sludge,No,No
+55,15,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,15,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,15,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,15,Batch,Sewage Sludge,No,No
+55,15,Batch,Sewage Sludge,No,Yes
+55,15,Batch,Sewage Sludge,Yes,No
+55,15,Batch,Sewage Sludge,Yes,Yes
+55,15,Batch,Food Waste + Manure,No,No
+55,15,Batch,Food Waste + Manure,No,Yes
+55,15,Batch,Food Waste + Manure,Yes,No
+55,15,Batch,Food Waste + Manure,Yes,Yes
+55,15,Batch,Food Waste + Oil,No,No
+55,15,Batch,Food Waste + Oil,No,Yes
+55,15,Batch,Food Waste + Oil,Yes,No
+55,15,Batch,Food Waste + Oil,Yes,Yes
+55,15,Batch,Manure + Wheat Straw,No,No
+55,15,Batch,Manure + Wheat Straw,No,Yes
+55,15,Batch,Manure + Wheat Straw,Yes,No
+55,15,Batch,Manure + Wheat Straw,Yes,Yes
+55,15,Batch,Food Waste + Sewage Sludge,No,No
+55,15,Batch,Food Waste + Sewage Sludge,No,Yes
+55,15,Batch,Food Waste + Sewage Sludge,Yes,No
+55,15,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,15,Semi-continuous,Manure,No,No
+55,15,Semi-continuous,Manure,No,Yes
+55,15,Semi-continuous,Manure,Yes,No
+55,15,Semi-continuous,Manure,Yes,Yes
+55,15,Semi-continuous,Food Waste,No,No
+55,15,Semi-continuous,Food Waste,No,Yes
+55,15,Semi-continuous,Food Waste,Yes,No
+55,15,Semi-continuous,Food Waste,Yes,Yes
+55,15,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,15,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,15,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,15,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,15,Semi-continuous,Sewage Sludge,No,No
+55,15,Semi-continuous,Sewage Sludge,No,Yes
+55,15,Semi-continuous,Sewage Sludge,Yes,No
+55,15,Semi-continuous,Sewage Sludge,Yes,Yes
+55,15,Semi-continuous,Food Waste + Manure,No,No
+55,15,Semi-continuous,Food Waste + Manure,No,Yes
+55,15,Semi-continuous,Food Waste + Manure,Yes,No
+55,15,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,15,Semi-continuous,Food Waste + Oil,No,No
+55,15,Semi-continuous,Food Waste + Oil,No,Yes
+55,15,Semi-continuous,Food Waste + Oil,Yes,No
+55,15,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,15,Semi-continuous,Manure + Wheat Straw,No,No
+55,15,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,15,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,15,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,15,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,15,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,15,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,15,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,25,Batch,Manure,No,No
+55,25,Batch,Manure,No,Yes
+55,25,Batch,Manure,Yes,No
+55,25,Batch,Manure,Yes,Yes
+55,25,Batch,Food Waste,No,No
+55,25,Batch,Food Waste,No,Yes
+55,25,Batch,Food Waste,Yes,No
+55,25,Batch,Food Waste,Yes,Yes
+55,25,Batch,Pharmaceutical Waste Sludge,No,No
+55,25,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,25,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,25,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,25,Batch,Sewage Sludge,No,No
+55,25,Batch,Sewage Sludge,No,Yes
+55,25,Batch,Sewage Sludge,Yes,No
+55,25,Batch,Sewage Sludge,Yes,Yes
+55,25,Batch,Food Waste + Manure,No,No
+55,25,Batch,Food Waste + Manure,No,Yes
+55,25,Batch,Food Waste + Manure,Yes,No
+55,25,Batch,Food Waste + Manure,Yes,Yes
+55,25,Batch,Food Waste + Oil,No,No
+55,25,Batch,Food Waste + Oil,No,Yes
+55,25,Batch,Food Waste + Oil,Yes,No
+55,25,Batch,Food Waste + Oil,Yes,Yes
+55,25,Batch,Manure + Wheat Straw,No,No
+55,25,Batch,Manure + Wheat Straw,No,Yes
+55,25,Batch,Manure + Wheat Straw,Yes,No
+55,25,Batch,Manure + Wheat Straw,Yes,Yes
+55,25,Batch,Food Waste + Sewage Sludge,No,No
+55,25,Batch,Food Waste + Sewage Sludge,No,Yes
+55,25,Batch,Food Waste + Sewage Sludge,Yes,No
+55,25,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,25,Semi-continuous,Manure,No,No
+55,25,Semi-continuous,Manure,No,Yes
+55,25,Semi-continuous,Manure,Yes,No
+55,25,Semi-continuous,Manure,Yes,Yes
+55,25,Semi-continuous,Food Waste,No,No
+55,25,Semi-continuous,Food Waste,No,Yes
+55,25,Semi-continuous,Food Waste,Yes,No
+55,25,Semi-continuous,Food Waste,Yes,Yes
+55,25,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,25,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,25,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,25,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,25,Semi-continuous,Sewage Sludge,No,No
+55,25,Semi-continuous,Sewage Sludge,No,Yes
+55,25,Semi-continuous,Sewage Sludge,Yes,No
+55,25,Semi-continuous,Sewage Sludge,Yes,Yes
+55,25,Semi-continuous,Food Waste + Manure,No,No
+55,25,Semi-continuous,Food Waste + Manure,No,Yes
+55,25,Semi-continuous,Food Waste + Manure,Yes,No
+55,25,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,25,Semi-continuous,Food Waste + Oil,No,No
+55,25,Semi-continuous,Food Waste + Oil,No,Yes
+55,25,Semi-continuous,Food Waste + Oil,Yes,No
+55,25,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,25,Semi-continuous,Manure + Wheat Straw,No,No
+55,25,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,25,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,25,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,25,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,25,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,25,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,25,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,35,Batch,Manure,No,No
+55,35,Batch,Manure,No,Yes
+55,35,Batch,Manure,Yes,No
+55,35,Batch,Manure,Yes,Yes
+55,35,Batch,Food Waste,No,No
+55,35,Batch,Food Waste,No,Yes
+55,35,Batch,Food Waste,Yes,No
+55,35,Batch,Food Waste,Yes,Yes
+55,35,Batch,Pharmaceutical Waste Sludge,No,No
+55,35,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,35,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,35,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,35,Batch,Sewage Sludge,No,No
+55,35,Batch,Sewage Sludge,No,Yes
+55,35,Batch,Sewage Sludge,Yes,No
+55,35,Batch,Sewage Sludge,Yes,Yes
+55,35,Batch,Food Waste + Manure,No,No
+55,35,Batch,Food Waste + Manure,No,Yes
+55,35,Batch,Food Waste + Manure,Yes,No
+55,35,Batch,Food Waste + Manure,Yes,Yes
+55,35,Batch,Food Waste + Oil,No,No
+55,35,Batch,Food Waste + Oil,No,Yes
+55,35,Batch,Food Waste + Oil,Yes,No
+55,35,Batch,Food Waste + Oil,Yes,Yes
+55,35,Batch,Manure + Wheat Straw,No,No
+55,35,Batch,Manure + Wheat Straw,No,Yes
+55,35,Batch,Manure + Wheat Straw,Yes,No
+55,35,Batch,Manure + Wheat Straw,Yes,Yes
+55,35,Batch,Food Waste + Sewage Sludge,No,No
+55,35,Batch,Food Waste + Sewage Sludge,No,Yes
+55,35,Batch,Food Waste + Sewage Sludge,Yes,No
+55,35,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,35,Semi-continuous,Manure,No,No
+55,35,Semi-continuous,Manure,No,Yes
+55,35,Semi-continuous,Manure,Yes,No
+55,35,Semi-continuous,Manure,Yes,Yes
+55,35,Semi-continuous,Food Waste,No,No
+55,35,Semi-continuous,Food Waste,No,Yes
+55,35,Semi-continuous,Food Waste,Yes,No
+55,35,Semi-continuous,Food Waste,Yes,Yes
+55,35,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,35,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,35,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,35,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,35,Semi-continuous,Sewage Sludge,No,No
+55,35,Semi-continuous,Sewage Sludge,No,Yes
+55,35,Semi-continuous,Sewage Sludge,Yes,No
+55,35,Semi-continuous,Sewage Sludge,Yes,Yes
+55,35,Semi-continuous,Food Waste + Manure,No,No
+55,35,Semi-continuous,Food Waste + Manure,No,Yes
+55,35,Semi-continuous,Food Waste + Manure,Yes,No
+55,35,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,35,Semi-continuous,Food Waste + Oil,No,No
+55,35,Semi-continuous,Food Waste + Oil,No,Yes
+55,35,Semi-continuous,Food Waste + Oil,Yes,No
+55,35,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,35,Semi-continuous,Manure + Wheat Straw,No,No
+55,35,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,35,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,35,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,35,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,35,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,35,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,35,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,45,Batch,Manure,No,No
+55,45,Batch,Manure,No,Yes
+55,45,Batch,Manure,Yes,No
+55,45,Batch,Manure,Yes,Yes
+55,45,Batch,Food Waste,No,No
+55,45,Batch,Food Waste,No,Yes
+55,45,Batch,Food Waste,Yes,No
+55,45,Batch,Food Waste,Yes,Yes
+55,45,Batch,Pharmaceutical Waste Sludge,No,No
+55,45,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,45,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,45,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,45,Batch,Sewage Sludge,No,No
+55,45,Batch,Sewage Sludge,No,Yes
+55,45,Batch,Sewage Sludge,Yes,No
+55,45,Batch,Sewage Sludge,Yes,Yes
+55,45,Batch,Food Waste + Manure,No,No
+55,45,Batch,Food Waste + Manure,No,Yes
+55,45,Batch,Food Waste + Manure,Yes,No
+55,45,Batch,Food Waste + Manure,Yes,Yes
+55,45,Batch,Food Waste + Oil,No,No
+55,45,Batch,Food Waste + Oil,No,Yes
+55,45,Batch,Food Waste + Oil,Yes,No
+55,45,Batch,Food Waste + Oil,Yes,Yes
+55,45,Batch,Manure + Wheat Straw,No,No
+55,45,Batch,Manure + Wheat Straw,No,Yes
+55,45,Batch,Manure + Wheat Straw,Yes,No
+55,45,Batch,Manure + Wheat Straw,Yes,Yes
+55,45,Batch,Food Waste + Sewage Sludge,No,No
+55,45,Batch,Food Waste + Sewage Sludge,No,Yes
+55,45,Batch,Food Waste + Sewage Sludge,Yes,No
+55,45,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,45,Semi-continuous,Manure,No,No
+55,45,Semi-continuous,Manure,No,Yes
+55,45,Semi-continuous,Manure,Yes,No
+55,45,Semi-continuous,Manure,Yes,Yes
+55,45,Semi-continuous,Food Waste,No,No
+55,45,Semi-continuous,Food Waste,No,Yes
+55,45,Semi-continuous,Food Waste,Yes,No
+55,45,Semi-continuous,Food Waste,Yes,Yes
+55,45,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,45,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,45,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,45,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,45,Semi-continuous,Sewage Sludge,No,No
+55,45,Semi-continuous,Sewage Sludge,No,Yes
+55,45,Semi-continuous,Sewage Sludge,Yes,No
+55,45,Semi-continuous,Sewage Sludge,Yes,Yes
+55,45,Semi-continuous,Food Waste + Manure,No,No
+55,45,Semi-continuous,Food Waste + Manure,No,Yes
+55,45,Semi-continuous,Food Waste + Manure,Yes,No
+55,45,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,45,Semi-continuous,Food Waste + Oil,No,No
+55,45,Semi-continuous,Food Waste + Oil,No,Yes
+55,45,Semi-continuous,Food Waste + Oil,Yes,No
+55,45,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,45,Semi-continuous,Manure + Wheat Straw,No,No
+55,45,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,45,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,45,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,45,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,45,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,45,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,45,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,55,Batch,Manure,No,No
+55,55,Batch,Manure,No,Yes
+55,55,Batch,Manure,Yes,No
+55,55,Batch,Manure,Yes,Yes
+55,55,Batch,Food Waste,No,No
+55,55,Batch,Food Waste,No,Yes
+55,55,Batch,Food Waste,Yes,No
+55,55,Batch,Food Waste,Yes,Yes
+55,55,Batch,Pharmaceutical Waste Sludge,No,No
+55,55,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,55,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,55,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,55,Batch,Sewage Sludge,No,No
+55,55,Batch,Sewage Sludge,No,Yes
+55,55,Batch,Sewage Sludge,Yes,No
+55,55,Batch,Sewage Sludge,Yes,Yes
+55,55,Batch,Food Waste + Manure,No,No
+55,55,Batch,Food Waste + Manure,No,Yes
+55,55,Batch,Food Waste + Manure,Yes,No
+55,55,Batch,Food Waste + Manure,Yes,Yes
+55,55,Batch,Food Waste + Oil,No,No
+55,55,Batch,Food Waste + Oil,No,Yes
+55,55,Batch,Food Waste + Oil,Yes,No
+55,55,Batch,Food Waste + Oil,Yes,Yes
+55,55,Batch,Manure + Wheat Straw,No,No
+55,55,Batch,Manure + Wheat Straw,No,Yes
+55,55,Batch,Manure + Wheat Straw,Yes,No
+55,55,Batch,Manure + Wheat Straw,Yes,Yes
+55,55,Batch,Food Waste + Sewage Sludge,No,No
+55,55,Batch,Food Waste + Sewage Sludge,No,Yes
+55,55,Batch,Food Waste + Sewage Sludge,Yes,No
+55,55,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,55,Semi-continuous,Manure,No,No
+55,55,Semi-continuous,Manure,No,Yes
+55,55,Semi-continuous,Manure,Yes,No
+55,55,Semi-continuous,Manure,Yes,Yes
+55,55,Semi-continuous,Food Waste,No,No
+55,55,Semi-continuous,Food Waste,No,Yes
+55,55,Semi-continuous,Food Waste,Yes,No
+55,55,Semi-continuous,Food Waste,Yes,Yes
+55,55,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,55,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,55,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,55,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,55,Semi-continuous,Sewage Sludge,No,No
+55,55,Semi-continuous,Sewage Sludge,No,Yes
+55,55,Semi-continuous,Sewage Sludge,Yes,No
+55,55,Semi-continuous,Sewage Sludge,Yes,Yes
+55,55,Semi-continuous,Food Waste + Manure,No,No
+55,55,Semi-continuous,Food Waste + Manure,No,Yes
+55,55,Semi-continuous,Food Waste + Manure,Yes,No
+55,55,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,55,Semi-continuous,Food Waste + Oil,No,No
+55,55,Semi-continuous,Food Waste + Oil,No,Yes
+55,55,Semi-continuous,Food Waste + Oil,Yes,No
+55,55,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,55,Semi-continuous,Manure + Wheat Straw,No,No
+55,55,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,55,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,55,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,55,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,55,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,55,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,55,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,65,Batch,Manure,No,No
+55,65,Batch,Manure,No,Yes
+55,65,Batch,Manure,Yes,No
+55,65,Batch,Manure,Yes,Yes
+55,65,Batch,Food Waste,No,No
+55,65,Batch,Food Waste,No,Yes
+55,65,Batch,Food Waste,Yes,No
+55,65,Batch,Food Waste,Yes,Yes
+55,65,Batch,Pharmaceutical Waste Sludge,No,No
+55,65,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,65,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,65,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,65,Batch,Sewage Sludge,No,No
+55,65,Batch,Sewage Sludge,No,Yes
+55,65,Batch,Sewage Sludge,Yes,No
+55,65,Batch,Sewage Sludge,Yes,Yes
+55,65,Batch,Food Waste + Manure,No,No
+55,65,Batch,Food Waste + Manure,No,Yes
+55,65,Batch,Food Waste + Manure,Yes,No
+55,65,Batch,Food Waste + Manure,Yes,Yes
+55,65,Batch,Food Waste + Oil,No,No
+55,65,Batch,Food Waste + Oil,No,Yes
+55,65,Batch,Food Waste + Oil,Yes,No
+55,65,Batch,Food Waste + Oil,Yes,Yes
+55,65,Batch,Manure + Wheat Straw,No,No
+55,65,Batch,Manure + Wheat Straw,No,Yes
+55,65,Batch,Manure + Wheat Straw,Yes,No
+55,65,Batch,Manure + Wheat Straw,Yes,Yes
+55,65,Batch,Food Waste + Sewage Sludge,No,No
+55,65,Batch,Food Waste + Sewage Sludge,No,Yes
+55,65,Batch,Food Waste + Sewage Sludge,Yes,No
+55,65,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,65,Semi-continuous,Manure,No,No
+55,65,Semi-continuous,Manure,No,Yes
+55,65,Semi-continuous,Manure,Yes,No
+55,65,Semi-continuous,Manure,Yes,Yes
+55,65,Semi-continuous,Food Waste,No,No
+55,65,Semi-continuous,Food Waste,No,Yes
+55,65,Semi-continuous,Food Waste,Yes,No
+55,65,Semi-continuous,Food Waste,Yes,Yes
+55,65,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,65,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,65,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,65,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,65,Semi-continuous,Sewage Sludge,No,No
+55,65,Semi-continuous,Sewage Sludge,No,Yes
+55,65,Semi-continuous,Sewage Sludge,Yes,No
+55,65,Semi-continuous,Sewage Sludge,Yes,Yes
+55,65,Semi-continuous,Food Waste + Manure,No,No
+55,65,Semi-continuous,Food Waste + Manure,No,Yes
+55,65,Semi-continuous,Food Waste + Manure,Yes,No
+55,65,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,65,Semi-continuous,Food Waste + Oil,No,No
+55,65,Semi-continuous,Food Waste + Oil,No,Yes
+55,65,Semi-continuous,Food Waste + Oil,Yes,No
+55,65,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,65,Semi-continuous,Manure + Wheat Straw,No,No
+55,65,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,65,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,65,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,65,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,65,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,65,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,65,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,75,Batch,Manure,No,No
+55,75,Batch,Manure,No,Yes
+55,75,Batch,Manure,Yes,No
+55,75,Batch,Manure,Yes,Yes
+55,75,Batch,Food Waste,No,No
+55,75,Batch,Food Waste,No,Yes
+55,75,Batch,Food Waste,Yes,No
+55,75,Batch,Food Waste,Yes,Yes
+55,75,Batch,Pharmaceutical Waste Sludge,No,No
+55,75,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,75,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,75,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,75,Batch,Sewage Sludge,No,No
+55,75,Batch,Sewage Sludge,No,Yes
+55,75,Batch,Sewage Sludge,Yes,No
+55,75,Batch,Sewage Sludge,Yes,Yes
+55,75,Batch,Food Waste + Manure,No,No
+55,75,Batch,Food Waste + Manure,No,Yes
+55,75,Batch,Food Waste + Manure,Yes,No
+55,75,Batch,Food Waste + Manure,Yes,Yes
+55,75,Batch,Food Waste + Oil,No,No
+55,75,Batch,Food Waste + Oil,No,Yes
+55,75,Batch,Food Waste + Oil,Yes,No
+55,75,Batch,Food Waste + Oil,Yes,Yes
+55,75,Batch,Manure + Wheat Straw,No,No
+55,75,Batch,Manure + Wheat Straw,No,Yes
+55,75,Batch,Manure + Wheat Straw,Yes,No
+55,75,Batch,Manure + Wheat Straw,Yes,Yes
+55,75,Batch,Food Waste + Sewage Sludge,No,No
+55,75,Batch,Food Waste + Sewage Sludge,No,Yes
+55,75,Batch,Food Waste + Sewage Sludge,Yes,No
+55,75,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,75,Semi-continuous,Manure,No,No
+55,75,Semi-continuous,Manure,No,Yes
+55,75,Semi-continuous,Manure,Yes,No
+55,75,Semi-continuous,Manure,Yes,Yes
+55,75,Semi-continuous,Food Waste,No,No
+55,75,Semi-continuous,Food Waste,No,Yes
+55,75,Semi-continuous,Food Waste,Yes,No
+55,75,Semi-continuous,Food Waste,Yes,Yes
+55,75,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,75,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,75,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,75,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,75,Semi-continuous,Sewage Sludge,No,No
+55,75,Semi-continuous,Sewage Sludge,No,Yes
+55,75,Semi-continuous,Sewage Sludge,Yes,No
+55,75,Semi-continuous,Sewage Sludge,Yes,Yes
+55,75,Semi-continuous,Food Waste + Manure,No,No
+55,75,Semi-continuous,Food Waste + Manure,No,Yes
+55,75,Semi-continuous,Food Waste + Manure,Yes,No
+55,75,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,75,Semi-continuous,Food Waste + Oil,No,No
+55,75,Semi-continuous,Food Waste + Oil,No,Yes
+55,75,Semi-continuous,Food Waste + Oil,Yes,No
+55,75,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,75,Semi-continuous,Manure + Wheat Straw,No,No
+55,75,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,75,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,75,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,75,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,75,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,75,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,75,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,85,Batch,Manure,No,No
+55,85,Batch,Manure,No,Yes
+55,85,Batch,Manure,Yes,No
+55,85,Batch,Manure,Yes,Yes
+55,85,Batch,Food Waste,No,No
+55,85,Batch,Food Waste,No,Yes
+55,85,Batch,Food Waste,Yes,No
+55,85,Batch,Food Waste,Yes,Yes
+55,85,Batch,Pharmaceutical Waste Sludge,No,No
+55,85,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,85,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,85,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,85,Batch,Sewage Sludge,No,No
+55,85,Batch,Sewage Sludge,No,Yes
+55,85,Batch,Sewage Sludge,Yes,No
+55,85,Batch,Sewage Sludge,Yes,Yes
+55,85,Batch,Food Waste + Manure,No,No
+55,85,Batch,Food Waste + Manure,No,Yes
+55,85,Batch,Food Waste + Manure,Yes,No
+55,85,Batch,Food Waste + Manure,Yes,Yes
+55,85,Batch,Food Waste + Oil,No,No
+55,85,Batch,Food Waste + Oil,No,Yes
+55,85,Batch,Food Waste + Oil,Yes,No
+55,85,Batch,Food Waste + Oil,Yes,Yes
+55,85,Batch,Manure + Wheat Straw,No,No
+55,85,Batch,Manure + Wheat Straw,No,Yes
+55,85,Batch,Manure + Wheat Straw,Yes,No
+55,85,Batch,Manure + Wheat Straw,Yes,Yes
+55,85,Batch,Food Waste + Sewage Sludge,No,No
+55,85,Batch,Food Waste + Sewage Sludge,No,Yes
+55,85,Batch,Food Waste + Sewage Sludge,Yes,No
+55,85,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,85,Semi-continuous,Manure,No,No
+55,85,Semi-continuous,Manure,No,Yes
+55,85,Semi-continuous,Manure,Yes,No
+55,85,Semi-continuous,Manure,Yes,Yes
+55,85,Semi-continuous,Food Waste,No,No
+55,85,Semi-continuous,Food Waste,No,Yes
+55,85,Semi-continuous,Food Waste,Yes,No
+55,85,Semi-continuous,Food Waste,Yes,Yes
+55,85,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,85,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,85,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,85,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,85,Semi-continuous,Sewage Sludge,No,No
+55,85,Semi-continuous,Sewage Sludge,No,Yes
+55,85,Semi-continuous,Sewage Sludge,Yes,No
+55,85,Semi-continuous,Sewage Sludge,Yes,Yes
+55,85,Semi-continuous,Food Waste + Manure,No,No
+55,85,Semi-continuous,Food Waste + Manure,No,Yes
+55,85,Semi-continuous,Food Waste + Manure,Yes,No
+55,85,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,85,Semi-continuous,Food Waste + Oil,No,No
+55,85,Semi-continuous,Food Waste + Oil,No,Yes
+55,85,Semi-continuous,Food Waste + Oil,Yes,No
+55,85,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,85,Semi-continuous,Manure + Wheat Straw,No,No
+55,85,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,85,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,85,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,85,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,85,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,85,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,85,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,95,Batch,Manure,No,No
+55,95,Batch,Manure,No,Yes
+55,95,Batch,Manure,Yes,No
+55,95,Batch,Manure,Yes,Yes
+55,95,Batch,Food Waste,No,No
+55,95,Batch,Food Waste,No,Yes
+55,95,Batch,Food Waste,Yes,No
+55,95,Batch,Food Waste,Yes,Yes
+55,95,Batch,Pharmaceutical Waste Sludge,No,No
+55,95,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,95,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,95,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,95,Batch,Sewage Sludge,No,No
+55,95,Batch,Sewage Sludge,No,Yes
+55,95,Batch,Sewage Sludge,Yes,No
+55,95,Batch,Sewage Sludge,Yes,Yes
+55,95,Batch,Food Waste + Manure,No,No
+55,95,Batch,Food Waste + Manure,No,Yes
+55,95,Batch,Food Waste + Manure,Yes,No
+55,95,Batch,Food Waste + Manure,Yes,Yes
+55,95,Batch,Food Waste + Oil,No,No
+55,95,Batch,Food Waste + Oil,No,Yes
+55,95,Batch,Food Waste + Oil,Yes,No
+55,95,Batch,Food Waste + Oil,Yes,Yes
+55,95,Batch,Manure + Wheat Straw,No,No
+55,95,Batch,Manure + Wheat Straw,No,Yes
+55,95,Batch,Manure + Wheat Straw,Yes,No
+55,95,Batch,Manure + Wheat Straw,Yes,Yes
+55,95,Batch,Food Waste + Sewage Sludge,No,No
+55,95,Batch,Food Waste + Sewage Sludge,No,Yes
+55,95,Batch,Food Waste + Sewage Sludge,Yes,No
+55,95,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,95,Semi-continuous,Manure,No,No
+55,95,Semi-continuous,Manure,No,Yes
+55,95,Semi-continuous,Manure,Yes,No
+55,95,Semi-continuous,Manure,Yes,Yes
+55,95,Semi-continuous,Food Waste,No,No
+55,95,Semi-continuous,Food Waste,No,Yes
+55,95,Semi-continuous,Food Waste,Yes,No
+55,95,Semi-continuous,Food Waste,Yes,Yes
+55,95,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,95,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,95,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,95,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,95,Semi-continuous,Sewage Sludge,No,No
+55,95,Semi-continuous,Sewage Sludge,No,Yes
+55,95,Semi-continuous,Sewage Sludge,Yes,No
+55,95,Semi-continuous,Sewage Sludge,Yes,Yes
+55,95,Semi-continuous,Food Waste + Manure,No,No
+55,95,Semi-continuous,Food Waste + Manure,No,Yes
+55,95,Semi-continuous,Food Waste + Manure,Yes,No
+55,95,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,95,Semi-continuous,Food Waste + Oil,No,No
+55,95,Semi-continuous,Food Waste + Oil,No,Yes
+55,95,Semi-continuous,Food Waste + Oil,Yes,No
+55,95,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,95,Semi-continuous,Manure + Wheat Straw,No,No
+55,95,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,95,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,95,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,95,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,95,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,95,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,95,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,105,Batch,Manure,No,No
+55,105,Batch,Manure,No,Yes
+55,105,Batch,Manure,Yes,No
+55,105,Batch,Manure,Yes,Yes
+55,105,Batch,Food Waste,No,No
+55,105,Batch,Food Waste,No,Yes
+55,105,Batch,Food Waste,Yes,No
+55,105,Batch,Food Waste,Yes,Yes
+55,105,Batch,Pharmaceutical Waste Sludge,No,No
+55,105,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,105,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,105,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,105,Batch,Sewage Sludge,No,No
+55,105,Batch,Sewage Sludge,No,Yes
+55,105,Batch,Sewage Sludge,Yes,No
+55,105,Batch,Sewage Sludge,Yes,Yes
+55,105,Batch,Food Waste + Manure,No,No
+55,105,Batch,Food Waste + Manure,No,Yes
+55,105,Batch,Food Waste + Manure,Yes,No
+55,105,Batch,Food Waste + Manure,Yes,Yes
+55,105,Batch,Food Waste + Oil,No,No
+55,105,Batch,Food Waste + Oil,No,Yes
+55,105,Batch,Food Waste + Oil,Yes,No
+55,105,Batch,Food Waste + Oil,Yes,Yes
+55,105,Batch,Manure + Wheat Straw,No,No
+55,105,Batch,Manure + Wheat Straw,No,Yes
+55,105,Batch,Manure + Wheat Straw,Yes,No
+55,105,Batch,Manure + Wheat Straw,Yes,Yes
+55,105,Batch,Food Waste + Sewage Sludge,No,No
+55,105,Batch,Food Waste + Sewage Sludge,No,Yes
+55,105,Batch,Food Waste + Sewage Sludge,Yes,No
+55,105,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,105,Semi-continuous,Manure,No,No
+55,105,Semi-continuous,Manure,No,Yes
+55,105,Semi-continuous,Manure,Yes,No
+55,105,Semi-continuous,Manure,Yes,Yes
+55,105,Semi-continuous,Food Waste,No,No
+55,105,Semi-continuous,Food Waste,No,Yes
+55,105,Semi-continuous,Food Waste,Yes,No
+55,105,Semi-continuous,Food Waste,Yes,Yes
+55,105,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,105,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,105,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,105,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,105,Semi-continuous,Sewage Sludge,No,No
+55,105,Semi-continuous,Sewage Sludge,No,Yes
+55,105,Semi-continuous,Sewage Sludge,Yes,No
+55,105,Semi-continuous,Sewage Sludge,Yes,Yes
+55,105,Semi-continuous,Food Waste + Manure,No,No
+55,105,Semi-continuous,Food Waste + Manure,No,Yes
+55,105,Semi-continuous,Food Waste + Manure,Yes,No
+55,105,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,105,Semi-continuous,Food Waste + Oil,No,No
+55,105,Semi-continuous,Food Waste + Oil,No,Yes
+55,105,Semi-continuous,Food Waste + Oil,Yes,No
+55,105,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,105,Semi-continuous,Manure + Wheat Straw,No,No
+55,105,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,105,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,105,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,105,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,105,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,105,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,105,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,115,Batch,Manure,No,No
+55,115,Batch,Manure,No,Yes
+55,115,Batch,Manure,Yes,No
+55,115,Batch,Manure,Yes,Yes
+55,115,Batch,Food Waste,No,No
+55,115,Batch,Food Waste,No,Yes
+55,115,Batch,Food Waste,Yes,No
+55,115,Batch,Food Waste,Yes,Yes
+55,115,Batch,Pharmaceutical Waste Sludge,No,No
+55,115,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,115,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,115,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,115,Batch,Sewage Sludge,No,No
+55,115,Batch,Sewage Sludge,No,Yes
+55,115,Batch,Sewage Sludge,Yes,No
+55,115,Batch,Sewage Sludge,Yes,Yes
+55,115,Batch,Food Waste + Manure,No,No
+55,115,Batch,Food Waste + Manure,No,Yes
+55,115,Batch,Food Waste + Manure,Yes,No
+55,115,Batch,Food Waste + Manure,Yes,Yes
+55,115,Batch,Food Waste + Oil,No,No
+55,115,Batch,Food Waste + Oil,No,Yes
+55,115,Batch,Food Waste + Oil,Yes,No
+55,115,Batch,Food Waste + Oil,Yes,Yes
+55,115,Batch,Manure + Wheat Straw,No,No
+55,115,Batch,Manure + Wheat Straw,No,Yes
+55,115,Batch,Manure + Wheat Straw,Yes,No
+55,115,Batch,Manure + Wheat Straw,Yes,Yes
+55,115,Batch,Food Waste + Sewage Sludge,No,No
+55,115,Batch,Food Waste + Sewage Sludge,No,Yes
+55,115,Batch,Food Waste + Sewage Sludge,Yes,No
+55,115,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,115,Semi-continuous,Manure,No,No
+55,115,Semi-continuous,Manure,No,Yes
+55,115,Semi-continuous,Manure,Yes,No
+55,115,Semi-continuous,Manure,Yes,Yes
+55,115,Semi-continuous,Food Waste,No,No
+55,115,Semi-continuous,Food Waste,No,Yes
+55,115,Semi-continuous,Food Waste,Yes,No
+55,115,Semi-continuous,Food Waste,Yes,Yes
+55,115,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,115,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,115,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,115,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,115,Semi-continuous,Sewage Sludge,No,No
+55,115,Semi-continuous,Sewage Sludge,No,Yes
+55,115,Semi-continuous,Sewage Sludge,Yes,No
+55,115,Semi-continuous,Sewage Sludge,Yes,Yes
+55,115,Semi-continuous,Food Waste + Manure,No,No
+55,115,Semi-continuous,Food Waste + Manure,No,Yes
+55,115,Semi-continuous,Food Waste + Manure,Yes,No
+55,115,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,115,Semi-continuous,Food Waste + Oil,No,No
+55,115,Semi-continuous,Food Waste + Oil,No,Yes
+55,115,Semi-continuous,Food Waste + Oil,Yes,No
+55,115,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,115,Semi-continuous,Manure + Wheat Straw,No,No
+55,115,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,115,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,115,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,115,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,115,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,115,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,115,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,125,Batch,Manure,No,No
+55,125,Batch,Manure,No,Yes
+55,125,Batch,Manure,Yes,No
+55,125,Batch,Manure,Yes,Yes
+55,125,Batch,Food Waste,No,No
+55,125,Batch,Food Waste,No,Yes
+55,125,Batch,Food Waste,Yes,No
+55,125,Batch,Food Waste,Yes,Yes
+55,125,Batch,Pharmaceutical Waste Sludge,No,No
+55,125,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,125,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,125,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,125,Batch,Sewage Sludge,No,No
+55,125,Batch,Sewage Sludge,No,Yes
+55,125,Batch,Sewage Sludge,Yes,No
+55,125,Batch,Sewage Sludge,Yes,Yes
+55,125,Batch,Food Waste + Manure,No,No
+55,125,Batch,Food Waste + Manure,No,Yes
+55,125,Batch,Food Waste + Manure,Yes,No
+55,125,Batch,Food Waste + Manure,Yes,Yes
+55,125,Batch,Food Waste + Oil,No,No
+55,125,Batch,Food Waste + Oil,No,Yes
+55,125,Batch,Food Waste + Oil,Yes,No
+55,125,Batch,Food Waste + Oil,Yes,Yes
+55,125,Batch,Manure + Wheat Straw,No,No
+55,125,Batch,Manure + Wheat Straw,No,Yes
+55,125,Batch,Manure + Wheat Straw,Yes,No
+55,125,Batch,Manure + Wheat Straw,Yes,Yes
+55,125,Batch,Food Waste + Sewage Sludge,No,No
+55,125,Batch,Food Waste + Sewage Sludge,No,Yes
+55,125,Batch,Food Waste + Sewage Sludge,Yes,No
+55,125,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,125,Semi-continuous,Manure,No,No
+55,125,Semi-continuous,Manure,No,Yes
+55,125,Semi-continuous,Manure,Yes,No
+55,125,Semi-continuous,Manure,Yes,Yes
+55,125,Semi-continuous,Food Waste,No,No
+55,125,Semi-continuous,Food Waste,No,Yes
+55,125,Semi-continuous,Food Waste,Yes,No
+55,125,Semi-continuous,Food Waste,Yes,Yes
+55,125,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,125,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,125,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,125,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,125,Semi-continuous,Sewage Sludge,No,No
+55,125,Semi-continuous,Sewage Sludge,No,Yes
+55,125,Semi-continuous,Sewage Sludge,Yes,No
+55,125,Semi-continuous,Sewage Sludge,Yes,Yes
+55,125,Semi-continuous,Food Waste + Manure,No,No
+55,125,Semi-continuous,Food Waste + Manure,No,Yes
+55,125,Semi-continuous,Food Waste + Manure,Yes,No
+55,125,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,125,Semi-continuous,Food Waste + Oil,No,No
+55,125,Semi-continuous,Food Waste + Oil,No,Yes
+55,125,Semi-continuous,Food Waste + Oil,Yes,No
+55,125,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,125,Semi-continuous,Manure + Wheat Straw,No,No
+55,125,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,125,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,125,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,125,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,125,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,125,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,125,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
+55,135,Batch,Manure,No,No
+55,135,Batch,Manure,No,Yes
+55,135,Batch,Manure,Yes,No
+55,135,Batch,Manure,Yes,Yes
+55,135,Batch,Food Waste,No,No
+55,135,Batch,Food Waste,No,Yes
+55,135,Batch,Food Waste,Yes,No
+55,135,Batch,Food Waste,Yes,Yes
+55,135,Batch,Pharmaceutical Waste Sludge,No,No
+55,135,Batch,Pharmaceutical Waste Sludge,No,Yes
+55,135,Batch,Pharmaceutical Waste Sludge,Yes,No
+55,135,Batch,Pharmaceutical Waste Sludge,Yes,Yes
+55,135,Batch,Sewage Sludge,No,No
+55,135,Batch,Sewage Sludge,No,Yes
+55,135,Batch,Sewage Sludge,Yes,No
+55,135,Batch,Sewage Sludge,Yes,Yes
+55,135,Batch,Food Waste + Manure,No,No
+55,135,Batch,Food Waste + Manure,No,Yes
+55,135,Batch,Food Waste + Manure,Yes,No
+55,135,Batch,Food Waste + Manure,Yes,Yes
+55,135,Batch,Food Waste + Oil,No,No
+55,135,Batch,Food Waste + Oil,No,Yes
+55,135,Batch,Food Waste + Oil,Yes,No
+55,135,Batch,Food Waste + Oil,Yes,Yes
+55,135,Batch,Manure + Wheat Straw,No,No
+55,135,Batch,Manure + Wheat Straw,No,Yes
+55,135,Batch,Manure + Wheat Straw,Yes,No
+55,135,Batch,Manure + Wheat Straw,Yes,Yes
+55,135,Batch,Food Waste + Sewage Sludge,No,No
+55,135,Batch,Food Waste + Sewage Sludge,No,Yes
+55,135,Batch,Food Waste + Sewage Sludge,Yes,No
+55,135,Batch,Food Waste + Sewage Sludge,Yes,Yes
+55,135,Semi-continuous,Manure,No,No
+55,135,Semi-continuous,Manure,No,Yes
+55,135,Semi-continuous,Manure,Yes,No
+55,135,Semi-continuous,Manure,Yes,Yes
+55,135,Semi-continuous,Food Waste,No,No
+55,135,Semi-continuous,Food Waste,No,Yes
+55,135,Semi-continuous,Food Waste,Yes,No
+55,135,Semi-continuous,Food Waste,Yes,Yes
+55,135,Semi-continuous,Pharmaceutical Waste Sludge,No,No
+55,135,Semi-continuous,Pharmaceutical Waste Sludge,No,Yes
+55,135,Semi-continuous,Pharmaceutical Waste Sludge,Yes,No
+55,135,Semi-continuous,Pharmaceutical Waste Sludge,Yes,Yes
+55,135,Semi-continuous,Sewage Sludge,No,No
+55,135,Semi-continuous,Sewage Sludge,No,Yes
+55,135,Semi-continuous,Sewage Sludge,Yes,No
+55,135,Semi-continuous,Sewage Sludge,Yes,Yes
+55,135,Semi-continuous,Food Waste + Manure,No,No
+55,135,Semi-continuous,Food Waste + Manure,No,Yes
+55,135,Semi-continuous,Food Waste + Manure,Yes,No
+55,135,Semi-continuous,Food Waste + Manure,Yes,Yes
+55,135,Semi-continuous,Food Waste + Oil,No,No
+55,135,Semi-continuous,Food Waste + Oil,No,Yes
+55,135,Semi-continuous,Food Waste + Oil,Yes,No
+55,135,Semi-continuous,Food Waste + Oil,Yes,Yes
+55,135,Semi-continuous,Manure + Wheat Straw,No,No
+55,135,Semi-continuous,Manure + Wheat Straw,No,Yes
+55,135,Semi-continuous,Manure + Wheat Straw,Yes,No
+55,135,Semi-continuous,Manure + Wheat Straw,Yes,Yes
+55,135,Semi-continuous,Food Waste + Sewage Sludge,No,No
+55,135,Semi-continuous,Food Waste + Sewage Sludge,No,Yes
+55,135,Semi-continuous,Food Waste + Sewage Sludge,Yes,No
+55,135,Semi-continuous,Food Waste + Sewage Sludge,Yes,Yes
